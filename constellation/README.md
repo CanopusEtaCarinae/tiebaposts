@@ -31,4 +31,4 @@
 
 黄道星座之一，冬夜著名星座。可通过找猎户座【【链接】】西北（右上）处一颗橙红色亮星（毕宿五）及其附近一组恒星（主要是[毕星团](https://zh.wikipedia.org/wiki/%E7%95%A2%E5%AE%BF%E6%98%9F%E5%9C%98)的成员）组成的V字形找到金牛座的主体部分。再西北处的一小团模糊天体（视力甚至能分辨主要亮星）即昴星团。
 
-主要神话：[腓尼基公主欧罗巴（Europa）的化身](https://zh.wikipedia.org/wiki/%E6%AC%A7%E7%BD%97%E5%B7%B4)；[牛首人身怪米诺陶洛斯](https://zh.wikipedia.org/wiki/%E5%BC%A5%E8%AF%BA%E9%99%B6%E6%B4%9B%E6%96%AF)、[伊娥的化身](https://zh.wikipedia.org/wiki/%E4%BC%8A%E4%BF%84)。当中与本作剧情关系不大的故事可自行查找了解
+主要相关神话：[腓尼基公主欧罗巴（Europa）的化身](https://zh.wikipedia.org/wiki/%E6%AC%A7%E7%BD%97%E5%B7%B4)；[牛首人身怪米诺陶洛斯](https://zh.wikipedia.org/wiki/%E5%BC%A5%E8%AF%BA%E9%99%B6%E6%B4%9B%E6%96%AF)、[伊娥的化身](https://zh.wikipedia.org/wiki/%E4%BC%8A%E4%BF%84)。当中与本作剧情关系不大的故事可自行查找了解
