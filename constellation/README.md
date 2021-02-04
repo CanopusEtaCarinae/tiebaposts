@@ -22,9 +22,12 @@
 
 相关内容：菜月昴（引用昴星团）、Pleiades监视塔（プレアデス監視塔，同样引用昴星团）、Al/Aldebaran（アル/アルデバラン，金牛座α，中名毕宿五）
 
+
+
+
 **概况**
 
-![](https://github.com/CanopusEtaCarinae/tiebapoststree/master/constellation/images/Taurus_IAU.svg)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/constellation/images/Taurus_IAU.png)
 
 黄道星座之一，冬夜著名星座。可通过找猎户座【【链接】】西北（右上）处一颗橙红色亮星（毕宿五）及其附近一组恒星（主要是[毕星团](https://zh.wikipedia.org/wiki/%E7%95%A2%E5%AE%BF%E6%98%9F%E5%9C%98)的成员）组成的V字形找到金牛座的主体部分。再西北处的一小团模糊天体（视力甚至能分辨主要亮星）即昴星团。
 
