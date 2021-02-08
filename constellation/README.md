@@ -176,7 +176,7 @@ web版说Vega听起来很强，或许是因为织女是全天第五亮星，同�
 
 #### 大犬座概况
 
-![](https://github.com/CanopusEtaCarinae/t iebaposts/blob/master/constellation/images/Canis_Major_IAU.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/constellation/images/Canis_Major_IAU.png)
 
 [大犬座](https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%8A%AC%E5%BA%A7)同为冬季星座，位于猎户座东南（左下），其最亮星天狼星为全天除太阳外的最亮恒星，很显眼
 
