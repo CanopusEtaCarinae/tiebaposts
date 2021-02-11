@@ -319,7 +319,7 @@ Re0中暴食司教有三个，其姓氏分别来源于鲸鱼座、长蛇座和�
 
 #### 天兔座概况
 
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/constellation/images/Hydra_IAU.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/constellation/images/Lepus_IAU.png)
 
 [天兔座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%85%94%E5%BA%A7)为冬季的一个小星座，位于猎户座的正下方。天气晴好光害不大的话在猎户座脚下不难找到它。天兔座在神话中存在感也不高，似乎就是在猎户Orion和其猎犬大犬座升上天界以后持续追赶狩猎的兔子，此外就没什么特别的了。
 
