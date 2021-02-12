@@ -18,6 +18,7 @@
 #### [7、长蛇座相关(暴食大罪司教『恶食』)](#长蛇座)
 #### [8、天兔座相关(暴食大罪司教『饱食』)](#天兔座)
 #### [9、天蝎座相关(夏乌拉，监视塔三层谜题)](#天蝎座)
+#### [10、小行星相关(大罪魔女)](#小行星相关)
 
 
 ---
@@ -363,3 +364,62 @@ Re0中暴食司教有三个，其姓氏分别来源于鲸鱼座、长蛇座和�
 [尾宿八](https://zh.wikipedia.org/wiki/%E5%B0%BE%E5%AE%BF%E5%85%AB)即天蝎座λ星，天蝎座第二亮星，位于天蝎座尾端。其西名Shaula源自阿拉伯语，意为“翘起的尾巴”，和尾宿八在天蝎座中的位置相符。本作里即是夏乌拉的名字，且在夏乌拉身上这个其涵义体现颇多，如夏乌拉的辫子是叫“蝎子辫”，以及监视塔书库谜题“Shaula所毁灭的英雄”就理解成了“蝎尾所杀死的英雄”（即猎户）；同时由于蝎尾上有尾针，因此在本作中Shaula除了尾巴的含义，还多次被引申为了“针”，比如夏乌拉在攻击时用的狙击魔法就体现出“针”的特点，以及魔兽蝎子形态的夏乌拉的尾针攻击。（[Web第六章19节](https://tieba.baidu.com/p/5092186360)/22卷第二章第2节486说Shaula就是“针”，不过我在查资料时除了尾巴并没有直接看到“针”的意思，于是我就在这里写是引申义了）
 
 [返回目录](#目录)
+
+---
+
+### 室女座
+
+相关内容：if线486和蕾姆之女Spica，名字取自室女座α星，中名角宿一，西名Spica
+
+#### 室女座概况
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/constellation/images/Virgo_IAU.png)
+
+[室女座](https://zh.wikipedia.org/wiki/%E5%AE%A4%E5%A5%B3%E5%BA%A7)为黄道星座之一，位于狮子座之东，为全天第二大星座。最亮星为α星角宿一。除角宿一外其余恒星没有很突出的了。
+
+室女座的神话也有两说法，一种说法为宙斯的姐姐，农神和丰收女神得墨忒耳的化身；另一说法为正义女神阿斯特赖亚（Astraea）的化身（听上去很像Re0剑圣家族的姓氏Astrea，甚至也有说法讲Astrea就是Astraea的另一种写法）。由于室女座在本作不是很重要，故神话就不在此具体叙述。剑圣家族的性氏目前也暂未确认和室女座有关
+
+#### 角宿一
+
+
+角宿一即室女座α星，其西名Spica源于拉丁语spīca virginis，意为“室女的麦穗”，在很多星座形象图里角宿一的位置就是画成了室女所手持的一根麦穗。同上由于Spica仅在if线出场作为486与蕾姆之女，目测也没有什么坑，故暂不在此多引用资料。蕾姆if如今作者已不再续写，估计也不会有可挖掘的线索了
+
+<details>
+<summary>【小知识（点击展开）】</summary>
+角宿一也是一个分光双星系统，由一颗蓝白色巨星和一颗蓝白色主序星构成。
+</details>
+
+[返回目录](#目录)
+
+---
+
+&nbsp;
+
+### 小行星相关
+
+除以上的恒星相关文化外，本作中的大罪魔女还使用了一些小行星名来取名。不过目前看除借用了个名字外并没有和剧情设定有什么确实联系。故仅在此大致列一下，不多做具体神话引用（部分参考[瀟藭樖大佬的帖子内容](https://tieba.baidu.com/p/6520165932)）
+
+&nbsp;
+
+『傲慢』魔女Typhon：小行星[42355 Typhon](https://en.wikipedia.org/wiki/42355_Typhon)，中译台神星（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=20049)），为[黄道离散天体](https://zh.wikipedia.org/wiki/%E9%9B%A2%E6%95%A3%E7%9B%A4)。名取自希腊神话中的万妖之祖[堤丰](https://zh.wikipedia.org/wiki/%E5%A0%A4%E4%B8%B0)。值得一提的是本作里的Typhon日文原文是テュフォン，而日语里的小行星42355是テュフォン，神话的Typhon则有好几种写法如「テューポーン」「テュポン」「テュポーン」「テュポエウス」「テュフォン」「ティフォン」。本作看样子是直接取的小行星名了
+
+『强欲』魔女Echidna：台神星的卫星，也译台卫（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=20050)），名取自万妖之祖堤丰之妻[厄客德娜](https://zh.wikipedia.org/wiki/%E5%8E%84%E5%AE%A2%E5%BE%B7%E5%A8%9C)
+
+『怠惰』魔女Sekhmet：小行星[5381 Sekhmet](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F5381)，中译狮女星译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=3767)，为阿登型[近地小行星](https://zh.wikipedia.org/wiki/%E8%BF%91%E5%9C%B0%E5%B0%8F%E8%A1%8C%E6%98%9F)。名取自埃及神话中的母狮神[塞赫麦特](https://zh.wikipedia.org/wiki/%E5%A1%9E%E8%B5%AB%E9%BA%A6%E7%89%B9)
+
+『愤怒』魔女Minerva：小行星[93 Minerva](https://zh.wikipedia.org/wiki/%E6%85%A7%E7%A5%9E%E6%98%9F)，中译慧神星，为主带小行星。名取自罗马神话中的智慧女神[弥涅耳瓦](https://zh.wikipedia.org/wiki/%E5%BC%A5%E6%B6%85%E8%80%B3%E7%93%A6)，也即[雅典娜](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%85%B8%E5%A8%9C)的罗马版。不过本作这里Minerva的日文为 **ミネルウァ** ，而93号小行星的日译则为 **ミネルバ** ，神话Minerva日译则是 **ミネルウァ** ，这倒是和Typhon反过来取成神话版的名字了
+
+『暴食』魔女Daphne：小行星[41 Daphne](https://zh.wikipedia.org/wiki/%E6%A1%82%E7%A5%9E%E6%98%9F)，中译桂神星，主带小行星。名取自希腊神话中的一个宁芙[达佛涅](https://zh.wikipedia.org/wiki/%E8%BE%BE%E4%BD%9B%E6%B6%85)。然后又是日语原文的问题——本作的Daphne日文为 **ダプネ** 小行星41号的日译为相同的 **ダプネ** ，而神话Daphne日译则为 **ダプネー** ，多了个长音。又和Typhon一样取小行星名了
+
+『色欲』魔女Carmilla：小行星[107 Camilla](https://zh.wikipedia.org/wiki/%E9%A9%B6%E7%A5%9E%E6%98%9F)，中译驶神星，主带小行星。名取自罗马神话中月神[狄安娜](https://zh.wikipedia.org/wiki/%E7%8B%84%E9%98%BF%E5%A8%9C)的从者[卡米拉](https://en.wikipedia.org/wiki/Camilla_(mythology))。这个问题就大一些，本作人里的色欲魔女名为 **カーミラ** ，官方人设给出的拉丁拼写为 **Carmilla** ；而神话中对应的则是 **カミラ** ，对应拼写**Camilla** ，这下英文拼写也不一样了。按规律其他魔女都出自小行星，至少英文拼写没错，Carmilla这个倒是很特立独行，不清楚老贼有何用意了。
+
+『虚饰』魔女Pandora：小行星[55 Pandora](https://zh.wikipedia.org/wiki/%E7%A5%B8%E7%A5%9E%E6%98%9F)，中译祸神星，主带小行星。名即取自希腊神话中打开魔盒的[潘多拉](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%A4%9A%E6%8B%89)。此外[土卫十七](https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%8D%AB%E5%8D%81%E4%B8%83)的西名也是与祸神星相同的Pandora
+
+『忧郁』魔人Hector：小行星[624 Hektor](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F624)，中译赫克托（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=1796)），为木星最大的[特洛伊小行星](https://zh.wikipedia.org/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%E5%B0%8F%E8%A1%8C%E6%98%9F)。名取词特洛伊战争中特洛伊阵营第一勇士[赫克托耳](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%85%8B%E6%89%98%E8%80%B3)。说起来神话里的 **Hector** 和小行星 **Hektor** 拼写不一样，而日语则是前者 **ヘクトール** ，后者 **ヘクトル** ，本作取的是前者，因此虽然目前忧郁没有官方人设拉丁拼写，我还是按这情况取前者了。
+
+&nbsp;
+
+以上是取自小行星的大罪魔女/魔人。可看到给这些小行星取名的神祇一会希腊的，一会罗马的，还有一个直接是埃及的。从这看来似乎老贼真就纯粹是从小行星取名而恐怕不是要在剧情上对应相应的神话传说了
+
+[返回目录](#目录)
+
