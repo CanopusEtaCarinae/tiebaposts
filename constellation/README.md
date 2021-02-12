@@ -401,28 +401,28 @@ Re0中暴食司教有三个，其姓氏分别来源于鲸鱼座、长蛇座和�
 
 &nbsp;
 
-**『傲慢』魔女Typhon** ：小行星[42355 Typhon](https://en.wikipedia.org/wiki/42355_Typhon)，中译台神星（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=20049)），为[黄道离散天体](https://zh.wikipedia.org/wiki/%E9%9B%A2%E6%95%A3%E7%9B%A4)。名取自希腊神话中的万妖之祖[堤丰](https://zh.wikipedia.org/wiki/%E5%A0%A4%E4%B8%B0)。值得一提的是本作里的Typhon日文原文是テュフォン，而日语里的小行星42355是テュフォン，神话的Typhon则有好几种写法如「テューポーン」「テュポン」「テュポーン」「テュポエウス」「テュフォン」「ティフォン」。本作看样子是直接取的小行星名了
+**『傲慢』魔女Typhon** ：小行星[42355 Typhon](https://en.wikipedia.org/wiki/42355_Typhon)，中译台神星（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=20049)），为[黄道离散天体](https://zh.wikipedia.org/wiki/%E9%9B%A2%E6%95%A3%E7%9B%A4)。名取自希腊神话中的万妖之祖[堤丰](https://zh.wikipedia.org/wiki/%E5%A0%A4%E4%B8%B0)。值得一提的是本作里的Typhon日文原文是テュフォン，而日语里的小行星42355是テュフォン，神话的Typhon则有好几种写法如「テューポーン」「テュポン」「テュポーン」「テュポエウス」「テュフォン」「ティフォン」。本作看样子是直接取的小行星名了<br/>
 <br/>
 
-**『强欲』魔女Echidna** ：台神星的卫星，也译台卫（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=20050)），名取自万妖之祖堤丰之妻[厄客德娜](https://zh.wikipedia.org/wiki/%E5%8E%84%E5%AE%A2%E5%BE%B7%E5%A8%9C)
+**『强欲』魔女Echidna** ：台神星的卫星，也译台卫（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=20050)），名取自万妖之祖堤丰之妻[厄客德娜](https://zh.wikipedia.org/wiki/%E5%8E%84%E5%AE%A2%E5%BE%B7%E5%A8%9C)<br/>
 <br/>
 
-**『怠惰』魔女Sekhmet** ：小行星[5381 Sekhmet](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F5381)，中译狮女星译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=3767)，为阿登型[近地小行星](https://zh.wikipedia.org/wiki/%E8%BF%91%E5%9C%B0%E5%B0%8F%E8%A1%8C%E6%98%9F)。名取自埃及神话中的母狮神[塞赫麦特](https://zh.wikipedia.org/wiki/%E5%A1%9E%E8%B5%AB%E9%BA%A6%E7%89%B9)
+**『怠惰』魔女Sekhmet** ：小行星[5381 Sekhmet](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F5381)，中译狮女星译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=3767)，为阿登型[近地小行星](https://zh.wikipedia.org/wiki/%E8%BF%91%E5%9C%B0%E5%B0%8F%E8%A1%8C%E6%98%9F)。名取自埃及神话中的母狮神[塞赫麦特](https://zh.wikipedia.org/wiki/%E5%A1%9E%E8%B5%AB%E9%BA%A6%E7%89%B9)<br/>
 <br/>
 
-**『愤怒』魔女Minerva** ：小行星[93 Minerva](https://zh.wikipedia.org/wiki/%E6%85%A7%E7%A5%9E%E6%98%9F)，中译慧神星，为主带小行星。名取自罗马神话中的智慧女神[弥涅耳瓦](https://zh.wikipedia.org/wiki/%E5%BC%A5%E6%B6%85%E8%80%B3%E7%93%A6)，也即[雅典娜](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%85%B8%E5%A8%9C)的罗马版。不过本作这里Minerva的日文为 **ミネルウァ** ，而93号小行星的日译则为 **ミネルバ** ，神话Minerva日译则是 **ミネルウァ** ，这倒是和Typhon反过来取成神话版的名字了
+**『愤怒』魔女Minerva** ：小行星[93 Minerva](https://zh.wikipedia.org/wiki/%E6%85%A7%E7%A5%9E%E6%98%9F)，中译慧神星，为主带小行星。名取自罗马神话中的智慧女神[弥涅耳瓦](https://zh.wikipedia.org/wiki/%E5%BC%A5%E6%B6%85%E8%80%B3%E7%93%A6)，也即[雅典娜](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%85%B8%E5%A8%9C)的罗马版。不过本作这里Minerva的日文为 **ミネルウァ** ，而93号小行星的日译则为 **ミネルバ** ，神话Minerva日译则是 **ミネルウァ** ，这倒是和Typhon反过来取成神话版的名字了<br/>
 <br/>
 
-**『暴食』魔女Daphne** ：小行星[41 Daphne](https://zh.wikipedia.org/wiki/%E6%A1%82%E7%A5%9E%E6%98%9F)，中译桂神星，主带小行星。名取自希腊神话中的一个宁芙[达佛涅](https://zh.wikipedia.org/wiki/%E8%BE%BE%E4%BD%9B%E6%B6%85)。然后又是日语原文的问题——本作的Daphne日文为 **ダプネ** 小行星41号的日译为相同的 **ダプネ** ，而神话Daphne日译则为 **ダプネー** ，多了个长音。又和Typhon一样取小行星名了
+**『暴食』魔女Daphne** ：小行星[41 Daphne](https://zh.wikipedia.org/wiki/%E6%A1%82%E7%A5%9E%E6%98%9F)，中译桂神星，主带小行星。名取自希腊神话中的一个宁芙[达佛涅](https://zh.wikipedia.org/wiki/%E8%BE%BE%E4%BD%9B%E6%B6%85)。然后又是日语原文的问题——本作的Daphne日文为 **ダプネ** 小行星41号的日译为相同的 **ダプネ** ，而神话Daphne日译则为 **ダプネー** ，多了个长音。又和Typhon一样取小行星名了<br/>
 <br/>
 
-**『色欲』魔女Carmilla** ：小行星[107 Camilla](https://zh.wikipedia.org/wiki/%E9%A9%B6%E7%A5%9E%E6%98%9F)，中译驶神星，主带小行星。名取自罗马神话中月神[狄安娜](https://zh.wikipedia.org/wiki/%E7%8B%84%E9%98%BF%E5%A8%9C)的从者[卡米拉](https://en.wikipedia.org/wiki/Camilla_(mythology))。这个问题就大一些，本作人里的色欲魔女名为 **カーミラ** ，官方人设给出的拉丁拼写为 **Carmilla** ；而神话中对应的则是 **カミラ** ，对应拼写**Camilla** ，这下英文拼写也不一样了。按规律其他魔女都出自小行星，至少英文拼写没错，Carmilla这个倒是很特立独行，不清楚老贼有何用意了。
+**『色欲』魔女Carmilla** ：小行星[107 Camilla](https://zh.wikipedia.org/wiki/%E9%A9%B6%E7%A5%9E%E6%98%9F)，中译驶神星，主带小行星。名取自罗马神话中月神[狄安娜](https://zh.wikipedia.org/wiki/%E7%8B%84%E9%98%BF%E5%A8%9C)的从者[卡米拉](https://en.wikipedia.org/wiki/Camilla_(mythology))。这个问题就大一些，本作人里的色欲魔女名为 **カーミラ** ，官方人设给出的拉丁拼写为 **Carmilla** ；而神话中对应的则是 **カミラ** ，对应拼写**Camilla** ，这下英文拼写也不一样了。按规律其他魔女都出自小行星，至少英文拼写没错，Carmilla这个倒是很特立独行，不清楚老贼有何用意了。<br/>
 <br/>
 
-**『虚饰』魔女Pandora** ：小行星[55 Pandora](https://zh.wikipedia.org/wiki/%E7%A5%B8%E7%A5%9E%E6%98%9F)，中译祸神星，主带小行星。名即取自希腊神话中打开魔盒的[潘多拉](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%A4%9A%E6%8B%89)。此外[土卫十七](https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%8D%AB%E5%8D%81%E4%B8%83)的西名也是与祸神星相同的Pandora
+**『虚饰』魔女Pandora** ：小行星[55 Pandora](https://zh.wikipedia.org/wiki/%E7%A5%B8%E7%A5%9E%E6%98%9F)，中译祸神星，主带小行星。名即取自希腊神话中打开魔盒的[潘多拉](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%A4%9A%E6%8B%89)。此外[土卫十七](https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%8D%AB%E5%8D%81%E4%B8%83)的西名也是与祸神星相同的Pandora<br/>
 <br/>
 
-**『忧郁』魔人Hector** ：小行星[624 Hektor](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F624)，中译赫克托（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=1796)），为木星最大的[特洛伊小行星](https://zh.wikipedia.org/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%E5%B0%8F%E8%A1%8C%E6%98%9F)。名取词特洛伊战争中特洛伊阵营第一勇士[赫克托耳](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%85%8B%E6%89%98%E8%80%B3)。说起来神话里的 **Hector** 和小行星 **Hektor** 拼写不一样，而日语则是前者 **ヘクトール** ，后者 **ヘクトル** ，本作取的是前者，因此虽然目前忧郁没有官方人设拉丁拼写，我还是按这情况取前者了。
+**『忧郁』魔人Hector** ：小行星[624 Hektor](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F624)，中译赫克托（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=1796)），为木星最大的[特洛伊小行星](https://zh.wikipedia.org/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%E5%B0%8F%E8%A1%8C%E6%98%9F)。名取词特洛伊战争中特洛伊阵营第一勇士[赫克托耳](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%85%8B%E6%89%98%E8%80%B3)。说起来神话里的 **Hector** 和小行星 **Hektor** 拼写不一样，而日语则是前者 **ヘクトール** ，后者 **ヘクトル** ，本作取的是前者，因此虽然目前忧郁没有官方人设拉丁拼写，我还是按这情况取前者了。<br/>
 
 &nbsp;
 
