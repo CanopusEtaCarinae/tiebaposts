@@ -416,7 +416,7 @@ Re0中暴食司教有三个，其姓氏分别来源于鲸鱼座、长蛇座和�
 **『暴食』魔女Daphne** ：小行星[41 Daphne](https://zh.wikipedia.org/wiki/%E6%A1%82%E7%A5%9E%E6%98%9F)，中译桂神星，主带小行星。名取自希腊神话中的一个宁芙[达佛涅](https://zh.wikipedia.org/wiki/%E8%BE%BE%E4%BD%9B%E6%B6%85)。然后又是日语原文的问题——本作的Daphne日文为 **ダプネ** 小行星41号的日译为相同的 **ダプネ** ，而神话Daphne日译则为 **ダプネー** ，多了个长音。又和Typhon一样取小行星名了<br/>
 <br/>
 
-**『色欲』魔女Carmilla** ：小行星[107 Camilla](https://zh.wikipedia.org/wiki/%E9%A9%B6%E7%A5%9E%E6%98%9F)，中译驶神星，主带小行星。名取自罗马神话中月神[狄安娜](https://zh.wikipedia.org/wiki/%E7%8B%84%E9%98%BF%E5%A8%9C)的从者[卡米拉](https://en.wikipedia.org/wiki/Camilla_(mythology))。这个问题就大一些，本作人里的色欲魔女名为 **カーミラ** ，官方人设给出的拉丁拼写为 **Carmilla** ；而神话中对应的则是 **カミラ** ，对应拼写**Camilla** ，这下英文拼写也不一样了。按规律其他魔女都出自小行星，至少英文拼写没错，Carmilla这个倒是很特立独行，不清楚老贼有何用意了。<br/>
+**『色欲』魔女Carmilla** ：小行星[107 Camilla](https://zh.wikipedia.org/wiki/%E9%A9%B6%E7%A5%9E%E6%98%9F)，中译驶神星，主带小行星。名取自罗马神话中月神[狄安娜](https://zh.wikipedia.org/wiki/%E7%8B%84%E9%98%BF%E5%A8%9C)的从者[卡米拉](https://en.wikipedia.org/wiki/Camilla_(mythology))。这个问题就大一些，本作人里的色欲魔女名为 **カーミラ** ，官方人设给出的拉丁拼写为 **Carmilla** ；而神话中对应的则是 **カミラ** ，对应拼写**Camilla** ，这下英文拼写也不一样了。按规律其他魔女都出自小行星且虽然日语有出入但英文拼写一样，Carmilla这个倒是很特立独行，不清楚老贼有何用意了。<br/>
 <br/>
 
 **『虚饰』魔女Pandora** ：小行星[55 Pandora](https://zh.wikipedia.org/wiki/%E7%A5%B8%E7%A5%9E%E6%98%9F)，中译祸神星，主带小行星。名即取自希腊神话中打开魔盒的[潘多拉](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%A4%9A%E6%8B%89)。此外[土卫十七](https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%8D%AB%E5%8D%81%E4%B8%83)的西名也是与祸神星相同的Pandora<br/>
