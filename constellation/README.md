@@ -413,7 +413,7 @@ Re0中暴食司教有三个，其姓氏分别来源于鲸鱼座、长蛇座和�
 **『愤怒』魔女Minerva** ：小行星[93 Minerva](https://zh.wikipedia.org/wiki/%E6%85%A7%E7%A5%9E%E6%98%9F)，中译慧神星，为主带小行星。名取自罗马神话中的智慧女神[弥涅耳瓦](https://zh.wikipedia.org/wiki/%E5%BC%A5%E6%B6%85%E8%80%B3%E7%93%A6)，也即[雅典娜](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%85%B8%E5%A8%9C)的罗马版。不过本作这里Minerva的日文为 **ミネルウァ** ，而93号小行星的日译是 **ミネルバ** ，神话Minerva日译则是和本作一样的 **ミネルウァ** ，这倒是和Typhon反过来取成神话版的名字了<br/>
 <br/>
 
-**『暴食』魔女Daphne** ：小行星[41 Daphne](https://zh.wikipedia.org/wiki/%E6%A1%82%E7%A5%9E%E6%98%9F)，中译桂神星，主带小行星。名取自希腊神话中的一个宁芙[达佛涅](https://zh.wikipedia.org/wiki/%E8%BE%BE%E4%BD%9B%E6%B6%85)。然后又是日语原文的问题——本作的Daphne日文为 **ダプネ** 小行星41号的日译为相同的 **ダプネ** ，而神话Daphne日译则为 **ダプネー** ，多了个长音。又和Typhon一样取小行星名了<br/>
+**『暴食』魔女Daphne** ：小行星[41 Daphne](https://zh.wikipedia.org/wiki/%E6%A1%82%E7%A5%9E%E6%98%9F)，中译桂神星，主带小行星。名取自希腊神话中的一个宁芙[达佛涅](https://zh.wikipedia.org/wiki/%E8%BE%BE%E4%BD%9B%E6%B6%85)。然后又是日语原文的问题——本作的Daphne日文为 **ダプネ** ，小行星41号的日译为相同的 **ダプネ** ，而神话Daphne日译则为 **ダプネー** ，多了个长音。又和Typhon一样取小行星名了<br/>
 <br/>
 
 **『色欲』魔女Carmilla** ：小行星[107 Camilla](https://zh.wikipedia.org/wiki/%E9%A9%B6%E7%A5%9E%E6%98%9F)，中译驶神星，主带小行星。名取自罗马神话中月神[狄安娜](https://zh.wikipedia.org/wiki/%E7%8B%84%E9%98%BF%E5%A8%9C)的从者[卡米拉](https://en.wikipedia.org/wiki/Camilla_(mythology))。这个问题就大一些，本作人里的色欲魔女名为 **カーミラ** ，官方人设给出的拉丁拼写为 **Carmilla** ；而神话中对应的则是 **カミラ** ，对应拼写**Camilla** ，这下英文拼写也不一样了。按规律其他魔女都出自小行星且虽然日语有出入但英文拼写一样，Carmilla这个倒是很特立独行，不清楚老贼有何用意了。<br/>
