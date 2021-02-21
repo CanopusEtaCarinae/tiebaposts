@@ -127,9 +127,12 @@
 本作怠惰大罪司教的名字Petelgeuse（ペテルギウス）即来源于参宿四西名Betelgeuse。这里老贼并没有照搬西文原名而是特地把首字母从B改成了P（对应片假名ベ改成ペ），而其他（当代）大罪司教则都是照搬星名的。老贼这样特地给怠惰安排个特殊性据说也是有坑在里面。只是揭露清楚不晓得要什么时候了
 
 
+
 顺便再说一句，怠惰的昵称休斯/珠斯/鸠斯就是Petelgeuse的后半部分geuse，也间接强调Petelgeuse应当就是他的本名。14卷人设图（见下）给出拼写前很多读者曾把原文片假名ジュース误以为是juice（果汁看着真有点尬）。
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/constellation/images/geuse.png)
+
+此外关于Petelgeuse和Betelgeuse在第二卷a店特典星空教室中还有段小剧情，在EMT对贝蒂现学现卖从486那听到的星星时，把参宿四的Betelgeuse（ベテルギウス）正好错念成了怠惰的Petelgeuse（ペテルギウス），引起贝蒂的反应并默念了句“Geuse”，也算是个有趣的小伏笔了
 
 &nbsp;
 
