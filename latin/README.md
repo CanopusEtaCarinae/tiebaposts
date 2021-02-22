@@ -20,6 +20,7 @@
 <details>
 <summary>【点击展开】</summary>
 
+<br/>
 [486（菜月昴）](#486菜月昴) &nbsp; [EMT](#EMTEmilia)
 
 </details>
@@ -29,8 +30,6 @@
 
 
 ## 正文
-
-&nbsp;
 
 ###  全名有出处
 
