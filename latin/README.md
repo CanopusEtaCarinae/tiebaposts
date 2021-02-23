@@ -22,7 +22,9 @@
 
 <br/>
 
-[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp;
+**全名有出处：**
+
+[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche)
 
 </details>
 
@@ -70,5 +72,24 @@
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ros_tv.png) ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ros_zpedia.png)
 
 另，文库版每一代骡子的中名就是从字母A开始往下排的，上代是K，上上代就是剑鬼系列的J，其余部分名字都相同。此外中名还是每一代骡子出生时本名的首字母，比如上上代叫ジュリア，上代叫カール。Fandom上也有相应的拼写[Julia](https://rezero.fandom.com/wiki/Roswaal_J_Mathers)和[Karl](https://rezero.fandom.com/wiki/Roswaal_K_Mathers)。不过目前官方还没出现有本名的拼写的出版物，虽然fandom版看着挺靠谱也就先仅供参考了。至于本代叫什么现在还不知道
+
+[返回目录](#目录-1)
+
+#### 拉姆：Ram
+
+第二卷彩插人设和[TV动画人设](http://re-zero-anime.jp/tv/character)。卷尾预告也有若干，具体懒得全列了（逃
+
+[返回目录](#目录-1)
+
+#### 蕾姆：Rem
+出处基本和拉姆一致
+
+[返回目录](#目录-1)
+
+#### 帕特拉修：Patrasche
+
+[TV动画人设](http://re-zero-anime.jp/tv/character)和Re: BOX画集：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/patrasche.png)
 
 [返回目录](#目录-1)
