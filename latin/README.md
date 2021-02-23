@@ -36,7 +36,7 @@
 
 #### 486(菜月昴)
 
-这个其实论外，因为人家本名是日文汉字……非要用拉丁字母拼写也就是罗马音而已，见文库第一卷人设和TV动画人设（虽然是名在前的写法Subaru Natsuki），都很好找就不截图了
+这个其实论外，因为人家本名是日文汉字……非要用拉丁字母拼写也就是罗马音而已，见文库第一卷人设和[TV动画人设](http://re-zero-anime.jp/tv/character)（虽然是名在前的写法Subaru Natsuki），都很好找就不截图了
 稍微值得调侃一句的是女装486的名字在漫画上也有拼写：Natsumi Schwarz。Natsumi其实也是个罗马音，很多大佬就是用“夏美”来译的。至于姓就是个西方的姓氏施瓦茨。具体在漫画中的拼写见图（其实图里还有天才厨师[Dias](https://rezero.fandom.com/wiki/Dias_Fatsbalm)的名字，不过人家全名巨长无比，只拼了个Dias实在也不值一提……所以本贴暂时就不收录她了）
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/natsumi.png)
@@ -44,3 +44,31 @@
 [返回目录](#目录-1)
 
 #### EMT：Emilia
+
+出处很多，就不列全了，如文库第六卷彩页、第三第九等卷的卷尾预告，[TV动画人设](http://re-zero-anime.jp/tv/character)等等（有人问为什么没有第一卷？你去看了就知道，人家第一卷防剧透在人设彩插写的是“？？？”233）
+
+[返回目录](#目录-1)
+
+#### 帕克：Pack
+
+出处同样多：文库第一卷人设彩插、第二卷卷尾预告等，包括[TV动画人设](http://re-zero-anime.jp/tv/character)。不过这里还是有一定争议，比如在[星空文化那贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%85%B6%E4%BB%96%E5%AD%98%E7%96%91)提到的，包括本贴的[原贴125楼](https://tieba.baidu.com/p/6625632913?pn=4)所说，Pack从一方面意义上不如Puck，另一方面发音也不如Puck更像英文。如官方虽全是Pack但看起来也不能就锤死了Puck不对。只能等以后有更好的线索再讨论了。
+
+[返回目录](#目录-1)
+
+#### 贝蒂：Beatrice
+
+出处很多，如文库第二卷彩插人设和2、15等卷的卷尾预告及[TV动画人设](http://re-zero-anime.jp/tv/character)等
+（不过贝蒂这个称呼本身好像没有拼写……[fandom](https://rezero.fandom.com/wiki/Beatrice)上直接给的Betty，仅供参考罢）
+
+[返回目录](#目录-1)
+
+#### 骡子：Roswaal L Mathers
+
+文库小说人设里只拼了名字没姓氏，姓氏比较好找的出处是[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia人物介绍，见下图（图里为一期人设，二期人设点开链接即可）
+
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ros_tv.png) ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ros_zpedia.png)
+
+另，文库版每一代骡子的中名就是从字母A开始往下排的，上代是K，上上代就是剑鬼系列的J，其余部分名字都相同。此外中名还是每一代骡子出生时本名的首字母，比如上上代叫ジュリア，上代叫カール。Fandom上也有相应的拼写[Julia](https://rezero.fandom.com/wiki/Roswaal_J_Mathers)和[Karl](https://rezero.fandom.com/wiki/Roswaal_K_Mathers)。不过目前官方还没出现有本名的拼写的出版物，虽然fandom版看着挺靠谱也就先仅供参考了。至于本代叫什么现在还不知道
+
+[返回目录](#目录-1)
