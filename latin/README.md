@@ -24,7 +24,7 @@
 
 **全名有出处：**
 
-[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche)
+[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche) &nbsp; [奥托](#奥托Otto-Suwen) &nbsp; [芙蕾](#芙蕾Frederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔Garfiel-Tinsel)
 
 </details>
 
@@ -91,5 +91,33 @@
 [TV动画人设](http://re-zero-anime.jp/tv/character)和Re: BOX画集：
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/patrasche.png)
+
+[返回目录](#目录-1)
+
+#### 奥托：Otto Suwen
+
+奥托没有小说彩页内的人设，不过在部分卷尾预告和杂志短篇中有。姓氏以前只是民间拼成Suwen，官方则是直到[二期TV动画人设](http://re-zero-anime.jp/tv/character)才给出确认
+
+顺便女神像里奥托女装的名 **Audery** （オードリー）还在短篇集6卷尾给拼了一下，至于姓（スフレ）估计也没啥机会再拼了，姑且先列在这
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/audrey.png)
+
+[返回目录](#目录-1)
+
+#### 芙蕾：Frederica Baumann
+
+名拼写在十卷人设、十一卷卷尾、杂志短篇等。姓氏原本也只是民间拼Baumann，[二期TV动画人设](http://re-zero-anime.jp/tv/character)才由官方确认。
+
+[返回目录](#目录-1)
+
+#### 加菲尔/嘉飞尔/贾菲尔：Garfiel Tinsel
+
+名拼写见十卷人设，十三卷、十七卷卷尾预告，杂志短篇等。姓氏同上原为民间拼写并在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认。值得一提的是加菲的拼写在杂志短篇上闹过个大笑话，我们知道他的名字Garfiel本身就类似加菲猫的Garfield，再加上有虎亚人血统，所以读者（包括我）也常称呼他为加菲猫，结果杂志上奥托行商路和土蜘蛛的短篇还真的把他的人设给这么拼了，就当个小笑料看罢…………
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/garfield_ca.png)
+
+然后同上加菲猫在女神像中的女装名 **Garnet**（ガーネット）也在短篇集6卷尾拼了，和奥托一样姓氏（テュラム）估计没拼的机会也就姑且列这
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/garnet.png)
 
 [返回目录](#目录-1)
