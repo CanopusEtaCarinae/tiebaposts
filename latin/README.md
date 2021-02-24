@@ -24,7 +24,7 @@
 
 **全名有出处：**
 
-[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche) &nbsp; [奥托](#奥托Otto-Suwen) &nbsp; [芙蕾](#芙蕾Frederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔Garfiel-Tinsel)
+[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche) &nbsp; [奥托](#奥托Otto-Suwen) &nbsp; [芙蕾](#芙蕾Frederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔Garfiel-Tinsel) &nbsp; [佩特拉](#佩特拉Petra-Leyte)
 
 </details>
 
@@ -128,6 +128,13 @@
 然后同上加菲猫在女神像中的女装名 **Garnet**（ガーネット）也在短篇集6卷尾拼了，和奥托一样姓氏（テュラム）估计没拼的机会也就姑且列这
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/garnet.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 佩特拉：Petra Leyte
+
+同奥托没有小说彩页版人设，名在11卷卷及杂志短篇上有拼写，姓氏Leyte原本也是民间拼写，同样在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
 
 [返回目录](#目录-1)<br/>
 <br/>
