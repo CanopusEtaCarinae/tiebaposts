@@ -26,6 +26,8 @@
 
 [486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche) &nbsp; [奥托](#奥托Otto-Suwen) &nbsp; [芙蕾](#芙蕾Frederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔Garfiel-Tinsel) &nbsp; [佩特拉](#佩特拉Petra-Leyte) &nbsp; [梅莉](#梅莉梅丽Meili-Portroute) &nbsp; [管家](#管家Clind)
 
+[菲鲁特](#菲鲁特Felt)
+
 </details>
 
 
@@ -155,3 +157,9 @@
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 菲鲁特：Felt
+
+出自一卷彩插人设和[TV动画人设](http://re-zero-anime.jp/tv/character)等。不过菲鲁特真名未知，也只能先用已知资料列在这了
+
+[返回目录](#目录-1)<br/>
+<br/>
