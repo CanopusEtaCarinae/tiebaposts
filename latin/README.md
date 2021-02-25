@@ -26,7 +26,7 @@
 
 [486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche) &nbsp; [奥托](#奥托Otto-Suwen) &nbsp; [芙蕾](#芙蕾Frederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔Garfiel-Tinsel) &nbsp; [佩特拉](#佩特拉Petra-Leyte) &nbsp; [梅莉](#梅莉梅丽Meili-Portroute) &nbsp; [管家](#管家Clind)
 
-[菲鲁特](#菲鲁特Felt)
+[菲鲁特](#菲鲁特Felt) &nbsp; [莱傲天](#莱傲天Reinhard-Van-Astrea)
 
 </details>
 
@@ -160,6 +160,19 @@
 #### 菲鲁特：Felt
 
 出自一卷彩插人设和[TV动画人设](http://re-zero-anime.jp/tv/character)等。不过菲鲁特真名未知，也只能先用已知资料列在这了
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 莱傲天：Reinhard Van Astrea
+
+名第一卷人设就有，家名在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia以及杂志短篇上都有出现。这里有一个问题是Van的V要不要大写——van放现实来看是许多荷兰人名中姓的一部分。本作既然按西式人名取名的话van按理应该也仿照现实小写。然而凡是找得到的Re0出版物的官方拼写都是把V大写的，纠结了几下最终我还是以官方的为准了
+
+动画一期人设
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rein_tv.png)
+
+Zeropedia
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rein_zpedia.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
