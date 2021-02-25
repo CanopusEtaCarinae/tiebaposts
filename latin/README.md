@@ -24,7 +24,7 @@
 
 **全名有出处：**
 
-[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche) &nbsp; [奥托](#奥托Otto-Suwen) &nbsp; [芙蕾](#芙蕾Frederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔Garfiel-Tinsel) &nbsp; [佩特拉](#佩特拉Petra-Leyte)
+[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche) &nbsp; [奥托](#奥托Otto-Suwen) &nbsp; [芙蕾](#芙蕾Frederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔Garfiel-Tinsel) &nbsp; [佩特拉](#佩特拉Petra-Leyte) &nbsp; [梅莉](#梅莉梅丽Meili-Portroute) &nbsp; [管家](#管家Clind)
 
 </details>
 
@@ -138,3 +138,20 @@
 
 [返回目录](#目录-1)<br/>
 <br/>
+
+#### 梅莉/梅丽：Meili Portroute
+
+名拼写在十二卷的人设和卷尾预告，姓氏同上原为民间拼写后在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 管家：Clind
+
+出自文库15卷虎之穴特典插图（图里还有安妮的，之后【【【安妮】】】也以这张为准了）。Clind好像没姓氏，就当他有全名了。
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/clind.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
