@@ -24,7 +24,7 @@
 
 **全名有出处：**
 
-[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche) &nbsp; [奥托](#奥托Otto-Suwen) &nbsp; [芙蕾](#芙蕾Frederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔Garfiel-Tinsel) &nbsp; [佩特拉](#佩特拉Petra-Leyte) &nbsp; [梅莉](#梅莉梅丽Meili-Portroute) &nbsp; [管家](#管家Clind)
+[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTエミリアEmilia) &nbsp; [帕克](#帕克パックPack) &nbsp; [贝蒂](#贝蒂Bベアトリスeatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche) &nbsp; [奥托](#奥托Otto-Suwen) &nbsp; [芙蕾](#芙蕾Frederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔Garfiel-Tinsel) &nbsp; [佩特拉](#佩特拉Petra-Leyte) &nbsp; [梅莉](#梅莉梅丽Meili-Portroute) &nbsp; [管家](#管家Clind)
 
 [菲鲁特](#菲鲁特Felt) &nbsp; [莱傲天](#莱傲天Reinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修Crusch-Karsten) &nbsp; [菲利斯](#菲利斯) &nbsp; [剑鬼](#剑鬼Wilhelm-Van-Astrea)
 
@@ -48,7 +48,7 @@
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### EMT：Emilia
+#### EMT（エミリア）：Emilia
 
 出处很多，就不列全了，如文库第六卷彩页、第三第九等卷的卷尾预告，[TV动画人设](http://re-zero-anime.jp/tv/character)等等（有人问为什么没有第一卷？你去看了就知道，人家第一卷防剧透在人设彩插写的是“？？？”233）
 
@@ -62,7 +62,7 @@
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 贝蒂：Beatrice
+#### 贝蒂（ベアトリス）：Beatrice
 
 出处很多，如文库第二卷彩插人设和2、15等卷的卷尾预告及[TV动画人设](http://re-zero-anime.jp/tv/character)等
 （不过贝蒂这个称呼本身好像没有拼写……[fandom](https://rezero.fandom.com/wiki/Beatrice)上直接给的Betty，仅供参考罢）
@@ -70,7 +70,7 @@
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 骡子：Roswaal L Mathers
+#### 骡子（ロズワール・L・メイザース）：Roswaal L Mathers
 
 文库小说人设里只拼了名字没姓氏，姓氏比较好找的出处是[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia人物介绍，见下图（图里为一期人设，二期人设点开链接即可）
 
