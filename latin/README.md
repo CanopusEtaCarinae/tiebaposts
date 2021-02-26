@@ -26,7 +26,7 @@
 
 [486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTEmilia) &nbsp; [帕克](#帕克Pack) &nbsp; [贝蒂](#贝蒂Beatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche) &nbsp; [奥托](#奥托Otto-Suwen) &nbsp; [芙蕾](#芙蕾Frederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔Garfiel-Tinsel) &nbsp; [佩特拉](#佩特拉Petra-Leyte) &nbsp; [梅莉](#梅莉梅丽Meili-Portroute) &nbsp; [管家](#管家Clind)
 
-[菲鲁特](#菲鲁特Felt) &nbsp; [莱傲天](#莱傲天Reinhard-Van-Astrea)
+[菲鲁特](#菲鲁特Felt) &nbsp; [莱傲天](#莱傲天Reinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修Crusch-Karsten) &nbsp; [菲利斯](#菲利斯) &nbsp; [剑鬼](#剑鬼Wilhelm-Van-Astrea)
 
 </details>
 
@@ -174,6 +174,51 @@
 Zeropedia
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rein_zpedia.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 库珥修/克鲁修：Crusch Karsten
+
+名在第四卷人设就有，姓氏在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia可找到。
+
+TV一期人设
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/crs_tv.png)
+
+zeropedia
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/crs_zpedia.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 菲利斯：
+
+昵称： **Ferris** 。全名 **：Felix Argyle**
+
+菲利斯连昵称都有个正经拼法……见四卷彩插人设。全名出自[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia等
+
+四卷彩插
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/frs.png)
+
+TV人设
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/fer_tv.png)
+
+zeropedia
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/fer_zpedia.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 剑鬼：Wilhelm Van Astrea
+
+家名和[莱傲天](#莱傲天Reinhard-Van-Astrea)一样，只需要知道名字拼法就行，见四卷彩插人设。不过剑鬼是入赘剑圣家族后改姓的，他的原姓トリアス我没有找到有拉丁拼法，[fandom](https://rezero.fandom.com/wiki/Wilhelm_van_Astrea)上的Trias仅供参考。这里我顺便把杂志短篇人设里的大写Van作为依据截个图，出自剑鬼战歌
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/wil_ca.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
