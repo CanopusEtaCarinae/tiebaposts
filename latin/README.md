@@ -24,9 +24,9 @@
 
 **全名有出处：**
 
-[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTエミリアEmilia) &nbsp; [帕克](#帕克パックPack) &nbsp; [贝蒂](#贝蒂Bベアトリスeatrice) &nbsp; [骡子](#骡子roswaal-l-mathers) &nbsp; [拉姆](#拉姆Ram) &nbsp; [蕾姆](#蕾姆Rem) &nbsp; [帕特拉修](#帕特拉修Patrasche) &nbsp; [奥托](#奥托Otto-Suwen) &nbsp; [芙蕾](#芙蕾Frederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔Garfiel-Tinsel) &nbsp; [佩特拉](#佩特拉Petra-Leyte) &nbsp; [梅莉](#梅莉梅丽Meili-Portroute) &nbsp; [管家](#管家Clind)
+[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTエミリアEmilia) &nbsp; [帕克](#帕克パックPack) &nbsp; [贝蒂](#贝蒂ベアトリスBeatrice) &nbsp; [骡子](#骡子ロズワールlメイザースroswaal-l-mathers) &nbsp; [拉姆](#拉姆ラムRam) &nbsp; [蕾姆](#蕾姆レムRem) &nbsp; [帕特拉修](#帕特拉修パトラッシュPatrasche) &nbsp; [奥托](#奥托オットースーウェンOtto-Suwen) &nbsp; [芙蕾](#芙蕾フレデリカバウマンFrederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔ガーフィールティンゼルGarfiel-Tinsel) &nbsp; [佩特拉](#佩特拉ペトラレイテPetra-Leyte) &nbsp; [梅莉](#梅莉梅丽メィリィポートルートMeili-Portroute) &nbsp; [管家](#管家クリンドClind)
 
-[菲鲁特](#菲鲁特Felt) &nbsp; [莱傲天](#莱傲天Reinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修Crusch-Karsten) &nbsp; [菲利斯](#菲利斯) &nbsp; [剑鬼](#剑鬼Wilhelm-Van-Astrea)
+[菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea)
 
 </details>
 
@@ -55,7 +55,7 @@
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 帕克：Pack
+#### 帕克（パック）：Pack
 
 出处同样多：文库第一卷人设彩插、第二卷卷尾预告等，包括[TV动画人设](http://re-zero-anime.jp/tv/character)。不过这里还是有一定争议，比如在[星空文化那贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%85%B6%E4%BB%96%E5%AD%98%E7%96%91)提到的，包括本贴的[原贴125楼](https://tieba.baidu.com/p/6625632913?pn=4)所说，Pack从一方面意义上不如Puck，另一方面发音也不如Puck更像英文。如官方虽全是Pack但看起来也不能就锤死了Puck不对。只能等以后有更好的线索再讨论了。
 
@@ -82,19 +82,20 @@
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 拉姆：Ram
+#### 拉姆（ラム）：Ram
 
 第二卷彩插人设和[TV动画人设](http://re-zero-anime.jp/tv/character)。卷尾预告也有若干，具体懒得全列了（逃
 
 [返回目录](#目录-1)<br/>
 <br/>
-#### 蕾姆：Rem
+#### 蕾姆（レム）：Rem
+
 出处基本和拉姆一致
 
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 帕特拉修：Patrasche
+#### 帕特拉修（パトラッシュ）：Patrasche
 
 [TV动画人设](http://re-zero-anime.jp/tv/character)和Re: BOX画集：
 
@@ -103,7 +104,7 @@
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 奥托：Otto Suwen
+#### 奥托（オットー・スーウェン）：Otto Suwen
 
 奥托没有小说彩页内的人设，不过在部分卷尾预告和杂志短篇中有。姓氏以前只是民间英译拼成Suwen，官方则是直到[二期TV动画人设](http://re-zero-anime.jp/tv/character)才给出确认
 
@@ -114,14 +115,14 @@
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 芙蕾：Frederica Baumann
+#### 芙蕾（フレデリカ・バウマン）：Frederica Baumann
 
 名拼写在十卷人设、十一卷卷尾、杂志短篇等。姓氏原本也只是民间拼Baumann，[二期TV动画人设](http://re-zero-anime.jp/tv/character)才由官方确认。
 
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 加菲尔/嘉飞尔/贾菲尔：Garfiel Tinsel
+#### 加菲尔/嘉飞尔/贾菲尔（ガーフィール・ティンゼル）：Garfiel Tinsel
 
 名拼写见十卷人设，十三卷、十七卷卷尾预告，杂志短篇等。姓氏同上原为民间拼写并在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认。值得一提的是加菲的拼写在杂志短篇上闹过个大笑话，我们知道他的名字Garfiel本身就类似加菲猫的Garfield，再加上有虎亚人血统，所以读者（包括我）也常称呼他为加菲猫，结果杂志上奥托行商路和土蜘蛛的短篇还真的把他的人设给这么拼了，就当个小笑料看罢…………
 
@@ -134,21 +135,21 @@
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 佩特拉：Petra Leyte
+#### 佩特拉（ペトラ・レイテ）：Petra Leyte
 
 同奥托没有小说彩页版人设，名在11卷卷及杂志短篇上有拼写，姓氏Leyte原本也是民间拼写，同样在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
 
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 梅莉/梅丽：Meili Portroute
+#### 梅莉/梅丽（メィリィ・ポートルート）：Meili Portroute
 
 名拼写在十二卷的人设和卷尾预告，姓氏同上原为民间拼写后在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
 
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 管家：Clind
+#### 管家（クリンド）：Clind
 
 出自文库15卷虎之穴特典插图（图里还有安妮的，之后【【【安妮】】】也以这张为准了）。Clind好像没姓氏，就当他有全名了。
 
@@ -157,14 +158,14 @@
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 菲鲁特：Felt
+#### 菲鲁特（フェルト）：Felt
 
 出自一卷彩插人设和[TV动画人设](http://re-zero-anime.jp/tv/character)等。不过菲鲁特真名未知，也只能先用已知资料列在这了
 
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 莱傲天：Reinhard Van Astrea
+#### 莱傲天（ラインハルト・ヴァン・アストレア）：Reinhard Van Astrea
 
 名第一卷人设就有，家名在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia以及杂志短篇上都有出现。这里有一个问题是Van的V要不要大写——van放现实来看是许多荷兰人名中姓的一部分。本作既然按西式人名取名的话van按理应该也仿照现实小写。然而凡是找得到的Re0出版物的官方拼写都是把V大写的，纠结了几下最终我还是以官方的为准了
 
@@ -178,7 +179,7 @@ Zeropedia
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 库珥修/克鲁修：Crusch Karsten
+#### 库珥修/克鲁修（クルシュ・カルステン）：Crusch Karsten
 
 名在第四卷人设就有，姓氏在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia可找到。
 
@@ -193,7 +194,7 @@ zeropedia
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 菲利斯：
+#### 菲利斯（フェリス；フェリックス・アーガイル）：
 
 昵称： **Ferris** 。全名 **：Felix Argyle**
 
@@ -214,7 +215,7 @@ zeropedia
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 剑鬼：Wilhelm Van Astrea
+#### 剑鬼（ヴィルヘルム・ヴァン・アストレア）：Wilhelm Van Astrea
 
 家名和[莱傲天](#莱傲天Reinhard-Van-Astrea)一样，只需要知道名字拼法就行，见四卷彩插人设。不过剑鬼是入赘剑圣家族后改姓的，他的原姓トリアス我没有找到有拉丁拼法，[fandom](https://rezero.fandom.com/wiki/Wilhelm_van_Astrea)上的Trias仅供参考。这里我顺便把杂志短篇人设里的大写Van作为依据截个图，出自剑鬼战歌
 
