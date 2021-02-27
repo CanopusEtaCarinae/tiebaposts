@@ -3,6 +3,7 @@
 
 [原贴地址](https://tieba.baidu.com/p/6625632913)。本贴是为本作中的各种西式人名寻找西式拉丁拼写的官方来源。部分会引用[英文fandom](https://rezero.fandom.com/wiki/Characters)作一定程度上的参考，但毕竟fandom不算官方来源，如果仅有fandom拼写的就不在此列出。
 
+另一特殊的则是[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)的游戏，ED的Cast是英文的，所以出现了不少角色拼写。然而看上去有些许和已有出版物有出入的地方，因此也只能当参考不能当确认了
 
 拼写出处主要分三类：1、全名都有完整拼写的（一些没姓氏的也算）；2、只有部分有拼写的，比如有些人设图里只拼名不拼姓的那种就会归到这里；3、车祸现场，比如官方不同版本的出处间有矛盾和乌龙的，有些还可以随便侃侃当个乐就搁这了。
 
@@ -26,7 +27,7 @@
 
 [486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTエミリアEmilia) &nbsp; [帕克](#帕克パックPack) &nbsp; [贝蒂](#贝蒂ベアトリスBeatrice) &nbsp; [骡子](#骡子ロズワールlメイザースroswaal-l-mathers) &nbsp; [拉姆](#拉姆ラムRam) &nbsp; [蕾姆](#蕾姆レムRem) &nbsp; [帕特拉修](#帕特拉修パトラッシュPatrasche) &nbsp; [奥托](#奥托オットースーウェンOtto-Suwen) &nbsp; [芙蕾](#芙蕾フレデリカバウマンFrederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔ガーフィールティンゼルGarfiel-Tinsel) &nbsp; [佩特拉](#佩特拉ペトラレイテPetra-Leyte) &nbsp; [梅莉](#梅莉梅丽メィリィポートルートMeili-Portroute) &nbsp; [管家](#管家クリンドClind)
 
-[菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea)
+[菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](# 6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton)
 
 </details>
 
@@ -40,7 +41,7 @@
 
 #### 486 (菜月昴)
 
-这个其实论外，因为人家本名是日文汉字……非要用拉丁字母拼写也就是罗马音而已，见文库第一卷人设和[TV动画人设](http://re-zero-anime.jp/tv/character)（虽然是名在前的写法 **Subaru Natsuki** ），都很好找就不截图了
+这个其实论外，因为人家本名是日文汉字……非要用拉丁字母拼写也就是罗马音而已，见文库[第一卷人设](https://static.wikia.nocookie.net/rezero/images/8/8a/Re_Zero_Volume_1_16.jpg)和[TV动画人设](http://re-zero-anime.jp/tv/character)（虽然是名在前的写法 **Subaru Natsuki** ），都很好找就不截图了
 稍微值得调侃一句的是女装486的名字在漫画上也有拼写： **Natsumi Schwarz** 。Natsumi其实也是个罗马音，很多大佬就是用“夏美”来译的。至于姓就是个西方的姓氏施瓦茨。具体在漫画中的拼写见图（其实图里还有天才厨师[Dias](https://rezero.fandom.com/wiki/Dias_Fatsbalm)的名字，不过人家全名巨长无比，只拼了个Dias实在也不值一提……所以本贴暂时就不收录她了）
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/natsumi.png)
@@ -204,7 +205,7 @@ zeropedia
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/frs.png)
 
-TV人设
+TV一期人设
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/fer_tv.png)
 
@@ -220,6 +221,61 @@ zeropedia
 家名和[莱傲天](#莱傲天Reinhard-Van-Astrea)一样，只需要知道名字拼法就行，见四卷彩插人设。不过剑鬼是入赘剑圣家族后改姓的，他的原姓トリアス我没有找到有拉丁拼法，[fandom](https://rezero.fandom.com/wiki/Wilhelm_van_Astrea)上的Trias仅供参考。这里我顺便把杂志短篇人设里的大写Van作为依据截个图，出自剑鬼战歌
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/wil_ca.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 安娜（アナスタシア・ホーシン）：Anastasia Hoshin
+
+名出处上和面几个一样名字在第四卷，姓氏在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia。
+
+〔题外话，Kararagi出身的部分角色名字会有些日文的感觉，比如安娜的姓氏来自Kararagi缔造者荒地的Hoshin（ホーシン），而ホーシン本身也是一些日语词语的发音，比如我以前查到过“方針”读音就与此相同。类似的还有歌姬狂Kiritaka，有些翻译君甚至直接把他的名字按日语译成“桐鷹”的。再比如僵尸短篇的Yae，根据她会放苦无的技能说不定她出身也与西方有关，而台版就完全把她名字当日文译成汉字了（Yae Tenzen→八重·天膳）〕
+另外零大以前还针对安娜的中文音译[开过一个帖子](https://tieba.baidu.com/p/5948173277)，也挺有意思：
+
+动画一期人设
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ana_tv.png)
+
+Zeropedia
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ana_zpedia.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 6154（ユリウス・ユークリウス）：Julius Juukulius
+
+出处基本同上，第四卷人设+[TV动画人设](http://re-zero-anime.jp/tv/character)及zeropedia。
+
+动画一期人设
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/6154_tv.png)
+
+Zeropedia
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/6154_zpedia.png)
+
+
+不过6154的姓氏在一些地方还出现了另一种拼法“ **Euclius** ”。一处是之前那个国产手游的[宣传短视频](https://tieba.baidu.com/p/5992145695)43秒左右
+
+另一个是个[非官方网站的角色生日汇总](https://schara.sunrockgo.com/media?m=bjvwbc)。这里把Joshua的姓氏写成了这种拼法而6154却还是按官方的拼法。自然咱们是以官方为准，但这种非官方拼法同时在两处出现倒可能有什么原因，具体我也没考证，就拿出来随便聊聊了。
+
+还有就是开头提过的[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED了。虽然官方出版物还是比较肯定Juukulius，但有三处这么拼倒还真是值得拿出来列下看看
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/6154_tpt.png)
+
+#### 约修亚/约书亚（ヨシュア・ユークリウス）：Joshua Juukulius
+
+姓氏和6154相同（上面另外那种拼法暂时就不当回事了），名出自文库16卷彩插人设
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 猫人三姐弟（ミミ/ヘータロー/ティビー・パールバトン）：Mimi/Hetaro/Tivey Pearlbaton
+
+出自zeropedia。
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/mimi.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hetaro.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/tivey.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
