@@ -65,7 +65,7 @@
 
 #### 贝蒂（ベアトリス）：Beatrice
 
-出处很多，如[文库第二卷彩插人设](https://static.wikia.nocookie.net/rezero/images/e/e9/Re_Zero_Volume_2_4.jpeg)和[2](https://static.wikia.nocookie.net/rezero/images/e/e9/Re_Zero_Volume_2_4.jpeg)、[15](https://static.wikia.nocookie.net/rezero/images/7/7c/Re_Zero_Light_Novel_Volume_15_15.jpg)等卷的卷尾预告及[TV动画人设](http://re-zero-anime.jp/tv/character)等
+出处很多，如[文库第二卷彩插人设](https://static.wikia.nocookie.net/rezero/images/e/e9/Re_Zero_Volume_2_4.jpeg)和[2](https://static.wikia.nocookie.net/rezero/images/3/3a/Re_Zero_Volume_2_15.jpeg)、[15](https://static.wikia.nocookie.net/rezero/images/7/7c/Re_Zero_Light_Novel_Volume_15_15.jpg)等卷的卷尾预告及[TV动画人设](http://re-zero-anime.jp/tv/character)等
 （不过贝蒂这个称呼本身好像没有拼写……[fandom](https://rezero.fandom.com/wiki/Beatrice)上直接给的Betty，仅供参考罢）
 
 [返回目录](#目录-1)<br/>
@@ -73,7 +73,7 @@
 
 #### 骡子（ロズワール・L・メイザース）：Roswaal L Mathers
 
-文库小说人设里只拼了名字没姓氏，姓氏比较好找的出处是[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia人物介绍，见下图（图里为一期人设，二期人设点开链接即可）
+[文库小说人设](https://static.wikia.nocookie.net/rezero/images/e/e9/Re_Zero_Volume_2_4.jpeg)里只拼了名字没姓氏，姓氏比较好找的出处是[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia人物介绍，见下图（图里为一期人设，二期人设点开链接即可）
 
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ros_tv.png) ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ros_zpedia.png)
@@ -89,6 +89,7 @@
 
 [返回目录](#目录-1)<br/>
 <br/>
+
 #### 蕾姆（レム）：Rem
 
 出处基本和拉姆一致
@@ -138,7 +139,7 @@
 
 #### 佩特拉（ペトラ・レイテ）：Petra Leyte
 
-同奥托没有小说彩页版人设，名在11卷卷及杂志短篇上有拼写，姓氏Leyte原本也是民间拼写，同样在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
+同奥托没有小说彩页版人设，名在[11卷卷尾](https://static.wikia.nocookie.net/rezero/images/1/19/Re_Zero_Volume_11_17.jpg)及杂志短篇上有拼写，姓氏Leyte原本也是民间拼写，同样在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
 
 [返回目录](#目录-1)<br/>
 <br/>
