@@ -172,6 +172,7 @@
 名[第一卷人设](https://static.wikia.nocookie.net/rezero/images/a/a1/Re_Zero_Volume_1_18.jpg)就有，家名在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia以及杂志短篇上都有出现。这里有一个问题是Van的V要不要大写——van放现实来看是许多荷兰人名中姓的一部分。本作既然按西式人名取名的话van按理应该也仿照现实小写。然而凡是找得到的Re0出版物的官方拼写都是把V大写的，纠结了几下最终我还是以官方的为准了
 
 动画一期人设
+
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rein_tv.png)
 
 Zeropedia
@@ -234,6 +235,7 @@ zeropedia
 另外零大以前还针对安娜的中文音译[开过一个帖子](https://tieba.baidu.com/p/5948173277)，也挺有意思
 
 动画一期人设
+
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ana_tv.png)
 
 Zeropedia
@@ -248,6 +250,7 @@ Zeropedia
 出处基本同上，[第四卷人设](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_4_3.jpeg)+[TV动画人设](http://re-zero-anime.jp/tv/character)及zeropedia。
 
 动画一期人设
+
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/6154_tv.png)
 
 Zeropedia
@@ -286,6 +289,7 @@ Zeropedia
 出处为[四卷文库](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_4_3.jpeg)+[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia
 
 动画一期人设
+
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/pris_tv.png)
 
 Zeropedia
@@ -310,6 +314,7 @@ Zeropedia
 [四卷人设](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_4_3.jpeg)只有Al这个简略称呼，全名就是[TV人设](http://re-zero-anime.jp/tv/character)和zeropedia上有了。此外[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E6%AF%95%E5%AE%BF%E4%BA%94)里有提Al的名字取自金牛座α星毕宿五的西名，在此顺便一提
 
 动画一期人设
+
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/al_tv.png)
 
 Zeropedia
