@@ -27,7 +27,7 @@
 
 [486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTエミリアEmilia) &nbsp; [帕克](#帕克パックPack) &nbsp; [贝蒂](#贝蒂ベアトリスBeatrice) &nbsp; [骡子](#骡子ロズワールlメイザースroswaal-l-mathers) &nbsp; [拉姆](#拉姆ラムRam) &nbsp; [蕾姆](#蕾姆レムRem) &nbsp; [帕特拉修](#帕特拉修パトラッシュPatrasche) &nbsp; [奥托](#奥托オットースーウェンOtto-Suwen) &nbsp; [芙蕾](#芙蕾フレデリカバウマンFrederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔ガーフィールティンゼルGarfiel-Tinsel) &nbsp; [佩特拉](#佩特拉ペトラレイテPetra-Leyte) &nbsp; [梅莉](#梅莉梅丽メィリィポートルートMeili-Portroute) &nbsp; [管家](#管家クリンドClind)
 
-[菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton)
+[菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁)
 
 </details>
 
@@ -231,7 +231,7 @@ zeropedia
 名出处上和面几个一样名字在[第四卷](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_4_3.jpeg)，姓氏在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia。
 
 〔题外话，Kararagi出身的部分角色名字会有些日文的感觉，比如安娜的姓氏来自Kararagi缔造者荒地的Hoshin（ホーシン），而ホーシン本身也是一些日语词语的发音，比如我以前查到过“方針”读音就与此相同。类似的还有歌姬狂Kiritaka，有些翻译君甚至直接把他的名字按日语译成“桐鷹”的。再比如僵尸短篇的Yae，根据她会放苦无的技能说不定她出身也与西方有关，而台版就完全把她名字当日文译成汉字了（Yae Tenzen→八重·天膳）〕
-另外零大以前还针对安娜的中文音译[开过一个帖子](https://tieba.baidu.com/p/5948173277)，也挺有意思：
+另外零大以前还针对安娜的中文音译[开过一个帖子](https://tieba.baidu.com/p/5948173277)，也挺有意思
 
 动画一期人设
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ana_tv.png)
@@ -277,6 +277,46 @@ Zeropedia
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/mimi.png)
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hetaro.png)
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/tivey.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 寡妇（プリシラ・バーリエル）：Priscilla Barielle
+
+出处为[四卷文库](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_4_3.jpeg)+[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia
+
+动画一期人设
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/pris_tv.png)
+
+Zeropedia
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/pris_zpedia.png)
+
+此外寡妇姓氏拼写出现过一次乌龙，在Comic Alive短篇阳光照耀水面中的人设：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/pris_ca.png)
+
+扫图不太清楚，不过隐约可以看到拼成Beliel了。基本可以当这个是事故。顺便阳光照耀水面这期杂志短篇上 **几乎所有角色的拼写都出了问题** 。【【之后还会说】】
+
+（注：寡妇的前传短篇红莲的残影里出现了她的的本名，以后会不会有拼写说不定。Fandom上暂拼为Prisca Benedict）
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 阿尔/阿卢/阿鲁：
+
+常用称呼： **Al** 。全名： **Aldebaran**
+
+[四卷人设](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_4_3.jpeg)只有Al这个简略称呼，全名就是[TV人设](http://re-zero-anime.jp/tv/character)和zeropedia上有了。此外[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E6%AF%95%E5%AE%BF%E4%BA%94)里有提Al的名字取自金牛座α星毕宿五的西名，在此顺便一提
+
+动画一期人设
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/al_tv.png)
+
+Zeropedia
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/al_zpedia.png)
+
+说起来Al作为日本来的穿越者，Aldebaran这种名字肯定是穿越之后取的，N多年后会不会讲他的本名也不好说
 
 [返回目录](#目录-1)<br/>
 <br/>
