@@ -27,7 +27,7 @@
 
 [486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTエミリアEmilia) &nbsp; [帕克](#帕克パックPack) &nbsp; [贝蒂](#贝蒂ベアトリスBeatrice) &nbsp; [骡子](#骡子ロズワールlメイザースroswaal-l-mathers) &nbsp; [拉姆](#拉姆ラムRam) &nbsp; [蕾姆](#蕾姆レムRem) &nbsp; [帕特拉修](#帕特拉修パトラッシュPatrasche) &nbsp; [奥托](#奥托オットースーウェンOtto-Suwen) &nbsp; [芙蕾](#芙蕾フレデリカバウマンFrederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔ガーフィールティンゼルGarfiel-Tinsel) &nbsp; [佩特拉](#佩特拉ペトラレイテPetra-Leyte) &nbsp; [梅莉](#梅莉梅丽メィリィポートルートMeili-Portroute) &nbsp; [管家](#管家クリンドClind)
 
-[菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁)
+[菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
 
 </details>
 
@@ -307,9 +307,9 @@ Zeropedia
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 阿尔/阿卢/阿鲁：
+#### 阿尔/阿卢/阿鲁（アル）：
 
-常用称呼： **Al** 。全名： **Aldebaran**
+常用称呼： **Al** 。全名（アルデバラン）： **Aldebaran**
 
 [四卷人设](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_4_3.jpeg)只有Al这个简略称呼，全名就是[TV人设](http://re-zero-anime.jp/tv/character)和zeropedia上有了。此外[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E6%AF%95%E5%AE%BF%E4%BA%94)里有提Al的名字取自金牛座α星毕宿五的西名，在此顺便一提
 
