@@ -29,6 +29,8 @@
 
 [菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
 
+[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教Sirius-Romaneeconti)
+
 </details>
 
 
@@ -325,3 +327,38 @@ Zeropedia
 
 [返回目录](#目录-1)<br/>
 <br/>
+
+#### 怠惰司教
+
+昵称（ジュース）： **Geuse** 。全名（ペテルギウス・ロマネコンティ）： **Petelgeuse Romaneeconti**
+
+带姓氏的全名出处有[TV动画人设](http://re-zero-anime.jp/tv/character)，zeropedia和资料集Visual Commentary。名字还在文库[16卷卷尾预告](https://static.wikia.nocookie.net/rezero/images/c/cd/Re_Zero_Light_Novel_Volume_16_13.jpg)以及[Re: BOX画集](https://static.wikia.nocookie.net/rezero/images/6/64/Miklotov%2C_Rickert%2C_Petelgeuse_Concept_Art.jpg)出现过。
+
+动画一期人设
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/pete_tv.png)
+
+Visual Commentary
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/petel_vc.png)
+
+Zeropedia
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/petel_zpedia.png)
+
+昵称Geuse见文库14卷人设和卷尾预告，其实就是Petelgeuse截出了后半截而已。（记得14卷人设出以前因为读音的问题还一度被误解成juice来着）
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/constellation/images/geuse.png)
+
+
+关于怠惰的名字梗我在[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E7%8C%8E%E6%88%B7%E5%BA%A7)有提，是参宿四（Betelgeuse）的西名改了个开头字母组成。另外关于姓氏罗曼尼康帝其实是一种葡萄酒的名字，要按现成的英文拼法是带连接符的Romanee-Conti（或者Romanée-Conti），[fandom](https://rezero.fandom.com/wiki/Petelgeuse_Romanee-Conti)就是采用了这种拼法。不过上面既然有三个资料出处都是直接写Romaneeconti我也就按官方的来了
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+
+#### 愤怒司教：Sirius Romaneeconti
+
+姓氏与怠惰一样，名字见[16卷人设图](https://static.wikia.nocookie.net/rezero/images/1/12/Re_Zero_Volume_16_Characters_2.jpg)和[卷尾预告](https://static.wikia.nocookie.net/rezero/images/3/3b/Re_Zero_Light_Novel_Volume_16_14.jpg)，同时取自[天狼星的西名](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A7%E7%8A%AC%E5%BA%A7)。
+
+
