@@ -371,7 +371,7 @@ Zeropedia
 
 不过其实这里官方曾经出过一个乌龙，在二期刚出强欲司教人设的时候姓氏是拼成这样的：
 
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/regulusc.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/regulus.png)
 
 Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就是拉丁文的狮子之心，也就是486给自己的强欲权能取的名么？？？动画化后官网在这塞私货？再看看马上觉得不对——Cor Leonis发音应该是コル・レオニス（六章原文），就算并在一起也应该不会差很多，怎么看也和コルニアス差得有点远……感觉当时的动画组是自作聪明以为能埋个六章伏笔结果倒有点贻笑大方……好在现在已经参照通用的拼写改过来了
 
