@@ -390,14 +390,14 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 <br/>
 
 #### 大罪魔女/魔人：
-强欲（エキドナ）： **Echidna** 〔多娜狐与之同名。附身复活后（オメガ） **Omega** 〕；
-愤怒（ミネルヴァ）： **Minerva** ；
-怠惰（セクメト）： **Sekhmet** ；
-傲慢（テュフォン）： **Typhon** ；
-暴食（ダフネ）： **Daphne** ；
-色欲（カーミラ）： **Carmilla** ；
-虚饰（パンドラ）： **Pandora** ；
-忧郁（ヘクトール）： **Hector**
+强欲（エキドナ）： **Echidna** 〔多娜狐与之同名。附身复活后（オメガ） **Omega** 〕；<br/>
+愤怒（ミネルヴァ）： **Minerva** ；<br/>
+怠惰（セクメト）： **Sekhmet** ；<br/>
+傲慢（テュフォン）： **Typhon** ；<br/>
+暴食（ダフネ）： **Daphne** ；<br/>
+色欲（カーミラ）： **Carmilla** ；<br/>
+虚饰（パンドラ）： **Pandora** ；<br/>
+忧郁（ヘクトール）： **Hector**<br/>
 
 除忧郁外魔女的人设都在[10](https://static.wikia.nocookie.net/rezero/images/5/59/Re_Zero_Volume_10_16.jpg)，[11](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_11_4.jpg)，[12卷](https://static.wikia.nocookie.net/rezero/images/c/c0/Re_Zero_Volume_12_3.jpg)以及[14卷彩页](https://static.wikia.nocookie.net/rezero/images/0/0b/Re_Zero_Volume_14_3.jpg)给好了，且[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%B0%8F%E8%A1%8C%E6%98%9F%E7%9B%B8%E5%85%B3)中我也说过这些名字也都出自神话以及对应的小行星名。至于忧郁虽然还没有在小说插图里给出拼写，但名字很明显是取自特洛伊战争里的赫克托耳，因此我就直接拿过来了。
 
