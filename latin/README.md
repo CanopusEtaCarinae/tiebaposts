@@ -29,7 +29,7 @@
 
 [菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
 
-[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教『美食家』](#暴食司教美食家ライバテンカイトスRye-Batenkaitos)
+[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教『美食家』](#暴食司教美食家ライバテンカイトスRye-Batenkaitos) &nbsp; [大罪魔女/魔人](#大罪魔女魔人)
 
 </details>
 
@@ -385,6 +385,27 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 不过对暴食司教的名其实还是有不少值得说的。其一，小说党肯定知道暴食司教有三位，而TV目前只有美食家出场，人设自然只能给他的。其二，三位位暴食的姓氏也是出自星名〔[天仓四](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E9%B2%B8%E9%B1%BC%E5%BA%A7)（Baten Kaitos）、[星宿一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E9%95%BF%E8%9B%87%E5%BA%A7)（Alphard）[厕一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A9%E5%85%94%E5%BA%A7)（Arneb）〕，除美食家的星名是俩词拼写成姓氏时要合并外另两位其实可以照搬；其三，三位暴食的名其实是很像的：ライ，ロイ，ルイ，只有第一个假名不一样，而要改成西式拼写就比较难体现出这个特点了。过去民间拼成Ley，Roy和Louis就基本看不太出来。如今官方给美食家拼写的时候没有参考民间而是采用没用过的Rye，那么希望以后另两位暴食有拼写时也希望官方能给个体现得出相似特点的方案罢。
 
 此处提了另两位暴食的拼写〔恶食（ロイ・アルファルド） **Alphard** ，饱食（ルイ・アルネブ） **Arneb**〕 ，后面在已知部分拼写出处的部分就不再给暴食单开条目了
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 大罪魔女/魔人：
+强欲（エキドナ）： **Echidna** 〔多娜狐与之同名。附身复活后（オメガ） **Omega** 〕；
+愤怒（ミネルヴァ）： **Minerva** ；
+怠惰（セクメト）： **Sekhmet** ；
+傲慢（テュフォン）： **Typhon** ；
+暴食（ダフネ）： **Daphne** ；
+色欲（カーミラ）： **Carmilla** ；
+虚饰（パンドラ）： **Pandora** ；
+忧郁（ヘクトール）： **Hector**
+
+除忧郁外魔女的人设都在[10](https://static.wikia.nocookie.net/rezero/images/5/59/Re_Zero_Volume_10_16.jpg)，[11](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_11_4.jpg)，[12卷](https://static.wikia.nocookie.net/rezero/images/c/c0/Re_Zero_Volume_12_3.jpg)以及[14卷彩页](https://static.wikia.nocookie.net/rezero/images/0/0b/Re_Zero_Volume_14_3.jpg)给好了，且[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%B0%8F%E8%A1%8C%E6%98%9F%E7%9B%B8%E5%85%B3)中我也说过这些名字也都出自神话以及对应的小行星名。至于忧郁虽然还没有在小说插图里给出拼写，但名字很明显是取自特洛伊战争里的赫克托耳，因此我就直接拿过来了。
+
+不过如[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%B0%8F%E8%A1%8C%E6%98%9F%E7%9B%B8%E5%85%B3)中所说，色欲和忧郁两个拼写其实有点疑问，前者比实际少个字母，后者是神话与小行星拼写不同。色欲我就还是按官方出版物的来了，忧郁暂且以神话为准。详情在星空文化贴中有具体解释
+
+多娜附身琉兹本体后取名Omega，既然直接是从486知识里偷的希腊字母，拼写也肯定不会有错
+
+最后嫉妒还没人设图自然就没法写了（fandom和网上流行的Satella仅供参考，虽然我自己也在乱用😷
 
 [返回目录](#目录-1)<br/>
 <br/>
