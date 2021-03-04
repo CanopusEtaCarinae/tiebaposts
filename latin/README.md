@@ -29,7 +29,9 @@
 
 [菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
 
-[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教『美食家』](#暴食司教美食家ライバテンカイトスRye-Batenkaitos) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel)
+[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教『美食家』](#暴食司教美食家ライバテンカイトスRye-Batenkaitos) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
+
+[EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea)
 
 </details>
 
@@ -433,6 +435,35 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 #### 大贤者（フリューゲル）：Flügel/Flugel
 
 这个也是纯从名字含义上猜的，来自德文的flügel，意为“翼”。不过究竟拉丁拼法采用德文还是英文就现在还不知道，而且六章完结大贤者也没露面，估计人设几年内是看不到，我就先搁在这了😷
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 神龙（ボルカニカ）：Volcanica
+
+出自[25卷卷尾设定](https://static.wikia.nocookie.net/rezero/images/5/5a/Re_Zero_Light_Novel_25_14.jpg)
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/volcanica.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### EMT养母/姑姑（フォルトナ）：Fortuna
+
+出自[文库14卷人设](https://static.wikia.nocookie.net/rezero/images/f/fc/Re_Zero_Volume_14_2.jpg)及[卷尾预告](https://static.wikia.nocookie.net/rezero/images/4/4c/Re_Zero_Volume_14_17.jpg)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 海因凯尔/亨克尔（莱傲天父，ハインケル・アストレア）：Heinkel Astrea
+
+名字出自[16卷人设](https://static.wikia.nocookie.net/rezero/images/1/12/Re_Zero_Volume_16_Characters_2.jpg)，家名就从莱傲天和剑鬼的家名中去掉van就好。
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 贝鲁托尔/贝尔托（剑鬼岳父，剑圣家族前前家主ベルトール・アストレア）：Veltol Astrea
+家名情况同上，名字出自[EX3人设](https://static.wikia.nocookie.net/rezero/images/0/09/Re_Zero_Ex_Volume_3_HQ_4.jpg)及[卷尾预告](https://static.wikia.nocookie.net/rezero/images/d/d1/Re_Zero_Ex_Volume_3_16.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
