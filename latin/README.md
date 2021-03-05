@@ -31,7 +31,7 @@
 
 [怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教『美食家』](#暴食司教美食家ライバテンカイトスRye-Batenkaitos) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
 
-[EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea)
+[EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女スピンクスSphinx) &nbsp; [八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki)
 
 </details>
 
@@ -464,6 +464,27 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 #### 贝鲁托尔/贝尔托（剑鬼岳父，剑圣家族前前家主ベルトール・アストレア）：Veltol Astrea
 家名情况同上，名字出自[EX3人设](https://static.wikia.nocookie.net/rezero/images/0/09/Re_Zero_Ex_Volume_3_HQ_4.jpg)及[卷尾预告](https://static.wikia.nocookie.net/rezero/images/d/d1/Re_Zero_Ex_Volume_3_16.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 斯芬克斯/史宾克斯（亚人战争时的魔女スピンクス）：Sphinx
+
+出处自然就一个：[EX2剑鬼恋歌彩插](https://static.wikia.nocookie.net/rezero/images/1/14/Re_Zero_Ex_Volume_2_3.jpg)。与神话中狮身人面的斯芬克斯同名
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 八腕斗神（クルガン）：Kurgan
+
+出自[EX3彩插人设](https://static.wikia.nocookie.net/rezero/images/0/09/Re_Zero_Ex_Volume_3_HQ_4.jpg)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### IF线中486与蕾姆子女：Rigel Natsuki和Spica Natsuki
+
+姓氏肯定是菜月了……名字原作没有人设图，不过肯定的是他们俩也是用恒星取的名：[参宿七](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%8F%82%E5%AE%BF%E4%B8%83)和[角宿一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%AE%A4%E5%A5%B3%E5%BA%A7)，因此把西名搬过来就行。完整姓名就按照486的官设名在前姓在后了，虽然好像有点别扭😷
 
 [返回目录](#目录-1)<br/>
 <br/>
