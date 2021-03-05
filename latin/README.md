@@ -547,7 +547,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 帝国人设汇总
 
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/vincent.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/Vollachian_Empire_Forces.jpg)
 
 杂志版帝国外交标题
 
