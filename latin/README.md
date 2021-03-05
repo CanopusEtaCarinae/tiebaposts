@@ -31,9 +31,9 @@
 
 [怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教『美食家』](#暴食司教美食家ライバテンカイトスRye-Batenkaitos) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
 
-[EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女スピンクスSphinx)
+[EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
-[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [亲龙王国王族](#亲龙王国王族)
+[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族)
 
 </details>
 
@@ -308,7 +308,7 @@ Zeropedia
 
 扫图不太清楚，不过隐约可以看到拼成Beliel了。基本可以当这个是事故。顺便阳光照耀水面这期杂志短篇上 **几乎所有角色的拼写都出了问题** 。【【之后还会说】】
 
-（注：寡妇的前传短篇红莲的残影里出现了她的的本名，以后会不会有拼写说不定。Fandom上暂拼为Prisca Benedict）
+（注：寡妇的前传短篇红莲的残影里出现了她的的本名プリスカ・ベネディクト，以后会不会有拼写说不定。[Fandom](https://rezero.fandom.com/wiki/Priscilla_Barielle)上暂拼为Prisca Benedict）
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -470,7 +470,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 斯芬克斯/史宾克斯（亚人战争时的魔女スピンクス）：Sphinx
+#### 斯芬克斯/史宾克斯（亚人战争时的魔女-スピンクス）：Sphinx
 
 出处自然就一个：[EX2剑鬼恋歌彩插](https://static.wikia.nocookie.net/rezero/images/1/14/Re_Zero_Ex_Volume_2_3.jpg)。与神话中狮身人面的斯芬克斯同名
 
@@ -520,6 +520,40 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 杂志短篇图源不太清楚，不过也勉强当它是出处了（
 
 顺便四王子的名字不少人应该发现其实和数学上的傅里叶是一样的，以前常见翻译用弗利艾，弗利耶之类的时候还不太看得出来……不过后来才知道大陆简中官译还真的给翻成傅里叶了（
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 帝国皇族
+
+**文森特（77代皇帝 ヴィンセント・ヴォラキア）：Vincent Vollachia**
+
+出自[EX4彩插人设](https://static.wikia.nocookie.net/rezero/images/c/c2/Re_Zero_Ex_Volume_4_1.jpg)。至于文森特的原姓アベルクス就没有拼写了。[Fandom](https://rezero.fandom.com/wiki/Vincent_Vollachia)拼作Abellux仅供参考
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/vincent.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+**前代傲慢（ストライド・ヴォラキア）：Stride Vollachia**
+
+出自[EX3彩插人设](https://static.wikia.nocookie.net/rezero/images/c/ce/Re_Zero_Ex_Volume_3_HQ_3.jpg)
+
+不过仔细一看会发现EX3上有个问题——帝国国名少拼个l
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/stride.png)
+
+当初看EX3这么拼的时候还糊涂了好一阵，后来看到EX4发售前夕人官方的人设汇帝国拼写还是两个l，再加上有杂志版短篇帝国外交的英文标题也是Vollachia，看来问题应该就只是出在EX3上了
+
+帝国人设汇总
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/vincent.png)
+
+杂志版帝国外交标题
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/vollachia_blood.png)
+
+不过说来从红莲的剧情看皇储们在即位前都是用自家的姓氏，登了位才改姓Vollachia的。所以前代傲慢有冒用姓氏的可能（包括他第一人称也用余，感觉也有以皇帝的方式自称了的感觉）
 
 [返回目录](#目录-1)<br/>
 <br/>
