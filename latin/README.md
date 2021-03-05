@@ -31,7 +31,9 @@
 
 [怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教『美食家』](#暴食司教美食家ライバテンカイトスRye-Batenkaitos) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
 
-[EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女スピンクスSphinx) &nbsp; [八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki)
+[EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女スピンクスSphinx)
+
+[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [亲龙王国王族](#亲龙王国王族)
 
 </details>
 
@@ -484,7 +486,40 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 #### IF线中486与蕾姆子女：Rigel Natsuki和Spica Natsuki
 
-姓氏肯定是菜月了……名字原作没有人设图，不过肯定的是他们俩也是用恒星取的名：[参宿七](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%8F%82%E5%AE%BF%E4%B8%83)和[角宿一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%AE%A4%E5%A5%B3%E5%BA%A7)，因此把西名搬过来就行。完整姓名就按照486的官设名在前姓在后了，虽然好像有点别扭😷
+姓氏肯定是菜月了……名字（リゲル、スピカ）原作没有人设图，不过肯定的是他们俩也是用恒星取的名：[参宿七](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%8F%82%E5%AE%BF%E4%B8%83)和[角宿一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%AE%A4%E5%A5%B3%E5%BA%A7)，因此把西名搬过来就行。完整姓名就按照486的官设名在前姓在后了，虽然好像有点别扭😷
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 亲龙王国王族
+
+**40代国王（ジオニス・ルグニカ）：Gionis Lugunica**
+
+出自[EX3彩插人设](https://static.wikia.nocookie.net/rezero/images/c/ce/Re_Zero_Ex_Volume_3_HQ_3.jpg)
+
+这里以前一直有个问题，各种英翻和[Fandom](https://rezero.fandom.com/wiki/Kingdom_of_Lugnica)往往把亲龙王国国名拼成Lugnica，官设少一个u，我也一度困惑哪个对，后来看到了越来越多的官方出版物，如特典LUGUNICA NEWS PAPER，还有短篇[Once Upon aTime in Lugunica](https://static.wikia.nocookie.net/rezero/images/d/dd/Once_Upon_a_Time_in_Lugunica.jpg)及[Lugunican Hustle]采用的都是和EX3上一样的拼写。于是我还是选择以官方为准了
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/onceupon.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hustle.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/lugunicanews.png)
+<br/>
+<br/>
+
+**前四王子：Fourier Lugunica**
+
+姓氏前面说过了，名字拼写出现在杂志短篇青之继承者上，短篇集5收录后又出现在卷尾预告。
+
+短篇集5
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/fouriert5.png)
+
+杂志短篇：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/fourier.png)
+
+杂志短篇图源不太清楚，不过也勉强当它是出处了（
+
+顺便四王子的名字不少人应该发现其实和数学上的傅里叶是一样的，以前常见翻译用弗利艾，弗利耶之类的时候还不太看得出来……不过后来才知道大陆简中官译还真的给翻成傅里叶了（
 
 [返回目录](#目录-1)<br/>
 <br/>
