@@ -553,7 +553,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/vollachia_blood.png)
 
-不过说来从红莲的剧情看皇储们在即位前都是用自家的姓氏，登了位才改姓Vollachia的。所以前代傲慢有冒用姓氏的可能（包括他第一人称也用余，感觉也有以皇帝的方式自称了的感觉）
+不过说来从红莲的剧情看皇储们在即位前都是用自家的姓氏，登了位才改姓Vollachia的。所以前代傲慢有冒用姓氏的可能（包括他第一人称也用余，感觉也有以皇帝的方式自称了的感觉），也不知道他自己有没有旧姓了
 
 [返回目录](#目录-1)<br/>
 <br/>
