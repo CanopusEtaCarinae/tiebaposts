@@ -495,7 +495,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 **40代国王（ジオニス・ルグニカ）：Gionis Lugunica**
 
-出自[EX3彩插人设](https://static.wikia.nocookie.net/rezero/images/c/ce/Re_Zero_Ex_Volume_3_HQ_3.jpg)
+出自[EX3彩插人设](https://static.wikia.nocookie.net/rezero/images/c/ce/Re_Zero_Ex_Volume_3_HQ_3.jpg/revision/latest?cb=20210108085209)
 
 这里以前一直有个问题，各种英翻和[Fandom](https://rezero.fandom.com/wiki/Kingdom_of_Lugnica)往往把亲龙王国国名拼成Lugnica，官设少一个u，我也一度困惑哪个对，后来看到了越来越多的官方出版物，如特典LUGUNICA NEWS PAPER，还有短篇[Once Upon a Time in Lugunica](https://static.wikia.nocookie.net/rezero/images/d/dd/Once_Upon_a_Time_in_Lugunica.jpg)及[Lugunican Hustle](https://static.wikia.nocookie.net/rezero/images/b/be/Lugunican_Hussle.jpg)采用的都是和EX3上一样的拼写。于是我还是选择以官方为准了
 
@@ -537,7 +537,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 **前代傲慢（ストライド・ヴォラキア）：Stride Vollachia**
 
-出自[EX3彩插人设](https://static.wikia.nocookie.net/rezero/images/c/ce/Re_Zero_Ex_Volume_3_HQ_3.jpg)
+出自[EX3彩插人设](https://static.wikia.nocookie.net/rezero/images/c/ce/Re_Zero_Ex_Volume_3_HQ_3.jpg/revision/latest?cb=20210108085209)
 
 不过仔细一看会发现EX3上有个问题——帝国国名少拼个l
 
