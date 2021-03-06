@@ -576,7 +576,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ryuzubu.png)
 
-然而这其实和上面的强欲一样也是改过的——二期一开设的人设拼的是Birma
+然而这其实和上面的强欲一样也是改过的——二期刚出时的人设拼的是Birma
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ryuzu.png)
 
