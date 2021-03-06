@@ -150,7 +150,7 @@
 
 #### 佩特拉（ペトラ・レイテ）：Petra Leyte
 
-同奥托没有小说彩页版人设，名在[11卷卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC11%E5%8D%B7?file=Re_Zero_Volume_11_18.jpg)及杂志短篇上有拼写，姓氏Leyte原本也是民间拼写，同样在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
+同奥托没有小说彩页版人设，名在[11卷卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC11%E5%8D%B7?file=Re_Zero_Volume_11_17.jpg)及杂志短篇上有拼写，姓氏Leyte原本也是民间拼写，同样在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
 
 [返回目录](#目录-1)<br/>
 <br/>
