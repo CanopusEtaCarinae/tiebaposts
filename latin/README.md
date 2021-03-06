@@ -62,21 +62,21 @@
 
 #### EMT（エミリア）：Emilia
 
-出处很多，就不列全了，如文库[第六卷彩页](https://static.wikia.nocookie.net/rezero/images/9/9e/Re_Zero_Volume_6_6.jpeg)、第[三](https://static.wikia.nocookie.net/rezero/images/e/ed/Re_Zero_Volume_3_16.jpeg)第[九](https://static.wikia.nocookie.net/rezero/images/e/ec/Re_Zero_Volume_9_17.jpg)等卷的卷尾预告，[TV动画人设](http://re-zero-anime.jp/tv/character)等等（有人问为什么没有第一卷？你去看了就知道，人家第一卷防剧透在人设彩插写的是“？？？”233）
+出处很多，就不列全了，如文库[第六卷彩页](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC6%E5%8D%B7?file=Re_Zero_Volume_6_6.jpeg)、第[三](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC3%E5%8D%B7?file=Re_Zero_Volume_3_16.jpeg)第[九](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC9%E5%8D%B7?file=Re_Zero_Volume_9_17.jpg)等卷的卷尾预告，[TV动画人设](http://re-zero-anime.jp/tv/character)等等（有人问为什么没有第一卷？你去看了就知道，人家第一卷防剧透在人设彩插写的是“？？？”233）
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 帕克（パック）：Pack
 
-出处同样多：文库[第一卷人设彩插](https://static.wikia.nocookie.net/rezero/images/f/f2/Re_Zero_Volume_1_17.jpg)、[第二卷卷尾预告](https://static.wikia.nocookie.net/rezero/images/3/3a/Re_Zero_Volume_2_15.jpeg)等，包括[TV动画人设](http://re-zero-anime.jp/tv/character)。不过这里还是有一定争议，比如在[星空文化那贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%85%B6%E4%BB%96%E5%AD%98%E7%96%91)提到的，包括本贴的[原贴125楼](https://tieba.baidu.com/p/6625632913?pn=4)所说，Pack从一方面意义上不如Puck，另一方面发音也不如Puck更像英文。如官方虽全是Pack但看起来也不能就锤死了Puck不对。只能等以后有更好的线索再讨论了。
+出处同样多：文库[第一卷人设彩插](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_17.jpg)、[第二卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC2%E5%8D%B7?file=Re_Zero_Volume_2_15.jpeg)等，包括[TV动画人设](http://re-zero-anime.jp/tv/character)。不过这里还是有一定争议，比如在[星空文化那贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%85%B6%E4%BB%96%E5%AD%98%E7%96%91)提到的，包括本贴的[原贴125楼](https://tieba.baidu.com/p/6625632913?pn=4)所说，Pack从一方面意义上不如Puck，另一方面发音也不如Puck更像英文。如官方虽全是Pack但看起来也不能就锤死了Puck不对。只能等以后有更好的线索再讨论了。
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 贝蒂（ベアトリス）：Beatrice
 
-出处很多，如[文库第二卷彩插人设](https://static.wikia.nocookie.net/rezero/images/e/e9/Re_Zero_Volume_2_4.jpeg)和[2](https://static.wikia.nocookie.net/rezero/images/3/3a/Re_Zero_Volume_2_15.jpeg)、[15](https://static.wikia.nocookie.net/rezero/images/7/7c/Re_Zero_Light_Novel_Volume_15_15.jpg)等卷的卷尾预告及[TV动画人设](http://re-zero-anime.jp/tv/character)等
+出处很多，如[文库第二卷彩插人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC2%E5%8D%B7?file=Re_Zero_Volume_2_4.jpeg)和[2](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC2%E5%8D%B7?file=Re_Zero_Volume_2_15.jpeg)、[15](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC15%E5%8D%B7?file=Re_Zero_Light_Novel_Volume_15_15.jpg)等卷的卷尾预告及[TV动画人设](http://re-zero-anime.jp/tv/character)等
 （不过贝蒂这个称呼本身好像没有拼写……[fandom](https://rezero.fandom.com/wiki/Beatrice)上直接给的Betty，仅供参考罢）
 
 [返回目录](#目录-1)<br/>
@@ -84,7 +84,7 @@
 
 #### 骡子（ロズワール・L・メイザース）：Roswaal L Mathers
 
-[文库小说人设](https://static.wikia.nocookie.net/rezero/images/e/e9/Re_Zero_Volume_2_4.jpeg)里只拼了名字没姓氏，姓氏比较好找的出处是[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia人物介绍，见下图（图里为一期人设，二期人设点开链接即可）
+[文库小说人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC2%E5%8D%B7?file=Re_Zero_Volume_2_4.jpeg)里只拼了名字没姓氏，姓氏比较好找的出处是[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia人物介绍，见下图（图里为一期人设，二期人设点开链接即可）
 
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ros_tv.png) ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ros_zpedia.png)
@@ -96,14 +96,14 @@
 
 #### 拉姆（ラム）：Ram
 
-[第二卷彩插人设](https://static.wikia.nocookie.net/rezero/images/e/e9/Re_Zero_Volume_2_4.jpeg)和[TV动画人设](http://re-zero-anime.jp/tv/character)。卷尾预告也有若干，具体懒得全列了（逃
+[第二卷彩插人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC2%E5%8D%B7?file=Re_Zero_Volume_2_4.jpeg)和[TV动画人设](http://re-zero-anime.jp/tv/character)。卷尾预告也有若干，具体懒得全列了（逃
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 蕾姆（レム）：Rem
 
-出处基本和拉姆一致
+出处基本和拉姆一致，毕竟姐妹俩在人设中常常是一起的
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -130,14 +130,14 @@
 
 #### 芙蕾（フレデリカ・バウマン）：Frederica Baumann
 
-名拼写在[十卷人设](https://static.wikia.nocookie.net/rezero/images/9/98/Re_Zero_Volume_10_15.jpg)、[十一卷卷尾](https://static.wikia.nocookie.net/rezero/images/c/c8/Re_Zero_Volume_11_18.jpg)、杂志短篇等。姓氏原本也只是民间拼Baumann，[二期TV动画人设](http://re-zero-anime.jp/tv/character)才由官方确认。
+名拼写在[十卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_15.jpg)、[十一卷卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC11%E5%8D%B7?file=Re_Zero_Volume_11_18.jpg)、杂志短篇等。姓氏原本也只是民间拼Baumann，[二期TV动画人设](http://re-zero-anime.jp/tv/character)才由官方确认。
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 加菲尔/嘉飞尔/贾菲尔（ガーフィール・ティンゼル）：Garfiel Tinsel
 
-名拼写见[十卷人设](https://static.wikia.nocookie.net/rezero/images/9/98/Re_Zero_Volume_10_15.jpg)，[十三卷](https://static.wikia.nocookie.net/rezero/images/3/34/Re_Zero_Volume_13_16.jpg)、[十七卷卷尾预告](https://static.wikia.nocookie.net/rezero/images/b/b4/Re_Zero_Light_Novel_Volume_17_15.jpg)，杂志短篇等。姓氏同上原为民间拼写并在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认。值得一提的是加菲的拼写在杂志短篇上闹过个大笑话，我们知道他的名字Garfiel本身就类似加菲猫的Garfield，再加上有虎亚人血统，所以读者（包括我）也常称呼他为加菲猫，结果杂志上奥托行商路和土蜘蛛的短篇还真的把他的人设给这么拼了，就当个小笑料看罢…………
+名拼写见[十卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_15.jpg)，[十三卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC13%E5%8D%B7?file=Re_Zero_Volume_13_16.jpg)、[十七卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC17%E5%8D%B7?file=Re_Zero_Light_Novel_Volume_17_15.jpg)，杂志短篇等。姓氏同上原为民间拼写并在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认。值得一提的是加菲的拼写在杂志短篇上闹过个大笑话，我们知道他的名字Garfiel本身就类似加菲猫的Garfield，再加上有虎亚人血统，所以读者（包括我）也常称呼他为加菲猫，结果杂志上奥托行商路和土蜘蛛的短篇还真的把他的人设给这么拼了，就当个小笑料看罢…………
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/garfield_ca.png)
 
@@ -150,14 +150,14 @@
 
 #### 佩特拉（ペトラ・レイテ）：Petra Leyte
 
-同奥托没有小说彩页版人设，名在[11卷卷尾](https://static.wikia.nocookie.net/rezero/images/1/19/Re_Zero_Volume_11_17.jpg)及杂志短篇上有拼写，姓氏Leyte原本也是民间拼写，同样在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
+同奥托没有小说彩页版人设，名在[11卷卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC11%E5%8D%B7?file=Re_Zero_Volume_11_18.jpg)及杂志短篇上有拼写，姓氏Leyte原本也是民间拼写，同样在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 梅莉/梅丽（メィリィ・ポートルート）：Meili Portroute
 
-名拼写在[十二卷的人设](https://static.wikia.nocookie.net/rezero/images/c/c0/Re_Zero_Volume_12_3.jpg)和[卷尾预告](https://static.wikia.nocookie.net/rezero/images/8/80/Re_Zero_Volume_12_16.jpg)，姓氏同上原为民间拼写后在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
+名拼写在[十二卷的人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC12%E5%8D%B7?file=Re_Zero_Volume_12_3.jpg)和[卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC12%E5%8D%B7?file=Re_Zero_Volume_12_16.jpg)，姓氏同上原为民间拼写后在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -173,14 +173,14 @@
 
 #### 菲鲁特（フェルト）：Felt
 
-出自[一卷彩插人设](https://static.wikia.nocookie.net/rezero/images/2/2c/Re_Zero_Volume_1_19.jpg)和[TV动画人设](http://re-zero-anime.jp/tv/character)等。不过菲鲁特真名未知，也只能先用已知资料列在这了
+出自[一卷彩插人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_19.jpg)和[TV动画人设](http://re-zero-anime.jp/tv/character)等。不过菲鲁特真名未知，也只能先用已知资料列在这了
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 莱傲天（ラインハルト・ヴァン・アストレア）：Reinhard Van Astrea
 
-名[第一卷人设](https://static.wikia.nocookie.net/rezero/images/a/a1/Re_Zero_Volume_1_18.jpg)就有，家名在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia以及杂志短篇上都有出现。这里有一个问题是Van的V要不要大写——van放现实来看是许多荷兰人名中姓的一部分。本作既然按西式人名取名的话van按理应该也仿照现实小写。然而凡是找得到的Re0出版物的官方拼写都是把V大写的，纠结了几下最终我还是以官方的为准了
+名[第一卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_18.jpg)就有，家名在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia以及杂志短篇上都有出现。这里有一个问题是Van的V要不要大写——van放现实来看是许多荷兰人名中姓的一部分。本作既然按西式人名取名的话van按理应该也仿照现实小写。然而凡是找得到的Re0出版物的官方拼写都是把V大写的，纠结了几下最终我还是以官方的为准了
 
 动画一期人设
 
@@ -195,7 +195,7 @@ Zeropedia
 
 #### 库珥修/克鲁修（クルシュ・カルステン）：Crusch Karsten
 
-名在[第四卷人设](https://static.wikia.nocookie.net/rezero/images/0/06/Re_Zero_Volume_4_4.jpeg)就有，姓氏在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia可找到。
+名在[第四卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC4%E5%8D%B7?file=Re_Zero_Volume_4_4.jpeg)就有，姓氏在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia可找到。
 
 TV一期人设
 
@@ -212,7 +212,7 @@ zeropedia
 
 昵称： **Ferris** 。全名 **：Felix Argyle**
 
-菲利斯连昵称都有个正经拼法……见[四卷彩插人设](https://static.wikia.nocookie.net/rezero/images/0/06/Re_Zero_Volume_4_4.jpeg)。全名出自[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia等
+菲利斯连昵称都有个正经拼法……见[四卷彩插人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC4%E5%8D%B7?file=Re_Zero_Volume_4_4.jpeg)。全名出自[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia等
 
 四卷彩插
 
@@ -240,7 +240,7 @@ zeropedia
 
 #### 安娜（アナスタシア・ホーシン）：Anastasia Hoshin
 
-名出处上和面几个一样名字在[第四卷](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_4_3.jpeg)，姓氏在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia。
+名出处上和面几个一样名字在[第四卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC4%E5%8D%B7?file=Re_Zero_Volume_4_3.jpeg)，姓氏在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia。
 
 〔题外话，Kararagi出身的部分角色名字会有些日文的感觉，比如安娜的姓氏来自Kararagi缔造者荒地的Hoshin（ホーシン），而ホーシン本身也是一些日语词语的发音，比如我以前查到过“方針”读音就与此相同。类似的还有歌姬狂Kiritaka，有些翻译君甚至直接把他的名字按日语译成“桐鷹”的。再比如僵尸短篇的Yae，根据她会放苦无的技能说不定她出身也与西方有关，而台版就完全把她名字当日文译成汉字了（Yae Tenzen→八重·天膳）〕
 另外零大以前还针对安娜的中文音译[开过一个帖子](https://tieba.baidu.com/p/5948173277)，也挺有意思
@@ -258,7 +258,7 @@ Zeropedia
 
 #### 6154（ユリウス・ユークリウス）：Julius Juukulius
 
-出处基本同上，[第四卷人设](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_4_3.jpeg)+[TV动画人设](http://re-zero-anime.jp/tv/character)及zeropedia。
+出处基本同上，[第四卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC4%E5%8D%B7?file=Re_Zero_Volume_4_3.jpeg)+[TV动画人设](http://re-zero-anime.jp/tv/character)及zeropedia。
 
 动画一期人设
 
@@ -297,7 +297,7 @@ Zeropedia
 
 #### 寡妇（プリシラ・バーリエル）：Priscilla Barielle
 
-出处为[四卷文库](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_4_3.jpeg)+[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia
+出处为[四卷文库](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC4%E5%8D%B7?file=Re_Zero_Volume_4_3.jpeg)+[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia
 
 动画一期人设
 
@@ -322,7 +322,7 @@ Zeropedia
 
 常用称呼： **Al** 。全名（アルデバラン）： **Aldebaran**
 
-[四卷人设](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_4_3.jpeg)只有Al这个简略称呼，全名就是[TV人设](http://re-zero-anime.jp/tv/character)和zeropedia上有了。此外[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E6%AF%95%E5%AE%BF%E4%BA%94)里有提Al的名字取自金牛座α星毕宿五的西名，在此顺便一提
+[四卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC4%E5%8D%B7?file=Re_Zero_Volume_4_3.jpeg)只有Al这个简略称呼，全名就是[TV人设](http://re-zero-anime.jp/tv/character)和zeropedia上有了。此外[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E6%AF%95%E5%AE%BF%E4%BA%94)里有提Al的名字取自金牛座α星毕宿五的西名，在此顺便一提
 
 动画一期人设
 
@@ -341,7 +341,7 @@ Zeropedia
 
 昵称（ジュース）： **Geuse** 。全名（ペテルギウス・ロマネコンティ）： **Petelgeuse Romaneeconti**
 
-带姓氏的全名出处有[TV动画人设](http://re-zero-anime.jp/tv/character)，zeropedia和资料集Visual Commentary。名字还在文库[16卷卷尾预告](https://static.wikia.nocookie.net/rezero/images/c/cd/Re_Zero_Light_Novel_Volume_16_13.jpg)以及[Re: BOX画集](https://static.wikia.nocookie.net/rezero/images/6/64/Miklotov%2C_Rickert%2C_Petelgeuse_Concept_Art.jpg)出现过。
+带姓氏的全名出处有[TV动画人设](http://re-zero-anime.jp/tv/character)，zeropedia和资料集Visual Commentary。名字还在文库[16卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Light_Novel_Volume_16_13.jpg)以及[Re: BOX画集](https://rezero.fandom.com/wiki/Re:Zero_Ootsuka_Shinichirou_Art_Works_Re:BOX?file=Miklotov%252C_Rickert%252C_Petelgeuse_Concept_Art.jpg)出现过。
 
 动画一期人设
 
@@ -355,7 +355,7 @@ Zeropedia
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/petel_zpedia.png)
 
-昵称Geuse见文库14卷人设和卷尾预告，其实就是Petelgeuse截出了后半截而已。（记得14卷人设出以前因为读音的问题还一度被误解成juice来着）
+昵称Geuse见文库[14卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_2.jpg)和[卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_18.jpg)，其实就是Petelgeuse截出了后半截而已。（记得14卷人设出以前因为读音的问题还一度被误解成juice来着）
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/constellation/images/geuse.png)
 
@@ -367,14 +367,14 @@ Zeropedia
 
 #### 愤怒司教（シリウス・ロマネコンティ）：Sirius Romaneeconti
 
-姓氏与怠惰一样，名字见[16卷人设图](https://static.wikia.nocookie.net/rezero/images/1/12/Re_Zero_Volume_16_Characters_2.jpg)和[卷尾预告](https://static.wikia.nocookie.net/rezero/images/3/3b/Re_Zero_Light_Novel_Volume_16_14.jpg)，同时取自[天狼星的西名](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A7%E7%8A%AC%E5%BA%A7)。
+姓氏与怠惰一样，名字见[16卷人设图](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_2.jpg)和[卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Light_Novel_Volume_16_14.jpg)，同时取自[天狼星的西名](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A7%E7%8A%AC%E5%BA%A7)。
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 强欲司教（レグルス・コルニアス）：Regulus Corneas
 
-司教印象中除了愤怒和怠惰以外都没有在小说彩插人设。不过好在司教的名字一部分是出自恒星名故至少有一部分是可以很容易确定的。强欲星名即[轩辕十四](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E7%8B%AE%E5%AD%90%E5%BA%A7)西名Regulus（[18卷卷尾](https://static.wikia.nocookie.net/rezero/images/2/27/Re_Zero_Volume_18_13.jpg)倒也有出现）。姓氏Corneas本为民间拼写，在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
+司教印象中除了愤怒和怠惰以外都没有在小说彩插人设。不过好在司教的名字一部分是出自恒星名故至少有一部分是可以很容易确定的。强欲星名即[轩辕十四](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E7%8B%AE%E5%AD%90%E5%BA%A7)西名Regulus（[18卷卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC18%E5%8D%B7?file=Re_Zero_Volume_18_13.jpg)倒也有出现）。姓氏Corneas本为民间拼写，在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/regulusc.png)
 
@@ -408,7 +408,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 虚饰（パンドラ）： **Pandora** ；<br/>
 忧郁（ヘクトール）： **Hector**<br/>
 
-除忧郁外魔女的人设都在[10](https://static.wikia.nocookie.net/rezero/images/5/59/Re_Zero_Volume_10_16.jpg)，[11](https://static.wikia.nocookie.net/rezero/images/f/ff/Re_Zero_Volume_11_4.jpg)，[12卷](https://static.wikia.nocookie.net/rezero/images/c/c0/Re_Zero_Volume_12_3.jpg)，[14卷的彩页](https://static.wikia.nocookie.net/rezero/images/0/0b/Re_Zero_Volume_14_3.jpg)以及[tv动画人设](http://re-zero-anime.jp/tv/character)给好了，且[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%B0%8F%E8%A1%8C%E6%98%9F%E7%9B%B8%E5%85%B3)中我也说过这些名字也都出自神话以及对应的小行星名。至于忧郁虽然官方还没有直接给出拼写，但名字很明显是取自特洛伊战争里的赫克托耳，因此我就直接拿过来了。
+除忧郁外魔女的人设都在[10](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_16.jpg)，[11](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC11%E5%8D%B7?file=Re_Zero_Volume_11_4.jpg)，[12卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC12%E5%8D%B7?file=Re_Zero_Volume_12_3.jpg)，[14卷的彩页](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_3.jpg)以及[tv动画人设](http://re-zero-anime.jp/tv/character)给好了，且[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%B0%8F%E8%A1%8C%E6%98%9F%E7%9B%B8%E5%85%B3)中我也说过这些名字也都出自神话以及对应的小行星名。至于忧郁虽然官方还没有直接给出拼写，但名字很明显是取自特洛伊战争里的赫克托耳，因此我就直接拿过来了。
 
 不过如[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%B0%8F%E8%A1%8C%E6%98%9F%E7%9B%B8%E5%85%B3)中所说，色欲和忧郁两个拼写其实有点疑问，前者比实际少个字母，后者是神话与小行星拼写不同。色欲我就还是按官方出版物的来了，忧郁暂且以神话为准。详情在星空文化贴中有具体解释
 
@@ -421,18 +421,18 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 #### 夏乌拉（シャウラ）：Shaula
 
-出自[22卷人设](https://static.wikia.nocookie.net/rezero/images/d/de/Re_Zero_Light_Novel_22_3.png)及[22](https://static.wikia.nocookie.net/rezero/images/7/70/Re_Zero_Light_Novel_22_16.jpg)，[24](https://static.wikia.nocookie.net/rezero/images/1/18/Re_Zero_Light_Novel_24_17.jpg)等卷卷尾预告。同时名字取自[天蝎座尾宿八](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A9%E8%9D%8E%E5%BA%A7)。
+出自[22卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC22%E5%8D%B7?file=Re_Zero_Light_Novel_22_3.png)及[22](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC22%E5%8D%B7?file=Re_Zero_Light_Novel_22_16.jpg)，[24](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC24%E5%8D%B7?file=Re_Zero_Light_Novel_24_17.jpg)等卷卷尾预告。同时名字取自[天蝎座尾宿八](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A9%E8%9D%8E%E5%BA%A7)。
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 初代剑圣（レイド・アストレア）：Reid Astrea
 
-出自[22卷人设](https://static.wikia.nocookie.net/rezero/images/d/de/Re_Zero_Light_Novel_22_3.png)。
+出自[22卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC22%E5%8D%B7?file=Re_Zero_Light_Novel_22_3.png)。
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/Reid.png)
 
-不过官方貌似在雷德上也出了乌龙——[23卷卷尾预告](https://static.wikia.nocookie.net/rezero/images/6/6e/Re_Zero_Light_Novel_23_17.jpg)的雷德就被拼成了Raid。考虑到民间也基本拼成Reid，我还是当这个算事故罢。
+不过官方貌似在雷德上也出了乌龙——[23卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC23%E5%8D%B7?file=Re_Zero_Light_Novel_23_17.jpg)的雷德就被拼成了Raid。考虑到民间也基本拼成Reid，我还是当这个算事故罢。
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/raid.png)
 
@@ -448,7 +448,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 #### 神龙（ボルカニカ）：Volcanica
 
-出自[25卷卷尾设定](https://static.wikia.nocookie.net/rezero/images/5/5a/Re_Zero_Light_Novel_25_14.jpg)
+出自[25卷卷尾设定](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC25%E5%8D%B7?file=ReZero_vol.25_illustration_15.jpeg)
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/volcanica.png)
 
@@ -457,34 +457,35 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 #### EMT养母/姑姑（フォルトナ）：Fortuna
 
-出自[文库14卷人设](https://static.wikia.nocookie.net/rezero/images/f/fc/Re_Zero_Volume_14_2.jpg)及[卷尾预告](https://static.wikia.nocookie.net/rezero/images/4/4c/Re_Zero_Volume_14_17.jpg)
+出自[文库14卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_2.jpg)及[卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_17.jpg)
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 海因凯尔/亨克尔（莱傲天父，ハインケル・アストレア）：Heinkel Astrea
 
-名字出自[16卷人设](https://static.wikia.nocookie.net/rezero/images/1/12/Re_Zero_Volume_16_Characters_2.jpg)，家名就从莱傲天和剑鬼的家名中去掉van就好。
+名字出自[16卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_2.jpg)，家名就从莱傲天和剑鬼的家名中去掉van就好。
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 贝鲁托尔/贝尔托（剑鬼岳父，剑圣家族前前家主ベルトール・アストレア）：Veltol Astrea
-家名情况同上，名字出自[EX3人设](https://static.wikia.nocookie.net/rezero/images/0/09/Re_Zero_Ex_Volume_3_HQ_4.jpg)及[卷尾预告](https://static.wikia.nocookie.net/rezero/images/d/d1/Re_Zero_Ex_Volume_3_16.png)
+
+家名情况同上，名字出自[EX3人设](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E8%B0%AD?file=Re_Zero_Ex_Volume_3_4.png)及[卷尾预告](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E8%B0%AD?file=Re_Zero_Ex_Volume_3_16.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 斯芬克斯/史宾克斯（亚人战争时的魔女-スピンクス）：Sphinx
 
-出处自然就一个：[EX2剑鬼恋歌彩插](https://static.wikia.nocookie.net/rezero/images/1/14/Re_Zero_Ex_Volume_2_3.jpg)。与神话中狮身人面的斯芬克斯同名
+出处自然就一个：[EX2剑鬼恋歌彩插](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E6%AD%8C?file=Re_Zero_Ex_Volume_2_3.jpg)。与神话中狮身人面的斯芬克斯同名
 
 [返回目录](#目录-1)<br/>
 <br/>
 
 #### 八腕斗神（クルガン）：Kurgan
 
-出自[EX3彩插人设](https://static.wikia.nocookie.net/rezero/images/0/09/Re_Zero_Ex_Volume_3_HQ_4.jpg)
+出自[EX3彩插人设](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E8%B0%AD?file=Re_Zero_Ex_Volume_3_4.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -500,9 +501,9 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 **40代国王（ジオニス・ルグニカ）：Gionis Lugunica**
 
-出自[EX3彩插人设](https://static.wikia.nocookie.net/rezero/images/c/ce/Re_Zero_Ex_Volume_3_HQ_3.jpg/revision/latest?cb=20210108085209)
+出自[EX3彩插人设](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E8%B0%AD?file=Re_Zero_Ex_Volume_3_3.png)
 
-这里以前一直有个问题，各种英翻和[Fandom](https://rezero.fandom.com/wiki/Kingdom_of_Lugnica)往往把亲龙王国国名拼成Lugnica，官设少一个u，我也一度困惑哪个对，后来看到了越来越多的官方出版物，如特典LUGUNICA NEWS PAPER，还有短篇[Once Upon a Time in Lugunica](https://static.wikia.nocookie.net/rezero/images/d/dd/Once_Upon_a_Time_in_Lugunica.jpg)及[Lugunican Hustle](https://static.wikia.nocookie.net/rezero/images/b/be/Lugunican_Hussle.jpg)采用的都是和EX3上一样的拼写。于是我还是选择以官方为准了
+这里以前一直有个问题，各种英翻和[Fandom](https://rezero.fandom.com/wiki/Kingdom_of_Lugnica)往往把亲龙王国国名拼成Lugnica，比官设少一个u，我也一度困惑哪个对，后来看到了越来越多的官方出版物，如特典LUGUNICA NEWS PAPER，还有短篇[Once Upon a Time in Lugunica](https://rezero.fandom.com/zh/wiki/Once_Upon_a_Time_in_Lugunica?file=Once_Upon_a_Time_in_Lugunica.jpg)及[Lugunican Hustle](https://rezero.fandom.com/zh/wiki/Lugunican_Hustle?file=Lugunican+Hustle%EF%BC%88%E5%89%8D%EF%BC%89.jpg)采用的都是和EX3上一样的拼写。于是我还是选择以官方为准了
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/onceupon.png)
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hustle.png)
@@ -533,7 +534,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 **文森特（77代皇帝 ヴィンセント・ヴォラキア）：Vincent Vollachia**
 
-出自[EX4彩插人设](https://static.wikia.nocookie.net/rezero/images/c/c2/Re_Zero_Ex_Volume_4_1.jpg)。至于文森特的原姓アベルクス就没有拼写了。[Fandom](https://rezero.fandom.com/wiki/Vincent_Vollachia)拼作Abellux仅供参考
+出自[EX4彩插人设](https://rezero.fandom.com/zh/wiki/%E6%9C%80%E4%BC%98%E7%BA%AA%E8%A1%8C?file=Re_Zero_Ex_Volume_4_1.jpg)。至于文森特的原姓アベルクス就没有拼写了。[Fandom](https://rezero.fandom.com/wiki/Vincent_Vollachia)拼作Abellux仅供参考
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/vincent.png)
 
@@ -542,7 +543,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 **前代傲慢（ストライド・ヴォラキア）：Stride Vollachia**
 
-出自[EX3彩插人设](https://static.wikia.nocookie.net/rezero/images/c/ce/Re_Zero_Ex_Volume_3_HQ_3.jpg/revision/latest?cb=20210108085209)
+出自[EX3彩插人设](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E8%B0%AD?file=Re_Zero_Ex_Volume_3_3.png)
 
 不过仔细一看会发现EX3上有个问题——帝国国名少拼个l
 
@@ -569,7 +570,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 #### 琉兹（リューズ）：名 Ryuzu；姓氏复制体和本体均不同
 
-名字拼写出自[10卷彩页人设](https://static.wikia.nocookie.net/rezero/images/5/59/Re_Zero_Volume_10_16.jpg)。另外10卷人设未出时fandom一度拼成Lewes，直到二期放送期间才改掉。
+名字拼写出自[10卷彩页人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_16.jpg)。另外10卷人设未出时fandom一度拼成Lewes，直到二期放送期间才改掉。
 
 琉兹的姓氏比较麻烦，本体メイエル没有官设拼写（[Fandom](https://rezero.fandom.com/wiki/Ryuzu_Meyer_(copy))拼作Meyer仅供参考）；复制体的话，WEB版486是希腊字母α、β、θ、Σ取名但没当姓氏；而文库是仿照希腊字母（或者可能也有拉丁字母的成分？）取的阿尔玛（アルマ）、毕尔玛（ビルマ）、西玛（シーマ）、德尔玛（デルマ）。其中首个出场的毕尔玛在[TV动画人设](http://re-zero-anime.jp/tv/character)中给出了拼写：Ryuzu Burma
 
