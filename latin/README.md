@@ -279,7 +279,7 @@ Zeropedia
 
 #### 约修亚/约书亚（ヨシュア・ユークリウス）：Joshua Juukulius
 
-姓氏和6154相同（上面另外那种拼法暂时就不当回事了），名出自文库[16卷彩插人设](https://static.wikia.nocookie.net/rezero/images/0/06/Re_Zero_Volume_16_Characters_1.jpg)
+姓氏和6154相同（上面另外那种拼法暂时就不当回事了），名出自文库[16卷彩插人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_1.jpg)
 
 [返回目录](#目录-1)<br/>
 <br/>
