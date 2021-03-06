@@ -231,7 +231,7 @@ zeropedia
 
 #### 剑鬼（ヴィルヘルム・ヴァン・アストレア）：Wilhelm Van Astrea
 
-家名和[莱傲天](#莱傲天Reinhard-Van-Astrea)一样，只需要知道名字拼法就行，见四卷彩插人设。不过剑鬼是入赘剑圣家族后改姓的，他的原姓トリアス我没有找到有拉丁拼法，[fandom](https://rezero.fandom.com/wiki/Wilhelm_van_Astrea)上的Trias仅供参考。这里我顺便把杂志短篇人设里的大写Van作为依据截个图，出自剑鬼战歌
+家名和莱傲天一样，只需要知道名字拼法就行，见四卷彩插人设。不过剑鬼是入赘剑圣家族后改姓的，他的原姓トリアス我没有找到有拉丁拼法，[fandom](https://rezero.fandom.com/wiki/Wilhelm_van_Astrea)上的Trias仅供参考。这里我顺便把杂志短篇人设里的大写Van作为依据截个图，出自剑鬼战歌
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/wil_ca.png)
 
