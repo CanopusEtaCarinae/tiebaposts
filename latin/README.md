@@ -14,6 +14,7 @@
 
 
 #### [1、全名有出处](#全名有出处)
+#### [2、姓名部分有出处](#姓名部分有出处)
 
 
 ## 目录-2
@@ -34,6 +35,10 @@
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
 [八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族)
+
+**姓名部分有出处：**
+
+[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同)
 
 </details>
 
@@ -543,7 +548,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/stride.png)
 
-当初看EX3这么拼的时候还糊涂了好一阵，后来看到EX4发售前夕人官方的人设汇帝国拼写还是两个l，再加上有杂志版短篇帝国外交的英文标题也是Vollachia，看来问题应该就只是出在EX3上了
+当初看EX3这么拼的时候还糊涂了好一阵，后来看到EX4发售前夕人官方的人设汇总帝国拼写还是两个l，再加上有杂志版短篇帝国外交的英文标题也是Vollachia，看来问题应该就只是出在EX3上了
 
 帝国人设汇总
 
@@ -554,6 +559,29 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/vollachia_blood.png)
 
 不过说来从红莲的剧情看皇储们在即位前都是用自家的姓氏，登了位才改姓Vollachia的。所以前代傲慢有冒用姓氏的可能（包括他第一人称也用余，感觉也有以皇帝的方式自称了的感觉），也不知道他自己有没有旧姓了
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+---
+
+### 姓名部分有出处
+
+#### 琉兹（リューズ）：名 Ryuzu；姓氏复制体和本体均不同
+
+名字拼写出自[10卷彩页人设](https://static.wikia.nocookie.net/rezero/images/5/59/Re_Zero_Volume_10_16.jpg)。另外10卷人设未出时fandom一度拼成Lewes，直到二期放送期间才改掉。
+
+琉兹的姓氏比较麻烦，本体メイエル没有官设拼写（[Fandom](https://rezero.fandom.com/wiki/Ryuzu_Meyer_(copy))拼作Meyer仅供参考）；复制体的话，WEB版486是希腊字母α、β、θ、Σ取名但没当姓氏；而文库是仿照希腊字母（或者可能也有拉丁字母的成分？）取的阿尔玛（アルマ）、毕尔玛（ビルマ）、西玛（シーマ）、德尔玛（デルマ）。其中首个出场的毕尔玛在[TV动画人设](http://re-zero-anime.jp/tv/character)中给出了拼写：Ryuzu Burma
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ryuzubu.png)
+
+然而这其实和上面的强欲一样也是改过的——二期一开设的人设拼的是Birma
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ryuzu.png)
+
+说实话这两种拼法感觉都挺奇怪的……相比之下[Fandom](https://rezero.fandom.com/wiki/Ryuzu_Meyer_(copy))上比较简单粗暴地写成Alma，Bilma，Cima和Delma反倒更靠谱一点……因此虽然有官设我目前还是当她姓氏没正式拼写好了……
+
+〔题外话，乍看文库四个姓氏像是希腊字母改的，不过我也觉得牵强，比如Bilma和Cima就感觉有些奇怪，要说Cima其实是Sima或者Thema我觉得倒还说得过去（倒是有点Web版的θ和Σ那种感觉），Bilma就很够戗了……要是没有那卷舌的Bema倒还好点〕
 
 [返回目录](#目录-1)<br/>
 <br/>
