@@ -52,7 +52,7 @@
 
 #### 486 (菜月昴)
 
-这个其实论外，因为人家本名是日文汉字……非要用拉丁字母拼写也就是罗马音而已，见文库[第一卷人设](https://static.wikia.nocookie.net/rezero/images/8/8a/Re_Zero_Volume_1_16.jpg/revision/latest?cb=20180407203310)和[TV动画人设](http://re-zero-anime.jp/tv/character)（虽然是名在前的写法 **Subaru Natsuki** ），都很好找就不截图了
+这个其实论外，因为人家本名是日文汉字……非要用拉丁字母拼写也就是罗马音而已，见文库[第一卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_16.jpg)和[TV动画人设](http://re-zero-anime.jp/tv/character)（虽然是名在前的写法 **Subaru Natsuki** ），都很好找就不截图了
 稍微值得调侃一句的是女装486的名字在漫画上也有拼写： **Natsumi Schwarz** 。Natsumi其实也是个罗马音，很多大佬就是用“夏美”来译的。至于姓就是个西方的姓氏施瓦茨。具体在漫画中的拼写见图（其实图里还有天才厨师[Dias](https://rezero.fandom.com/wiki/Dias_Fatsbalm)的名字，不过人家全名巨长无比，只拼了个Dias实在也不值一提……所以本贴暂时就不收录她了）
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/natsumi.png)
