@@ -38,7 +38,7 @@
 
 **部分姓名有出处：**
 
-[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同)
+[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [村长一家](#阿拉姆村村长一家姓氏-Irlam)
 
 </details>
 
@@ -583,6 +583,30 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 说实话这两种拼法感觉都挺奇怪的……相比之下[Fandom](https://rezero.fandom.com/wiki/Ryuzu_Meyer_(copy))上比较简单粗暴地写成Alma，Bilma，Cima和Delma反倒更靠谱一点……因此虽然有官设我目前还是当她姓氏没正式拼写好了……
 
 〔题外话，乍看文库四个姓氏像是希腊字母改的，不过我也觉得牵强，比如Bilma和Cima就感觉有些奇怪，要说Cima其实是Sima或者Thema我觉得倒还说得过去（倒是有点Web版的θ和Σ那种感觉），Bilma就很够戗了……要是没有那卷舌的Bema倒还好点〕
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 阿拉姆村的孩子们
+
+这个我能找到拼写的除了佩特拉也就两位，**Lucas** （リュカ）和 **Mild** （ミルド），都出自杂志版的佩特拉短篇，大家看图也就知道是谁了
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/children_ca.png)
+
+其他出场过的孩子有没有在冷天气之类的杂志短篇给过人设就不清楚了，毕竟扫图资源没有😷
+
+此外孩子们应该都是有姓氏的，只不过至今我连日文版的都还没看到，因此就当他们暂时只有部分名字有拼写了。这两位的拼写和fandom版本一致，其他fandom上孩子们的拼写也仅供参考罢
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 阿拉姆村村长一家：姓氏 Irlam
+
+要说村长一家有拼写的也就只是姓氏，也即村名而已。村名的拼写在[短篇集2冷天气彩插](https://rezero.fandom.com/wiki/Re:Zero_Tanpenshuu_Volume_2?file=Re_Zero_Tanpenshuu_Volume_2_2.jpg)
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/irlam.png)
+
+顺便村长一家已知名字的有村长（还童婆婆）ミルデ・アーラム、村长伯（村长的弟弟）ラスフム・アーラム、青年团团长（村长的孙子）マキジ・アーラム。[Fandom](https://rezero.fandom.com/wiki/Milde_Irlam)仅有村长婆婆的名字给了个民间拼写Milde Irlam，[村长伯](https://rezero.fandom.com/wiki/Muraosa)条目没有写他大名，青年团团长干脆没条目，有点尴尬……
 
 [返回目录](#目录-1)<br/>
 <br/>
