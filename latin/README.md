@@ -38,7 +38,7 @@
 
 **部分姓名有出处：**
 
-[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [村长一家](#阿拉姆村村长一家姓氏-Irlam)
+[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [村长一家](#阿拉姆村村长一家姓氏-Irlam) &nbsp; [安妮](#安妮アンネローゼミロード名-Annerose) &nbsp; [莉莉安娜](#莉莉安娜リリアナマスカレード名-Liliana)
 
 </details>
 
@@ -164,7 +164,7 @@
 
 #### 管家（クリンド）：Clind
 
-出自文库15卷虎之穴特典插图（图里还有安妮的，之后【【【安妮】】】也以这张为准了）。Clind好像没姓氏，就当他有全名了。
+出自文库15卷虎之穴特典插图（图里还有安妮的，之后[安妮](#安妮アンネローゼミロード名-Annerose)也以这张为准了）。Clind好像没姓氏，就当他有全名了。
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/clind.png)
 
@@ -607,6 +607,24 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/irlam.png)
 
 顺便村长一家已知名字的有村长（还童婆婆）ミルデ・アーラム、村长伯（村长的弟弟）ラスフム・アーラム、青年团团长（村长的孙子）マキジ・アーラム。[Fandom](https://rezero.fandom.com/wiki/Milde_Irlam)仅有村长婆婆的名字给了个民间拼写Milde Irlam，[村长伯](https://rezero.fandom.com/wiki/Muraosa)条目没有写他大名，青年团团长干脆没条目，有点尴尬……
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 安妮（アンネローゼ・ミロード）：名 Annerose
+
+名字拼写出自文库15卷虎之穴特典插图，[Clind](#管家クリンドClind)那里已经截过图了。
+
+（姓氏[fandom](https://rezero.fandom.com/wiki/Annerose_Miload)拼作Miload仅供参考）
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 莉莉安娜（リリアナ・マスカレード）：名 Liliana
+
+名拼写出自[16卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_1.jpg)，[19卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC19%E5%8D%B7?file=Re_Zero_Light_Novel_19_15.png)。
+
+（姓氏[fandom](https://rezero.fandom.com/wiki/Liliana_Masquerade)拼作Masquerade，这玩意正好是个英语单词，有掩饰化装之类的意思，倒不晓得会和剧情有什么关系了）
 
 [返回目录](#目录-1)<br/>
 <br/>
