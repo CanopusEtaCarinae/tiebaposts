@@ -38,7 +38,7 @@
 
 **部分姓名有出处：**
 
-[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [村长一家](#阿拉姆村村长一家姓氏-Irlam) &nbsp; [安妮](#安妮アンネローゼミロード名-Annerose) &nbsp; [莉莉安娜](#莉莉安娜リリアナマスカレード名-Liliana)
+[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [村长一家](#阿拉姆村村长一家姓氏-Irlam) &nbsp; [安妮](#安妮アンネローゼミロード名-Annerose) &nbsp; [莉莉安娜](#莉莉安娜リリアナマスカレード名-Liliana) &nbsp; [罗姆爷](#罗姆爷) &nbsp; [苹果大叔](#苹果大叔カドモンリッシュ名-Kadomon) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカ名-Capella姓-Lugunica中间名官设未拼写)
 
 </details>
 
@@ -625,6 +625,37 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 名拼写出自[16卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_1.jpg)，[19卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC19%E5%8D%B7?file=Re_Zero_Light_Novel_19_15.png)。
 
 （姓氏[fandom](https://rezero.fandom.com/wiki/Liliana_Masquerade)拼作Masquerade，这玩意正好是个英语单词，有掩饰化装之类的意思，倒不晓得会和剧情有什么关系了）
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 罗姆爷
+
+罗姆爷讲拼写应该拼他的全名（バルガ・クロムウェル），全名是在剑鬼恋歌中出现的就只有Romjii这样的称呼而已）。
+
+**名：Valga**
+
+拼写出自[EX2的彩页](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E6%AD%8C?file=Re_Zero_Ex_Volume_2_3.jpg)。而其他地方的人设（如[第一卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_18.jpg)）都是直接写他现在的称呼Romjii。罗姆爷这个称呼也是从他姓氏来的，然而我没找到拼写
+
+（[Fandom](https://rezero.fandom.com/wiki/Rom)姓氏拼作Cromwell仅供参考）
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 苹果大叔（カドモン・リッシュ）：名 Kadomon
+
+名拼写出自[第一卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_19.jpg)，[画集Re: BOX](https://rezero.fandom.com/zh/wiki/Art_Works_Re:BOX?file=Rom%252C_Kadomon%252C_Tonchinkan_Concept_Art.jpg)等
+
+姓氏fandom拼作Risch，[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED也是取这个拼写。不过如上所说，ED Cast表只当参考不作正式出处
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/risch.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 色欲司教（カペラ・エメラダ・ルグニカ）：名 Capella，姓 Lugunica，中间名官设未拼写
+
+名字取自[五车二](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%BE%A1%E5%A4%AB%E5%BA%A7)的西名。中名没拼写，姓氏就是王国的姓氏。上面王族部分有提过了
 
 [返回目录](#目录-1)<br/>
 <br/>
