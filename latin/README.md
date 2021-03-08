@@ -77,7 +77,7 @@
 #### 贝蒂（ベアトリス）：Beatrice
 
 出处很多，如[文库第二卷彩插人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC2%E5%8D%B7?file=Re_Zero_Volume_2_4.jpeg)和[2](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC2%E5%8D%B7?file=Re_Zero_Volume_2_15.jpeg)、[15](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC15%E5%8D%B7?file=Re_Zero_Light_Novel_Volume_15_15.jpg)等卷的卷尾预告及[TV动画人设](http://re-zero-anime.jp/tv/character)等
-（不过贝蒂这个称呼本身好像没有拼写……[fandom](https://rezero.fandom.com/wiki/Beatrice)上直接给的Betty，仅供参考罢）
+（不过贝蒂这个称呼本身好像没有拼写……[Fandom](https://rezero.fandom.com/wiki/Beatrice)上直接给的Betty，仅供参考罢）
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -231,7 +231,7 @@ zeropedia
 
 #### 剑鬼（ヴィルヘルム・ヴァン・アストレア）：Wilhelm Van Astrea
 
-家名和莱傲天一样，只需要知道名字拼法就行，见四卷彩插人设。不过剑鬼是入赘剑圣家族后改姓的，他的原姓トリアス我没有找到有拉丁拼法，[fandom](https://rezero.fandom.com/wiki/Wilhelm_van_Astrea)上的Trias仅供参考。这里我顺便把杂志短篇人设里的大写Van作为依据截个图，出自剑鬼战歌
+家名和莱傲天一样，只需要知道名字拼法就行，见四卷彩插人设。不过剑鬼是入赘剑圣家族后改姓的，他的原姓トリアス我没有找到有拉丁拼法，[Fandom](https://rezero.fandom.com/wiki/Wilhelm_van_Astrea)上的Trias仅供参考。这里我顺便把杂志短篇人设里的大写Van作为依据截个图，出自剑鬼战歌
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/wil_ca.png)
 
@@ -360,7 +360,7 @@ Zeropedia
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/constellation/images/geuse.png)
 
 
-关于怠惰的名字梗我在[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E7%8C%8E%E6%88%B7%E5%BA%A7)有提，是参宿四（Betelgeuse）的西名改了个开头字母组成。另外关于姓氏罗曼尼康帝其实是一种葡萄酒的名字，要按现成的英文拼法是带连接符的Romanee-Conti（或者Romanée-Conti），[fandom](https://rezero.fandom.com/wiki/Petelgeuse_Romanee-Conti)就是采用了这种拼法。不过上面既然有三个资料出处都是直接写Romaneeconti我也就按官方的来了
+关于怠惰的名字梗我在[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E7%8C%8E%E6%88%B7%E5%BA%A7)有提，是参宿四（Betelgeuse）的西名改了个开头字母组成。另外关于姓氏罗曼尼康帝其实是一种葡萄酒的名字，要按现成的英文拼法是带连接符的Romanee-Conti（或者Romanée-Conti），[Fandom](https://rezero.fandom.com/wiki/Petelgeuse_Romanee-Conti)就是采用了这种拼法。不过上面既然有三个资料出处都是直接写Romaneeconti我也就按官方的来了
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -615,7 +615,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 名字拼写出自文库15卷虎之穴特典插图，[Clind](#管家クリンドClind)那里已经截过图了。
 
-（姓氏[fandom](https://rezero.fandom.com/wiki/Annerose_Miload)拼作Miload仅供参考）
+（姓氏[Fandom](https://rezero.fandom.com/wiki/Annerose_Miload)拼作Miload仅供参考）
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -624,7 +624,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 名拼写出自[16卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_1.jpg)，[19卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC19%E5%8D%B7?file=Re_Zero_Light_Novel_19_15.png)。
 
-（姓氏[fandom](https://rezero.fandom.com/wiki/Liliana_Masquerade)拼作Masquerade，这玩意正好是个英语单词，有掩饰化装之类的意思，倒不晓得会和剧情有什么关系了）
+（姓氏[Fandom](https://rezero.fandom.com/wiki/Liliana_Masquerade)拼作Masquerade，这玩意正好是个英语单词，有掩饰化装之类的意思，倒不晓得会和剧情有什么关系了）
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -646,7 +646,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 名拼写出自[第一卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_19.jpg)，[画集Re: BOX](https://rezero.fandom.com/zh/wiki/Art_Works_Re:BOX?file=Rom%252C_Kadomon%252C_Tonchinkan_Concept_Art.jpg)等
 
-姓氏fandom拼作Risch，[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED也是取这个拼写。不过如上所说，ED Cast表只当参考不作正式出处
+姓氏[Fandom](https://rezero.fandom.com/wiki/Kadomon_Risch)拼作Risch，[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED也是取这个拼写。不过如上所说，ED Cast表只当参考不作正式出处
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/risch.png)
 
@@ -656,6 +656,8 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 #### 色欲司教（カペラ・エメラダ・ルグニカ）：名 Capella，姓 Lugunica，中间名官设未拼写
 
 名字取自[五车二](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%BE%A1%E5%A4%AB%E5%BA%A7)的西名。中名没拼写，姓氏就是王国的姓氏。上面王族部分有提过了
+
+（[Fandom](https://rezero.fandom.com/wiki/Capella_Emerada_Lugnica)拼写为Capella Emerada Lugnica，中名Emerada仅供参考，而Lugnica根据官方出版物应该就是错的了）
 
 [返回目录](#目录-1)<br/>
 <br/>
