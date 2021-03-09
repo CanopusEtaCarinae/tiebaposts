@@ -690,7 +690,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 #### 波尔多（ボルドー・ツェルゲフ）：名 Bordeaux
 
-出处身份基本同上。现为王国贤人会成员之一。波尔多在现实中还是法国南部一城市，以及有以它命名的葡萄酒，及化学上学过的无机农药波尔多液等
+出处身份基本同上。现为王国贤人会成员之一。波尔多在现实中还是法国南部一城市，以及有以它命名的葡萄酒、化学上学过的无机农药波尔多液等
 
 姓氏[Fandom](https://rezero.fandom.com/wiki/Bordeaux_Zellgef)拼作Zellgef，英翻还有好些其他版本如Zergev之类的。[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED则采用Fandom的版本
 
