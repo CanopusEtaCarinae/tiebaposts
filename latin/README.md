@@ -40,6 +40,8 @@
 
 [琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [村长一家](#阿拉姆村村长一家姓氏-Irlam) &nbsp; [安妮](#安妮アンネローゼミロード名-Annerose) &nbsp; [莉莉安娜](#莉莉安娜リリアナマスカレード名-Liliana) &nbsp; [罗姆爷](#罗姆爷) &nbsp; [苹果大叔](#苹果大叔カドモンリッシュ名-Kadomon) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカ名-Capella姓-Lugunica中间名官设未拼写) &nbsp; [阿奇/亚奇](#阿奇亚奇アーチエリオール名-Archi)
 
+[格林/格利姆](# 格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot)
+
 </details>
 
 
@@ -664,6 +666,44 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 #### 阿奇/亚奇（アーチ・エリオール）：名 Archi
 名拼写出自[文库14卷人设图](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_3.jpg)。姓氏15卷提到就是大森林的名字エリオール，[Fandom](https://rezero.fandom.com/wiki/Elior_Forest)拼作Elior仅供参考。顺便[Fandom他的条目](https://rezero.fandom.com/wiki/Arch)把他名字一直拼成Arch应该也算是没有注意官设了
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+####  格利姆/格林（グリム・ファウゼン）：名 Grimm
+
+拼写出自[EX2彩图](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E6%AD%8C?file=Re_Zero_Ex_Volume_2_2.jpg)。剑鬼系列主要角色之一。现为剑圣家族执事（园丁）。
+
+（姓氏[Fandom](https://rezero.fandom.com/wiki/Grimm_Fauzen)拼作Fauzen仅供参考）
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 卡罗/卡罗尔/珈洛儿（キャロル・レメンディス）：名 Carol
+
+出处和身份基本同上
+
+（姓氏[Fandom](https://rezero.fandom.com/wiki/Carol_Remendis)拼作Remendis仅供参考）
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 波尔多（ボルドー・ツェルゲフ）：名 Bordeaux
+
+出处身份基本同上。现为王国贤人会成员之一。波尔多词在现实中还是法国南部一城市，以及有以它命名的葡萄酒，及化学上学过的无机农药波尔多液等
+
+姓氏[Fandom](https://rezero.fandom.com/wiki/Bordeaux_Zellgef)拼作Zellgef，英翻还有好些其他版本如Zergev之类的。[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED则采用Fandom的版本
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/zellgef.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 皮波特/皮傅特（ピボット・アーナンシー）：名 Pivot
+
+出处同上，波尔多的监督者。（很早就领了便当，仍在剑鬼系列中仍是常刷存在的重要角色）
+
+（姓氏[Fandom](https://rezero.fandom.com/wiki/Pivot_Arnancy)拼作Arnancy仅供参考）
 
 [返回目录](#目录-1)<br/>
 <br/>
