@@ -770,7 +770,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/marcos_ca.png)
 
-姓氏[Fandom](https://rezero.fandom.com/wiki/Marcos_Gildark)。[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED亦用此版
+姓氏[Fandom](https://rezero.fandom.com/wiki/Marcos_Gildark)拼作Gildark。[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED亦用此版
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/gildark.png)
 
