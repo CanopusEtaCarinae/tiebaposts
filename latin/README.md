@@ -40,7 +40,8 @@
 
 [琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [村长一家](#阿拉姆村村长一家姓氏-Irlam) &nbsp; [安妮](#安妮アンネローゼミロード名-Annerose) &nbsp; [莉莉安娜](#莉莉安娜リリアナマスカレード名-Liliana) &nbsp; [罗姆爷](#罗姆爷) &nbsp; [苹果大叔](#苹果大叔カドモンリッシュ名-Kadomon) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカ名-Capella姓-Lugunica中间名官设未拼写) &nbsp; [阿奇/亚奇](#阿奇亚奇アーチエリオール名-Archi)
 
-[格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot)
+[格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホン名-Miklotov) &nbsp; [李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell)
+
 
 </details>
 
@@ -704,6 +705,53 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 出处同上，波尔多的监督者。（很早就领了便当，不过在剑鬼系列中仍是常刷存在的重要角色）
 
 （姓氏[Fandom](https://rezero.fandom.com/wiki/Pivot_Arnancy)拼作Arnancy仅供参考）
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 利布雷（リブレ・フエルミ）：名 Libre
+
+出处同上，亚人战争亚人方三首领之一，罗姆爷的老恩人，蛇人族。（WEB版六章刚解完书库谜题的时候还提了一下她的死者之书（结果文库竟然给换掉了
+
+（姓氏[Fandom](https://rezero.fandom.com/wiki/Libre_Fermi)拼作Fermi仅供参考）
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+
+#### 麦克罗托夫/麦克罗特福（マイクロトフ・マクマホン）：名 Miklotov
+
+名拼写出自[Re: BOX画集](https://rezero.fandom.com/zh/wiki/Art_Works_Re:BOX?file=Miklotov%252C_%25E6%259D%258E%25E5%2587%25AF%25E5%25B0%2594%25E7%2589%25B9%252C_Petelgeuse_Concept_Art.jpg)。TV中的长胡子贤人会代表。剑鬼系列亦有登场。
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/miklotov.png)
+
+姓氏[Fandom](https://rezero.fandom.com/wiki/Miklotov_McMahon)拼作McMahon，[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED也取这一拼写。同时也是民间英译常用拼法
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/mcmahon.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 李凯尔特/利凯鲁特（リッケルト・ホフマン）：名 Rickert
+
+名拼写出自[Re: BOX画集](https://rezero.fandom.com/zh/wiki/Art_Works_Re:BOX?file=Miklotov%252C_%25E6%259D%258E%25E5%2587%25AF%25E5%25B0%2594%25E7%2589%25B9%252C_Petelgeuse_Concept_Art.jpg)。王选会场上的黑眼圈文官代表，王室的指导
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rickert_rebox.png)
+
+正传里似乎没有写他的姓氏（ホフマン），也许目前只在短篇有明写？[Fandom](https://rezero.fandom.com/wiki/Rickert_Hoffman)上的姓氏拼写是Hoffman，基本靠谱，不过Fandom还是暂时不当直接依据
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 拉塞尔（ラッセル・フェロー）：名 Russell
+
+拼写出自[Re: BOX画集](https://rezero.fandom.com/zh/wiki/Art_Works_Re:BOX?file=Marcos%252C_Russell%252C_Otto_Concept_Art.jpg)。王都商会代表，王国特务组织六枚舌长官，奥托在没有486帮助下就会破产变成他奴隶那位。白鲸战后拿了486手机（说起来这玩意好像没下文了）
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/russell.png)
+
+姓氏[Fandom](https://rezero.fandom.com/wiki/Russell_Fellow)拼作Fellow。[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED亦用此版。另外Russell好像又和数学里的罗素是一样的，不过汉化貌似倒是没这种译法了……
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/fellow.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
