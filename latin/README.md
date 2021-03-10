@@ -42,7 +42,7 @@
 
 [格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホン名-Miklotov)
 
-[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell)
+[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダーク名-Marcos) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo)
 
 
 </details>
@@ -754,6 +754,47 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 姓氏[Fandom](https://rezero.fandom.com/wiki/Russell_Fellow)拼作Fellow。[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED亦用此版。另外Russell好像又和数学里的罗素是一样的，不过汉化貌似倒是没这种译法了……
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/fellow.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 近卫骑士团团长（マーコス・ギルダーク）：名 Marcos
+
+拼写出自[Re: BOX画集](https://rezero.fandom.com/zh/wiki/Art_Works_Re:BOX?file=Marcos%252C_Russell%252C_Otto_Concept_Art.jpg)和杂志短篇
+
+画集
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/marcos_rebox.png)
+
+帝国外交杂志人设
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/marcos_ca.png)
+
+姓氏[Fandom](https://rezero.fandom.com/wiki/Marcos_Gildark)。[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED亦用此版
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/gildark.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 前代『青』（ガリッチ・ファブレス）：名 Garlic
+
+菲利斯的师父，前代『青』之称号持有者。拼写出自短篇集5卷尾预告：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/garlic.png)
+
+这个其实相当存疑。首先是这个Garlic，这不是大蒜么……给前代青当名字真的合适？而且garlic直接译成片假名是ガーリック也和前代青ガリッチ不一样，不知道是不是画师又搞错了东西……英翻也是乱，有译Garritch的还有译Garitch的……[Fandom](https://rezero.fandom.com/wiki/Galic_Fabless)上的全名则是Galic Fabless……不过不知道前代青还在哪里能有机会给拼写设定，只能先搁这里了……
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 『灰色』魔法使（エッゾ・カドナ）：名 Ezzo
+
+菲鲁特阵营的魔法使。目前他出场且有完整汉化资源的应该有宅邸篇漫画伪宫廷魔导师及水门复兴日志系列的特典，关于他加入阵营的故事是在杂志的Flanders骚乱短篇（正在汉化中）。Ezzo的拼写也是在漫画上的，见图（不过说实话不排除图里这个是罗马音的可能……如果以后要改还得换）
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/garlic.png)
+
+（姓氏[Fandom](https://rezero.fandom.com/wiki/Ezzo_Cadner)拼作Cadner仅供参考）
 
 [返回目录](#目录-1)<br/>
 <br/>
