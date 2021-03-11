@@ -810,7 +810,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 #### 前代剑圣（テレシア・ヴァン・アストレア）
 
-前代的拼写在本作里可以说是版本最多最乱， **没有之一** 。其实这个帖子的一大契机就是看到了前代名字的各种混乱拼写。我个人最早接触的版本是在Fandom上看的，由于我是18年入坑，[当时的版本](https://rezero.fandom.com/wiki/Theresia_van_Astrea?oldid=48369)是： **Thearasia van Astrea** （van的大小写就先不论了）。我头一次发现不对劲是EX3恋谭发售之后，卷尾预告上的拼法是：
+前代的拼写在本作里可以说是版本最多最乱， **没有之一** 。其实发这个帖子的一大契机就是看到了前代名字的各种混乱拼写。我个人最早接触的版本是在Fandom上看的，由于我是18年入坑，[当时的版本](https://rezero.fandom.com/wiki/Theresia_van_Astrea?oldid=48369)是： **Thearasia van Astrea** （van的大小写就先不论了）。我头一次发现不对劲是EX3恋谭发售之后，卷尾预告上的拼法是：
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ther_ex3.png)
 
