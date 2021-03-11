@@ -15,6 +15,7 @@
 
 #### [1、全名有出处](#全名有出处)
 #### [2、部分姓名有出处](#部分姓名有出处)
+#### [3、车祸现场](#车祸现场)
 
 
 ## 目录-2
@@ -43,6 +44,9 @@
 [格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホン名-Miklotov)
 
 [李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダーク名-Marcos) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo)
+
+**车祸现场：**
+[前代剑圣](#前代剑圣テレシアヴァンアストレア)
 
 
 </details>
@@ -554,7 +558,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/stride.png)
 
-当初看EX3这么拼的时候还糊涂了好一阵，后来看到EX4发售前夕人官方的人设汇总帝国拼写还是两个l，再加上有杂志版短篇帝国外交的英文标题也是Vollachia，看来问题应该就只是出在EX3上了
+当初看EX3这么拼的时候还糊涂了好一阵，后来看到EX4发售前夕人官方的人设汇总帝国拼写还是两个l，再加上有杂志版短篇帝国外交的英文标题也是Vollachia，看来问题应该就只是出在EX3上了（EX3问题其实还不止这些，[后面](#前代剑圣テレシアヴァンアストレア)还会再提到）
 
 帝国人设汇总
 
@@ -795,6 +799,61 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ezzo.png)
 
 （姓氏[Fandom](https://rezero.fandom.com/wiki/Ezzo_Cadner)拼作Cadner仅供参考）
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+---
+
+### 车祸现场
+
+#### 前代剑圣（テレシア・ヴァン・アストレア）
+
+前代的拼写在本作里可以说是版本最多最乱， **没有之一** 。其实这个帖子的一大契机就是看到了前代名字的各种混乱拼写。我个人最早接触的版本是在Fandom上看的，由于我是18年入坑，[当时的版本](https://rezero.fandom.com/wiki/Theresia_van_Astrea?oldid=48369)是： **Thearasia van Astrea** （van的大小写就先不论了）。我头一次发现不对劲是EX3恋谭发售之后，卷尾预告上的拼法是：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ther_ex3.png)
+
+🤯WTF is that???
+
+联想到前代名字的罗马音Tereshia，这感觉就是把罗马音稍改了就弄上去了罢（虽然差了个h）
+
+然后我又去Fandom上看词条，发现在[2019年2月](https://rezero.fandom.com/wiki/Theresia_van_Astrea?diff=54488&oldid=54172)Fandom上做了一次修改，把所有的“ **Thearesia** ”都改成了“ **Theresia** ”。好家伙，本来就乱你还改个新的，我整个人都快不好了
+
+不过我冷静下来又去查了一些别的出处，比如杂志短篇和画集
+
+剑鬼战歌里的人设：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ther_ca.png)
+
+Re: BOX画集第七卷的部分开篇
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/there_rebox.png)
+
+接着我再用搜索引擎去查，感觉Theresia大概是个比较通用的名字，而Thearesia几乎只能搜出前代剑圣。结合官方周边的情况，我猜测Thearesia应该是前代一个比较通用的误拼，Theresia应该既是正经的名字也是受官方认可的拼写了（EX3上那玩意就扔了它罢）
+
+一切似乎就应该这么结束了
+
+结果，正传20出版，[卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC20%E5%8D%B7?file=Re_Zero_Light_Novel_20_15.png)又是一当头棒喝：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ther_v20.png)
+
+🤮这™是闹哪样！？
+
+而且更奇的是这里面的a还不是英文里的a，而是上面带个圈的“å”，这么说难道这个名字不是出自英文名而是其他语言的？我又去谷歌查“Theåresia”，搜索结果还是除了前代的“Thearesia”这个版本外基本查不出什么名堂。
+
+最后我又想起，EX2的卷尾预告又是啥样呢？
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/theaex2c.png)
+
+闹半天20卷卷尾用的和EX2根本就是一个素材
+
+我放弃了
+
+回想一下，虽然Theresia这个版本最正经，然而官方里支持这个拼写的只有杂志短篇和画集这种周边产品，文库小说里出现拼写的三卷则全都和它不一样。这还查个鬼……
+
+最后，只能作出一个 **Theresia Van Astrea** 相对比较可信，但不能排除 **Theåresia Van Astrea** 和 **Thearesia Van Astrea** 这两个版本正确的可能性，这么个模棱两可的结论了
+
+题外话，说起EX3里拼写奇怪的前代剑圣，上面也有提到EX3的其他拼写问题，就比如上面[前代傲慢](#帝国皇族)少拼个l，还有和民间常用拼写不同的Lugunica。后者倒可以说是民间自己的问题，但结合上Teresia和Volachia，怎么感觉EX3是在故意和民间拼写叫板呢……
 
 [返回目录](#目录-1)<br/>
 <br/>
