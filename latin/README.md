@@ -47,7 +47,7 @@
 
 **车祸现场：**
 
-[前代剑圣](#前代剑圣テレシアヴァンアストレア)
+[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ)
 
 
 </details>
@@ -855,6 +855,42 @@ Re: BOX画集第七卷的部分开篇
 最后，只能作出一个 **Theresia Van Astrea** 相对比较可信，但不能排除 **Theåresia Van Astrea** 和 **Thearesia Van Astrea** 这两个版本正确的可能性，这么个模棱两可的结论了
 
 题外话，说起EX3里拼写奇怪的前代剑圣，上面也有提到EX3的其他拼写问题，就比如上面[前代傲慢](#帝国皇族)少拼个l，还有和民间常用拼写不同的Lugunica。后者倒可以说是民间自己的问题，但结合上Teresia和Volachia，怎么感觉EX3是在故意和民间拼写叫板呢……
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 猎肠（エルザ・グランヒルテ）
+
+名字没有什么争议， **Elsa** ，[一卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_19.jpg)就有
+
+姓氏在zeropedia，杂志上的赤雪短篇以及[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED也有出现，全名都有写（ **Elsa Granhiert** ）
+
+zeropedia
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_zpedia.png)
+
+赤雪短篇
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_ca.png)
+
+游戏ED
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_tpt.png)
+
+看起来应该没什么问题，为什么写在车祸现场部分了？首先我们看第一个有出入的：
+TV一期资料集 Visual Commentary中姓氏比上面两个版本多了个d：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_viswrong.png)
+
+我原本也认为应该是资料集里的失误，当它是事故来看的。然而动画官网给新编集更新网页之后，[新版的人设](http://re-zero-anime.jp/tv/character/)成下面这样：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_tpt.png)
+
+这啥玩意这是……
+
+冷静想了想，其实这个拼写也不是没有道理，一般来说我见过的清辅音t结尾的词音译过来最后一个假名都是to，而猎肠这个偏偏是te，这样的话zeropedia和Visual Commentary似乎就都不对了……再有就是zeropedia里没有的d，在动画版和Visual Commentary版里却都有。最终看下来到底如何才是对的我就无法决定了，只能放在车祸现场部分……（只是论顺眼来说还是Granhiert看着舒服点）
+
+顺便Granhiert还是异世界多次提及的一种酒，猎肠也确实是用酒取了姓氏，因为第一次划人肚子的玻璃片就是酒瓶的破片
 
 [返回目录](#目录-1)<br/>
 <br/>
