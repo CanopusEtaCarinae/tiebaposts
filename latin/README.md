@@ -884,7 +884,7 @@ TV一期资料集 Visual Commentary中姓氏比上面两个版本多了个d：
 
 我原本也认为应该是资料集里的失误，当它是事故来看的。然而动画官网给新编集更新网页之后，[新版的人设](http://re-zero-anime.jp/tv/character/)成下面这样：
 
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_tpt.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_tv2.png)
 
 这啥玩意这是……
 
