@@ -886,7 +886,7 @@ TV一期资料集 Visual Commentary中姓氏比上面两个版本多了个d：
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_tv2.png)
 
-这啥玩意这是……
+**Grandhirte** ，这啥玩意这是……
 
 冷静想了想，其实这个拼写也不是没有道理，一般来说我见过的清辅音t结尾的词音译过来最后一个假名都是to，而猎肠这个偏偏是te，这样的话zeropedia和Visual Commentary似乎就都不对了……再有就是zeropedia里没有的d，在动画版和Visual Commentary版里却都有。最终看下来到底如何才是对的我就无法决定了，只能放在车祸现场部分……（只是论顺眼来说还是Granhiert看着舒服点）
 
