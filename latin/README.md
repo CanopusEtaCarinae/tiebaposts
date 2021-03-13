@@ -916,7 +916,7 @@ EX4： **Cecils Segmund**<br/>
 刀疤金铠大锤（ゴズ・ラルフォン）： **Goz Ralphone** <br/>
 （[Fandom版](https://rezero.fandom.com/wiki/Goz_Ralfon)姓氏为Ralfon）
 
-女犬人，食精灵者，寡妇发小（アラキア）： **Arakyia** <br/>
+女犬人，食精灵者，寡妇发小（アラキア）： **Arakiya** <br/>
 （[Fandom曾拼为](https://rezero.fandom.com/wiki/Arakiya?diff=86395&oldid=86383)Arrachia，也是早期红莲和OVA2寡妇阵营的英译所用的版本。EX4出版之后已更改。顺便这是个蛮重要的角色，红莲和OVA2对应情节都已完整汉化）
 
 九神将之捌，钢人族（モグロ・ハガネ）： **×Mogro Hagane** <br/>
