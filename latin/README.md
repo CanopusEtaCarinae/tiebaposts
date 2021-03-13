@@ -47,7 +47,7 @@
 
 **车祸现场：**
 
-[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ)
+[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ) &nbsp; [帝国九神将](#帝国九神将)
 
 
 </details>
@@ -891,6 +891,41 @@ TV一期资料集 Visual Commentary中姓氏比上面两个版本多了个d：
 冷静想了想，其实这个拼写也不是没有道理，一般来说我见过的清辅音t结尾的词音译过来最后一个假名都是to，而猎肠这个偏偏是te，这样的话zeropedia和Visual Commentary似乎就都不对了……再有就是zeropedia里没有的d，在动画版和Visual Commentary版里却都有。最终看下来到底如何才是对的我就无法决定了，只能放在车祸现场部分……（只是论顺眼来说还是Granhiert看着舒服点）
 
 顺便Granhiert还是异世界多次提及的一种酒，猎肠也确实是用酒取了姓氏，因为第一次划人肚子的玻璃片就是酒瓶的破片
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 帝国九神将
+
+九神将有七位的全名在EX4中有完整拼写，出处直接看[插图](https://rezero.fandom.com/zh/wiki/%E6%9C%80%E4%BC%98%E7%BA%AA%E8%A1%8C?file=Re_Zero_Ex_Volume_4_1.jpg)即可。之所以放到车祸现场的部分是因为和民间拼写（Fandom也曾大量使用）上的出入实在太多，撞得一塌糊涂，就算EX4相对会靠谱点但个别应该还是有拼写确实有问题的的……先就这么列下来了
+
+九神将之壱，青色雷光（セシルス・セグムント）：<br/>
+EX4： **Cecils Segmund**<br/>
+[Fandom曾用](https://rezero.fandom.com/wiki/Cecilus_Segmunt)拼写： **Cecilus Segmunt**<br/>
+这个说实话的话我有些怀疑是EX4可能有问题，首先杂志上青光的名是有拼写成以前的Fandom版的：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/cecilus_ca.png)
+
+出自杂志上银华乱舞短篇的英文标题。至于姓的话，区别也就在于末尾的t和d。而日文最后一音是to，EX4为什么译成d我就蒙了……大概要等日语大佬帮忙解释……总之青光这个我个人以为可能旧版Fandom反而更靠谱
+
+九神将之肆（チシャ・ゴールド）： **Chisha Gold** （名字基本就是罗马音，姓你懂的……所以这个是唯一没出入的）
+
+九神将之陆，鬣犬人（グルービー・ガムレット）： **Groovy Gumlet** <br/>
+（[Fandom姓氏为曾拼为](https://rezero.fandom.com/wiki/Groovy_Gumlet?diff=85364&oldid=69724)Gamlet，现已更改）
+
+刀疤金铠大锤（ゴズ・ラルフォン）： **Goz Ralphone** <br/>
+（[Fandom版](https://rezero.fandom.com/wiki/Goz_Ralfon)姓氏为Ralfon）
+
+女犬人，食精灵者，寡妇发小（アラキア）： **Arakyia** <br/>
+（[Fandom曾拼为](https://rezero.fandom.com/wiki/Groovy_Gumlet?diff=85364&oldid=69724)Arrachia，也是早期红莲和OVA2寡妇阵营的英译所用的版本。EX4出版之后已更改。顺便这是个蛮重要的角色，红莲和OVA2对应情节都已完整汉化）
+
+九神将之捌，钢人族（モグロ・ハガネ）： **×Mogro Hagane** <br/>
+（[Fandom版名曾拼为](https://rezero.fandom.com/wiki/Mogro_Hagane?diff=85376&oldid=67600)Moguro，现已更改）
+
+九神将之玖，六章6154看过的书（バルロイ・テメグリフ）： **Balleroy Temeglyph** <br/>
+（[Fandom版名曾拼为](https://rezero.fandom.com/wiki/Balleroy_Temeglyph?diff=86819&oldid=86278)Balroy）
+
+我个人倾向是感觉青光可能旧版Fandom的要靠谱一些，其余的都按照EX3好了。不过纯属主观臆断……
 
 [返回目录](#目录-1)<br/>
 <br/>
