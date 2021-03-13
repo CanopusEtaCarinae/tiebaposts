@@ -925,7 +925,7 @@ EX4： **Cecils Segmund**<br/>
 九神将之玖，六章6154看过的书（バルロイ・テメグリフ）： **Balleroy Temeglyph** <br/>
 （[Fandom版名曾拼为](https://rezero.fandom.com/wiki/Balleroy_Temeglyph?diff=86819&oldid=86278)Balroy）
 
-我个人倾向是感觉青光可能旧版Fandom的要靠谱一些，其余的都按照EX3好了。不过纯属主观臆断……
+我个人倾向是感觉青光可能旧版Fandom的要靠谱一些，其余的都按照EX4好了。不过纯属主观臆断……
 
 [返回目录](#目录-1)<br/>
 <br/>
