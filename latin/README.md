@@ -47,7 +47,7 @@
 
 **车祸现场：**
 
-[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ) &nbsp; [帝国九神将](#帝国九神将)
+[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ) &nbsp; [帝国九神将](#帝国九神将) &nbsp; [铁之牙团长](#铁之牙团长リカードウェルキン)
 
 
 </details>
@@ -926,6 +926,27 @@ EX4： **Cecils Segmund**<br/>
 （[Fandom版名曾拼为](https://rezero.fandom.com/wiki/Balleroy_Temeglyph?diff=86819&oldid=86278)Balroy，现已更改）
 
 我个人倾向是感觉青光可能旧版Fandom的要靠谱一些，其余的都按照EX4好了。不过纯属主观臆断……
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 铁之牙团长（リカード・ウェルキン）
+
+常见英翻和[Fandom](https://rezero.fandom.com/wiki/Ricardo_Welkin)上的拼法是 **Ricardo Welkin** 。[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED也采用此拼法
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ricardo_tpt.png)
+
+在Re: BOX画集有资源之后我头一次察觉到不对劲：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ricard_rebox.png)
+
+这里是 **Ricard** ，少个o。我也有查过这两种好像在英语里都有，似乎是因为Ricardo更常用一些所以英翻用这个的多？我想了想去查了下zeropedia：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/recard_zpedia.png)
+
+瞬间我就傻眼了。 **Recard** ？？这又是什么鬼拼法…………
+我个人是怀疑它把i误写成e了。再考虑还有英翻常用的Ricardo，还是放车祸现场好了……
+另外Ricard也是一种酒名，不知道Re: BOX那是不是有想到这个
 
 [返回目录](#目录-1)<br/>
 <br/>
