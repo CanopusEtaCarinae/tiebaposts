@@ -945,7 +945,9 @@ EX4： **Cecils Segmund**<br/>
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ricard_zpedia.png)
 
 瞬间我就傻眼了。 **Recard** ？？这又是什么鬼拼法…………
+
 我个人是怀疑它把i误写成e了。再考虑还有英翻常用的Ricardo，还是放车祸现场好了……
+
 另外Ricard也是一种酒名，不知道Re: BOX那是不是有想到这个
 
 [返回目录](#目录-1)<br/>
