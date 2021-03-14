@@ -942,7 +942,7 @@ EX4： **Cecils Segmund**<br/>
 
 这里是 **Ricard** ，少个o。我也有查过这两种好像在英语里都有，似乎是因为Ricardo更常用一些所以英翻用这个的多？我想了想去查了下zeropedia：
 
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/recard_zpedia.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ricard_zpedia.png)
 
 瞬间我就傻眼了。 **Recard** ？？这又是什么鬼拼法…………
 我个人是怀疑它把i误写成e了。再考虑还有英翻常用的Ricardo，还是放车祸现场好了……
