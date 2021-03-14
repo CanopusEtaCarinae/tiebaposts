@@ -936,7 +936,7 @@ EX4： **Cecils Segmund**<br/>
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ricardo_tpt.png)
 
-在Re: BOX画集有资源之后我头一次察觉到不对劲：
+在[Re: BOX画集](https://rezero.fandom.com/zh/wiki/Art_Works_Re:BOX?file=Ricardo_and_Pearlbaton_Concept_Art.jpg)有资源之后我头一次察觉到不对劲：
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ricard_rebox.png)
 
