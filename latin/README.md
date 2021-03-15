@@ -47,7 +47,7 @@
 
 **车祸现场：**
 
-[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ) &nbsp; [帝国九神将](#帝国九神将) &nbsp; [铁之牙团长](#铁之牙团长リカードウェルキン) &nbsp; [修尔特/修鲁特/舒尔特](#修尔特修鲁特舒尔特シュルト)
+[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ) &nbsp; [帝国九神将](#帝国九神将) &nbsp; [铁之牙团长](#铁之牙团长リカードウェルキン) &nbsp; [修尔特/修鲁特/舒尔特](#修尔特修鲁特舒尔特シュルト) &nbsp; [莱普](#莱普ライプバーリエル)
 
 
 </details>
@@ -321,7 +321,7 @@ Zeropedia
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/pris_ca.png)
 
-扫图不太清楚，不过隐约可以看到拼成Beliel了。基本可以当这个是事故。顺便阳光照耀水面这期杂志短篇上 **几乎所有角色的拼写都出了问题** 。【【之后还会说】】
+扫图不太清楚，不过隐约可以看到拼成Beliel了。基本可以当这个是事故。顺便阳光照耀水面这期杂志短篇上 **几乎所有角色的拼写都出了问题** 。[之后还会说](#修尔特修鲁特舒尔特シュルト)
 
 （注：寡妇的前传短篇红莲的残影里出现了她的的本名プリスカ・ベネディクト，以后会不会有拼写说不定。[Fandom](https://rezero.fandom.com/wiki/Priscilla_Barielle)上暂拼为Prisca Benedict）
 
@@ -957,7 +957,7 @@ EX4： **Cecils Segmund**<br/>
 
 寡妇的粉发侍童。[Fandom](https://rezero.fandom.com/wiki/Schult)上以及常见英译的拼写是 **Schult** ，不过既然我拿出来放这了，就说明小说里确实出现了拼写。不过放在这你懂的，车祸现场。
 
-现场在杂志短篇阳光照耀水面，杂志上有一个设定小汇总和一个单独的人设介绍都出现了拼写，直接截图给大家看就是了
+现场在杂志短篇阳光照耀水面（就是[寡妇](#寡妇プリシラバーリエルPriscilla-Barielle)那提到这篇短篇拼写灾难频出），杂志上有一个设定小汇总和一个单独的人设介绍都出现了拼写，直接截图给大家看就是了
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/schuldt.png)
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/schultd.png)
@@ -965,6 +965,19 @@ EX4： **Cecils Segmund**<br/>
 同一个短篇里的人设还能拼成两个样也是一绝……虽然我手头的资源看不太清，但也能认出来左边是 **Schuldt** ，右边是 **Schultd** 。其实这个倒应该不难觉出来，那个Schultd是个啥鬼拼法……我猜测应该就是纯粹弄反了俩字母的低级失误
 
 最后无非也就是 **Schuldt** 和 **Schult** 的争议。查了下两种好像在实际的名字里都有用。不过虽然杂志上是乱拼，不过总能看出大概应该会有个d，我个人还是倾向 **Schuldt** 多些。然而Re0的英翻似乎从来没用过Schuldt这个拼写，最终我也只能把他也放在车祸现场部分里……（毕竟杂志生肉资源难搞，不知道要是多有几个短篇会不会有更多依据呢）
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 莱普（ライプ・バーリエル）
+
+寡妇的最后一任亡夫，前男爵。也只有和上面同样的阳光照耀水面有莱普的拼写。然后这个短篇的人设上面也有提真是各种灾难。直接给图
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/leip_ca.png)
+
+既然人家叫莱普（ライプ），好歹最后一个音节应该是带辅音p的，可你告诉我这是啥， **Leib** ？手头的资料清晰度不够，但怎么看也不像p……我是真的不相信这个是对的。后面的姓氏误拼和寡妇的情况一样也就不多说了……
+
+[Fandom](https://rezero.fandom.com/wiki/Leip_Barielle)上的 **Leip Barielle** 倒是靠谱得多……
 
 [返回目录](#目录-1)<br/>
 <br/>
