@@ -982,3 +982,10 @@ EX4： **Cecils Segmund**<br/>
 [返回目录](#目录-1)<br/>
 <br/>
 
+---
+
+#### 附：随便一提的三混混（トンチンカン：ガストン、ラチンス・ホフマン、カンバリー）
+
+486对三混混的称呼也在Re: BOX里给拼了一下，不过其实也就是罗马音而已（Ton，Chin，Kan），毕竟这本来就是从日语来的词……大家也都知道人家是有本名的，甚至其中的Chin还有姓氏（就是上面Rickert的姓氏Hoffman，这小哥是从人家里出逃的大公子）。这里也只是表示一下有这么个图而已，随便放附录也算不上认真的了。Fandom上的名字拼写（[Gaston](https://rezero.fandom.com/wiki/Ton)、[Rachins Hoffman](https://rezero.fandom.com/wiki/Chin)、[Camberley](https://rezero.fandom.com/wiki/Kan)）也仅供参考了。这三位在正篇里的主要戏份大概要到第九章，就算有全名拼写也不知道得多少年以后……
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/tonchinkan.png)
