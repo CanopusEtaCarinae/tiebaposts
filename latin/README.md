@@ -7,6 +7,8 @@
 
 拼写出处主要分三类：1、全名都有完整拼写的（一些没姓氏的也算）；2、只有部分有拼写的，比如有些人设图里只拼名不拼姓的那种就会归到这里；3、车祸现场，比如官方不同版本的出处间有矛盾和乌龙的，有些还可以随便侃侃当个乐就搁这了。
 
+内容会尽量随官方出版物更新。一些值得讨论的部分欢迎在原贴评论或本仓库提issue发pr。
+
 目录分两层，第一层就是上面说的三大类，第二层则为具体各角色的链接
 
 ## 目录-1
@@ -989,3 +991,7 @@ EX4： **Cecils Segmund**<br/>
 486对三混混的称呼也在Re: BOX里给拼了一下，不过其实也就是罗马音而已（Ton，Chin，Kan），毕竟这本来就是从日语来的词……大家也都知道人家是有本名的，甚至其中的Chin还有姓氏（就是上面Rickert的姓氏Hoffman，这小哥是从人家里出逃的大公子）。这里也只是表示一下有这么个图而已，随便放附录也算不上认真的了。Fandom上的名字拼写（[Gaston](https://rezero.fandom.com/wiki/Ton)、[Rachins Hoffman](https://rezero.fandom.com/wiki/Chin)、[Camberley](https://rezero.fandom.com/wiki/Kan)）也仅供参考了。这三位在正篇里的主要戏份大概要到第九章，就算有全名拼写也不知道得多少年以后……
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/tonchinkan.png)
+
+---
+
+后续内容随官方出版物更新。意见欢迎各位在[原贴](https://tieba.baidu.com/p/6625632913)评论或本仓库提issue发pr。
