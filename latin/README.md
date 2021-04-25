@@ -989,7 +989,7 @@ EX4： **Cecils Segmund**<br/>
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ricardo_cb.png)
 
-这倒是和Fandom以及英翻常见的一致了。总之这么多版本我是不知道选鸽邓，只能扔车祸现场……
+这倒是和Fandom以及英翻常见的一致了。总之这么多版本我是不知道选哪个，只能扔车祸现场……
 
 另外Ricard也是一种酒名，不知道Re: BOX那是不是有想到这个
 
