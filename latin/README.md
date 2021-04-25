@@ -39,7 +39,7 @@
 
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
-[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホン-Miklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダーク-Marcos-Gildark) &nbsp; [[IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族)
+[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族)
 
 **部分姓名有出处：**
 
