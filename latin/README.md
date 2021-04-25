@@ -996,22 +996,6 @@ EX4： **Cecils Segmund**<br/>
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 修尔特/修鲁特/舒尔特（シュルト）
-
-寡妇的粉发侍童。[Fandom](https://rezero.fandom.com/wiki/Schult)上以及常见英译的拼写是 **Schult** ，不过既然我拿出来放这了，就说明小说里确实出现了拼写。不过放在这你懂的，车祸现场。
-
-现场在杂志短篇阳光照耀水面（就是[寡妇](#寡妇プリシラバーリエルPriscilla-Barielle)那提到这篇短篇拼写灾难频出），杂志上有一个设定小汇总和一个单独的人设介绍都出现了拼写，直接截图给大家看就是了
-
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/schuldt.png)
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/schultd.png)
-
-同一个短篇里的人设还能拼成两个样也是一绝……虽然我手头的资源看不太清，但也能认出来左边是 **Schuldt** ，右边是 **Schultd** 。其实这个倒应该不难觉出来，那个Schultd是个啥鬼拼法……我猜测应该就是纯粹弄反了俩字母的低级失误
-
-最后无非也就是 **Schuldt** 和 **Schult** 的争议。查了下两种好像在实际的名字里都有用。不过虽然杂志上是乱拼，不过总能看出大概应该会有个d，我个人还是倾向 **Schuldt** 多些。然而Re0的英翻似乎从来没用过Schuldt这个拼写，最终我也只能把他也放在车祸现场部分里……（毕竟杂志生肉资源难搞，不知道要是多有几个短篇会不会有更多依据呢）
-
-[返回目录](#目录-1)<br/>
-<br/>
-
 #### 阿拉姆村村长一家
 
 要说村长一家有官方拼写的也就只是姓氏，也即村名而已。村名最易找的拼写在[短篇集2冷天气彩插](https://rezero.fandom.com/wiki/Re:Zero_Tanpenshuu_Volume_2?file=Re_Zero_Tanpenshuu_Volume_2_2.jpg)，即 **Irlam**
@@ -1025,6 +1009,22 @@ EX4： **Cecils Segmund**<br/>
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/arlam_cb.png)
 
 得，终于还是出问题了——特典还是偏好读音合理直接用了A开头的 **Arlam** 。看上去是特典里的靠谱，不过毕竟官方出版物也只有这么两处带拼写的，慎重起见还是当成车祸现场好了
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 修尔特/修鲁特/舒尔特（シュルト）
+
+寡妇的粉发侍童。[Fandom](https://rezero.fandom.com/wiki/Schult)上以及常见英译的拼写是 **Schult** ，不过既然我拿出来放这了，就说明小说里确实出现了拼写。不过放在这你懂的，车祸现场。
+
+现场在杂志短篇阳光照耀水面（就是[寡妇](#寡妇プリシラバーリエルPriscilla-Barielle)那提到这篇短篇拼写灾难频出），杂志上有一个设定小汇总和一个单独的人设介绍都出现了拼写，直接截图给大家看就是了
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/schuldt.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/schultd.png)
+
+同一个短篇里的人设还能拼成两个样也是一绝……虽然我手头的资源看不太清，但也能认出来左边是 **Schuldt** ，右边是 **Schultd** 。其实这个倒应该不难觉出来，那个Schultd是个啥鬼拼法……我猜测应该就是纯粹弄反了俩字母的低级失误
+
+最后无非也就是 **Schuldt** 和 **Schult** 的争议。查了下两种好像在实际的名字里都有用。不过虽然杂志上是乱拼，不过总能看出大概应该会有个d，我个人还是倾向 **Schuldt** 多些。然而Re0的英翻似乎从来没用过Schuldt这个拼写，最终我也只能把他也放在车祸现场部分里……（毕竟杂志生肉资源难搞，不知道要是多有几个短篇会不会有更多依据呢）
 
 [返回目录](#目录-1)<br/>
 <br/>
