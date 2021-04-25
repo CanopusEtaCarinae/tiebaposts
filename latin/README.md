@@ -3,7 +3,9 @@
 
 [原贴地址](https://tieba.baidu.com/p/6625632913)。本贴是为本作中的各种西式人名寻找西式拉丁拼写的官方来源。部分会引用[英文fandom](https://rezero.fandom.com/wiki/Characters)作一定程度上的参考，但毕竟fandom不算官方来源，如果仅有fandom拼写的就不在此列出。
 
-另一特殊的则是[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)的游戏，ED的Cast是英文的，所以出现了不少角色拼写。然而看上去有些许和已有出版物有出入的地方，因此也只能当参考不能当确认了
+另有些特殊的载体比如[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)的游戏，ED的Cast是英文的，所以出现了不少角色拼写。然而看上去有些许和已有出版物有出入的地方，因此也只能当参考不能当确认了
+
+再有是后来才拿到资源的一期碟片4和8的特典Complete Guidebook，这个参考性比上面的游戏要大一些，但似乎还有些和民间或其他出版出入较大的部分，所以如果这本是唯一出处的话一般仍暂时当作未确定拼写处理
 
 拼写出处主要分三类：1、全名都有完整拼写的（一些没姓氏的也算）；2、只有部分有拼写的，比如有些人设图里只拼名不拼姓的那种就会归到这里；3、车祸现场，比如官方不同版本的出处间有矛盾和乌龙的，有些还可以随便侃侃当个乐就搁这了。
 
