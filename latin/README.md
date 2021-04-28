@@ -103,7 +103,7 @@
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ros_tv.png) ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ros_zpedia.png)
 
-另，文库版每一代骡子的中名就是从字母A开始往下排的，上代是K，上上代就是剑鬼系列的J，其余部分名字都相同。此外中名还是每一代骡子出生时本名的首字母，比如上上代叫ジュリア，上代叫カール，初代则是アルタイル。Fandom上也有相应的拼写[Julia](https://rezero.fandom.com/wiki/Roswaal_J_Mathers)和[Karl](https://rezero.fandom.com/wiki/Roswaal_K_Mathers)。而初代Altair则是和天鹰座α星河鼓二严重雷同，因此也基本确认了。不过目前官方还没出现有本名的拼写的出版物，虽然fandom版看着挺靠谱也就先仅供参考了。至于本代叫什么现在还不知道
+另，文库版每一代骡子的中名就是从字母A开始往下排的，上代是K，上上代就是剑鬼系列的J，其余部分名字都相同。此外中名还是每一代骡子出生时本名的首字母，比如上上代叫ジュリア，上代叫カール，初代则是アルタイル。Fandom上也有相应的拼写[Julia](https://rezero.fandom.com/wiki/Roswaal_J_Mathers)和[Karl](https://rezero.fandom.com/wiki/Roswaal_K_Mathers)。而初代Altair则是和天鹰座α星河鼓二的西名严重雷同，因此也基本确认了。不过目前官方还没出现有本名的拼写的出版物，虽然fandom版看着挺靠谱也就先仅供参考了。至于本代叫什么现在还不知道
 
 [返回目录](#目录-1)<br/>
 <br/>
