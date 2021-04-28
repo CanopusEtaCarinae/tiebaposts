@@ -400,7 +400,7 @@ Re0中暴食司教有三个，其姓氏分别来源于鲸鱼座、长蛇座和�
 
 [天鹰座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%B7%B9%E5%BA%A7)为夏季星座，为穿过银河的星座之一。最亮星为天鹰座α，是夏季星空标志“[夏季大三角](https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%AD%A3%E5%A4%A7%E4%B8%89%E8%A7%92)”的三星之一，位于大三角两条长边所夹的角上。
 
-天鹰座的神话形象也有多个版本，如宙斯诱拐[Ganymede](https://zh.wikipedia.org/wiki/%E4%BC%BD%E5%80%AA%E5%A2%A8%E5%BE%97%E6%96%AF)时所用的化身；或追求复仇女神时爱神[阿佛洛狄忒](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BD%9B%E6%B4%9B%E7%8B%84%E5%BF%92)；又或是宙斯的宠物，携雷电的使者。神话具体内容与本作剧情关系不大，故暂不在此详细叙述
+天鹰座的神话形象也有多个版本，如宙斯诱拐[Ganymede](https://zh.wikipedia.org/wiki/%E4%BC%BD%E5%80%AA%E5%A2%A8%E5%BE%97%E6%96%AF)时所用的化身；或追求复仇女神时爱神[阿佛洛狄忒](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BD%9B%E6%B4%9B%E7%8B%84%E5%BF%92)的化身；又或是宙斯的宠物，携雷电的使者。神话具体内容与本作剧情关系不大，故暂不在此详细叙述
 
 #### 河鼓二
 
