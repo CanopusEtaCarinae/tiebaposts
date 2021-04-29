@@ -32,7 +32,6 @@
 ## 正文
 
 ### 1、Gusteko圣王国
-<>
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/mapnote/image/pardochia.png)
 
