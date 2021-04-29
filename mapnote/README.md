@@ -21,7 +21,7 @@
 
 ## 目录
 
-#### [1、Gusteko圣王国](#Gusteko圣王国)
+### [1、Gusteko圣王国](#1Gusteko圣王国)
 
 
 
@@ -31,7 +31,7 @@
 
 ## 正文
 
-### Gusteko圣王国
+### 1、Gusteko圣王国
 
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/mapnote/image/pardochia.png)
@@ -45,4 +45,5 @@
 >
 > 另外，靈峰帕德奇亞的山頂還有四大精靈之一「聖獸歐德格拉斯」以強大力量君臨天下。<br/>
 <br/>
+
 </details>
