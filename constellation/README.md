@@ -400,7 +400,7 @@ Re0中暴食司教有三个，其姓氏分别来源于鲸鱼座、长蛇座和�
 
 [天鹰座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%B7%B9%E5%BA%A7)为夏季星座，为穿过银河的星座之一。最亮星为天鹰座α，是夏季星空标志“[夏季大三角](https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%AD%A3%E5%A4%A7%E4%B8%89%E8%A7%92)”的三星之一，位于大三角两条长边所夹的角上。
 
-天鹰座的神话形象也有多个版本，如宙斯诱拐[Ganymede](https://zh.wikipedia.org/wiki/%E4%BC%BD%E5%80%AA%E5%A2%A8%E5%BE%97%E6%96%AF)时所用的化身；或宙斯追求复仇女神时爱神[阿佛洛狄忒](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BD%9B%E6%B4%9B%E7%8B%84%E5%BF%92)的化身；又或是宙斯的宠物，携雷电的使者。神话具体内容与本作剧情关系不大，故暂不在此详细叙述
+天鹰座的神话形象也有多个版本，如宙斯诱拐特洛伊王子[Ganymede](https://zh.wikipedia.org/wiki/%E4%BC%BD%E5%80%AA%E5%A2%A8%E5%BE%97%E6%96%AF)时所用的化身；或宙斯追求复仇女神时爱神[阿佛洛狄忒](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BD%9B%E6%B4%9B%E7%8B%84%E5%BF%92)的化身；又或是宙斯的宠物，携雷电的使者。神话具体内容与本作剧情关系不大，故暂不在此详细叙述
 
 #### 河鼓二
 
@@ -497,7 +497,7 @@ Altair的语义还可追溯至两河文明，当时Altair就有“老鹰之星�
 
 ### 其他存疑
 
-除去以上外，还有些个别角色名字确实有对应天体，但老贼在问答说的命名来源却似乎与天体无关的情况，比如[这条找不到提问者的推文](https://twitter.com/nezumiironyanko/status/649223332169060353)里面没提到但仍与天体有重名可能的。具体的直接列在下面：
+除去以上外，还有些个别角色名字确实有对应天体，但老贼在问答说的命名来源却似乎与天体无关的情况（主要是[fc2 wiki](http://rezero.wiki.fc2.com/wiki/%E8%80%83%E5%AF%9F)有提到但已知线索并无确认的），比如[这条找不到提问者的推文](https://twitter.com/nezumiironyanko/status/649223332169060353)里面没提到但仍与天体有重名可能的。具体的直接列在下面：
 
 **1、安娜（Anastasia）** ：与小行星[824 Anastasia](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F824)同名，但18年安娜生日问答写道：
 
@@ -526,6 +526,13 @@ Altair的语义还可追溯至两河文明，当时Altair就有“老鹰之星�
 <br/>
 
 **5、魔女Sphinx** ：小行星[896 Sphinx](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F896)。其实相比小行星大家肯定对神话里狮身人面的怪物[期芬克斯](https://zh.wikipedia.org/wiki/%E6%96%AF%E8%8A%AC%E5%85%8B%E6%96%AF)更熟悉一些。按上面大罪魔女的套路，大概老贼同样有引用小行星的可能，只是上面提的这条[推文](https://twitter.com/nezumiironyanko/status/649223332169060353)也是没有说到Sphinx。不过剑鬼恋歌是15年12月出版，这条推是15年9月的，虽然概率不高，但不是没有名字还没设定好的可能？暂时也只能放这存疑了
+
+**6、EMT养母/姑母（Fortuna）** ：小行星[19 Fortuna（命神星）](https://zh.wikipedia.org/wiki/%E5%91%BD%E7%A5%9E%E6%98%9F)。官方人设的拼写与小行星西名及神话来源（罗马神话[命运女神](https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B0%94%E5%9B%BE%E5%A8%9C)）一致，但日文片假名不同，本作里的是フォルトナ，日文19号小行星是フォルトゥナ，命运女神则是フォルトゥーナ。不过纠结这个也没啥用，同样也是因为[这个推](https://twitter.com/nezumiironyanko/status/649223332169060353)没有提她，毕竟Fortuna是四章就出场的角色，而15年这个提星名的推还是没提她，感觉老贼更大概率没打算把她刻意加入小行星梗
+
+**7、帕特拉修所属龙种（Diana）** ：小行星[78 Diana（月神星）](https://zh.wikipedia.org/wiki/%E6%9C%88%E7%A5%9E%E6%98%9F)。这个我自己都觉得是强行凑数了，因为Diana在英语里本身就不是什么罕见名，就是拿个人名当龙种而已……另外日文片假名依旧是有出入，本作里是ダイアナ，78号小行星是ディアナ，语源罗马神话月神则是ディアーナ……差别看起来明显，我在这强行写出来应该算是滥竽充数……
+
+**8、猎肠（Elsa），莉莉安娜（Liliana）**：小行星[182 Elsa](https://en.wikipedia.org/wiki/182_Elsa)及[756 Lilliana](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F756)。这俩我都懒得分别写了，因为它们已经是名字来源都和神话无关，只是日文片假名和本作一样，而且同上也是英文里本来就有名，写在这应该依然是滥竽充数……
+
 
 [返回目录](#目录)
 
