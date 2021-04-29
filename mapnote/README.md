@@ -32,3 +32,17 @@
 ## 正文
 
 ### Gusteko圣王国
+
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/mapnote/image/pardochia.png)
+
+
+**灵峰Pardochia**：慈母灵兽大精灵居住地。
+
+<details>
+<summary>出处：短篇集1 放弃追随者之日【点击展开】</summary>
+> ──北方的古斯提克聖王國由於嚴寒與險峻山脈橫亙，是對人與動物而言皆得被迫面臨嚴酷考驗的國家。在整年皆降雪的環境下，只能栽種抗寒的少數幾種農作物，取而代之的是靠著家畜飼育與高聳山脈沉眠的許多魔礦石礦脈，國力便是靠著採掘事業與販賣魔礦石維持。
+>
+> 另外，靈峰帕德奇亞的山頂還有四大精靈之一「聖獸歐德格拉斯」以強大力量君臨天下。<br/>
+<br/>
+</details>
