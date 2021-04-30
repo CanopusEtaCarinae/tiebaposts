@@ -21,8 +21,8 @@
 
 ## 目录
 
-#### [1、Gusteko圣王国](#1Gusteko圣王国)
-#### [2、Kararagi都市国家](#2Kararagi都市国家)
+### [1、Gusteko圣王国](#1Gusteko圣王国)
+### [2、Kararagi都市国家](#2Kararagi都市国家)
 &emsp; [地图西端](#地图西端)
 
 
@@ -66,6 +66,6 @@
 
 ### 2、Kararagi都市国家
 
-##### 地图西端
+#### 地图西端
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/mapnote/image/redhill.png)
