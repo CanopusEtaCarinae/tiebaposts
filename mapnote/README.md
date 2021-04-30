@@ -21,7 +21,9 @@
 
 ## 目录
 
-### [1、Gusteko圣王国](#1Gusteko圣王国)
+#### [1、Gusteko圣王国](#1Gusteko圣王国)
+#### [2、Kararagi都市国家](#2Kararagi都市国家)
+&emsp; [地图西端](#地图西端)
 
 
 
@@ -59,3 +61,11 @@
 这两个领地在地图上和王国接壤，不过这短篇里好像并没有这么说。如果是我看得粗忽略了还指大佬们不吝纠正
 
 此外地图北端的无人土地在WCT官网已确认无原文出处，无视即可
+
+----
+
+### 2、Kararagi都市国家
+
+##### 地图西端
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/mapnote/image/redhill.png)
