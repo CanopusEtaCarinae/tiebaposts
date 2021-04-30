@@ -23,7 +23,7 @@
 
 ### [1、Gusteko圣王国](#1Gusteko圣王国)
 ### [2、Kararagi都市国家](#2Kararagi都市国家)
-&emsp; &emsp; [地图西端](#地图西端)
+&emsp; &ensp; [地图西端](#地图西端)
 
 
 
