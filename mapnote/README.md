@@ -253,3 +253,19 @@ Kararagi Girl & Cat’s Eye：
 
 [返回目录](#目录)<br/>
 <br/>
+
+
+#### Kararagi南部
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/mapnote/image/fusmi.png)
+
+（地图上是南部，但是原文有没有提在Banan以南笔者看得粗也没有发现……如果读者们能指出欢迎补充）
+
+图中的地名全部出自蕾姆IF的『fortune·fish head tree』这一篇
+
+**Fusumi（贴吧译弗斯米）** ：Kararagi第四都市
+
+<details>
+<summary>17年蕾姆IF【点击展开】</summary>
+
+> 第四都市「弗斯米」是离摩格雷德大喷口最近，最受其恩惠的都市。
