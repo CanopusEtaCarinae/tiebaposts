@@ -22,7 +22,7 @@
 ## 目录
 
 ### [1、Gusteko圣王国](#1Gusteko圣王国)
-### [2、Kararagi都市国家](#2Kararagi都市国家)
+### [2、Kararagi都市国家](#2Kararagi都市国家-1)
 &emsp; &ensp; [地图西端](#地图西端) &ensp; [中北部](#Kararagi中北部) &ensp; [南部](#Kararagi南部)
 
 
@@ -269,3 +269,5 @@ Kararagi Girl & Cat’s Eye：
 <summary>17年蕾姆IF【点击展开】</summary>
 
 > 第四都市「弗斯米」是离摩格雷德大喷口最近，最受其恩惠的都市。
+
+**Magolya高原、Mogolade大喷口、Cragrel移动林，贴吧翻译分别译作马高利亚高原、摩格雷德大喷口、克拉格雷尔迁徙林** 。由于都集中在本篇因此全部抄来引用感觉意义不太，不如直接去看这一篇了（

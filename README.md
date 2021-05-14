@@ -12,4 +12,4 @@
 <br/>
 [Re0-各角色拉丁拼写](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/latin#re0%E8%A7%92%E8%89%B2%E6%8B%89%E4%B8%81%E6%8B%BC%E5%86%99)
 <br/>
-[Re0-Reddit第一版异世界地图笔记](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/mapnote#re0-reddit%E7%AC%AC%E4%B8%80%E7%89%88%E5%BC%82%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E7%AC%94%E8%AE%B0)
+[Re0-Reddit第一版异世界地图笔记（官方地图已出，暂时观望中）](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/mapnote#re0-reddit%E7%AC%AC%E4%B8%80%E7%89%88%E5%BC%82%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E7%AC%94%E8%AE%B0)
