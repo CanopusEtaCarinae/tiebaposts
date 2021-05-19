@@ -947,6 +947,9 @@ EX4： **Cecils Segmund**<br/>
 
 出自杂志上银华乱舞短篇的英文标题。至于姓的话，区别也就在于末尾的t和d。而日文最后一音是to，EX4为什么译成d我就蒙了……大概要等日语大佬帮忙解释……总之青光这个我个人以为可能旧版Fandom反而更靠谱
 
+九神将之弐，女犬人食精灵者，寡妇发小（アラキア）： **Arakiya** <br/>
+（[Fandom曾拼为](https://rezero.fandom.com/wiki/Arakiya?diff=86395&oldid=86383)Arrachia，也是早期红莲和OVA2寡妇阵营的英译所用的版本。EX4出版之后已更改。顺便这是个蛮重要的角色，红莲和OVA2对应情节都已完整汉化）
+
 九神将之肆（チシャ・ゴールド）： **Chisha Gold** （名字基本就是罗马音，姓你懂的……所以这个是唯一没出入的）
 
 九神将之陆，鬣犬人（グルービー・ガムレット）： **Groovy Gumlet** <br/>
@@ -954,9 +957,6 @@ EX4： **Cecils Segmund**<br/>
 
 刀疤金铠大锤（ゴズ・ラルフォン）： **Goz Ralphone** <br/>
 （[Fandom版](https://rezero.fandom.com/wiki/Goz_Ralfon)姓氏为Ralfon）
-
-女犬人，食精灵者，寡妇发小（アラキア）： **Arakiya** <br/>
-（[Fandom曾拼为](https://rezero.fandom.com/wiki/Arakiya?diff=86395&oldid=86383)Arrachia，也是早期红莲和OVA2寡妇阵营的英译所用的版本。EX4出版之后已更改。顺便这是个蛮重要的角色，红莲和OVA2对应情节都已完整汉化）
 
 九神将之捌，钢人族（モグロ・ハガネ）： **Mogro Hagane** <br/>
 （[Fandom版名曾拼为](https://rezero.fandom.com/wiki/Mogro_Hagane?diff=85376&oldid=67600)Moguro，现已更改）
