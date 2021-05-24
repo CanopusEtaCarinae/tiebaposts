@@ -534,7 +534,7 @@ Altair的语义还可追溯至两河文明，当时Altair就有“老鹰之星�
 **7、帕特拉修所属龙种（Diana）** ：小行星[78 Diana（月神星）](https://zh.wikipedia.org/wiki/%E6%9C%88%E7%A5%9E%E6%98%9F)。这个我自己都觉得是强行凑数了，因为Diana在英语里本身就不是什么罕见名，就是拿个人名当龙种而已……另外日文片假名依旧是有出入，本作里是ダイアナ，78号小行星是ディアナ，语源罗马神话月神则是ディアーナ……差别看起来明显，我在这强行写出来应该算是滥竽充数……<br/>
 <br/>
 
-**8、猎肠（Elsa），莉莉安娜（Liliana）**：小行星[182 Elsa](https://en.wikipedia.org/wiki/182_Elsa)及[756 Lilliana](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F756)。这俩我都懒得分别写了，因为它们已经是名字来源都和神话无关，只是日文片假名和本作一样，而且同上也是英文里本来就有的名，写在这应该依然是滥竽充数……<br/>
+**8、猎肠（Elsa），莉莉安娜（Liliana），蕾姆（Rem）**：小行星[182 Elsa](https://en.wikipedia.org/wiki/182_Elsa)，[756 Lilliana](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F756)及[3739 Rem](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F3739)。这几我都懒得分别写了，因为这几个连小行星的名字来源都和神话无关，只是日文片假名和本作一样，而且同上也是英文里本来就有的名，怎么看都根本只是碰巧撞名而已（比如蕾姆的名字来源在[早年签名会](https://rezero.fandom.com/zh/wiki/%E7%AD%BE%E5%90%8D%E4%BC%9A)就说过是双子俩一个right一个left）……写在这应该依然是滥竽充数……<br/>
 <br/>
 
 **9、七章文森特与Flop女装化名** ：分别与[天卫八（Bianca）](https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%8D%AB%E5%85%AB)和小行星[8 Flora（花神星）](https://zh.wikipedia.org/wiki/%E8%8A%B1%E7%A5%9E%E6%98%9F)同名。这个放本文也应该算凑数的，因为要说这俩名的借鉴出处最有可能的应当是[勇者斗恶龙V](https://zh.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%99V_%E5%A4%A9%E7%A9%BA%E7%9A%84%E6%96%B0%E5%A8%98)，因为文森特借姓氏的自称Abel及Bianca和Flora这三个名字是与这个游戏中的其中三个主人公同名的。三个名同时出现在一个作品里很显然这才是老贼最大概率的致敬出处。至于为什么和两个天体同名，那就应该是问当年那个游戏怎么命的名而不是问老贼了……
