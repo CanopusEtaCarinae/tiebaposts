@@ -940,12 +940,13 @@ TV一期资料集 Visual Commentary中姓氏比上面两个版本多了个d：
 
 九神将之壱，青色雷光（セシルス・セグムント）：<br/>
 EX4： **Cecils Segmund**<br/>
-[Fandom曾用](https://rezero.fandom.com/wiki/Cecilus_Segmunt)拼写： **Cecilus Segmunt**<br/>
-这个说实话的话我有些怀疑是EX4可能有问题，首先杂志上青光的名是有拼写成以前的Fandom版的：
+[Fandom版](https://rezero.fandom.com/wiki/Cecilus_Segmunt)拼写： **Cecilus Segmunt**<br/>
+这个说实话的话我有些怀疑是EX4可能有问题，首先杂志上青光的名是有拼写成Fandom版的：
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/cecilus_ca.png)
 
 出自杂志上银华乱舞短篇的英文标题。至于姓的话，区别也就在于末尾的t和d。而日文最后一音是to，EX4为什么译成d我就蒙了……大概要等日语大佬帮忙解释……总之青光这个我个人以为可能旧版Fandom反而更靠谱
+（顺便说起来Fandom版在EX4出人设之后Fandom就把名字[按EX4版改了](https://rezero.fandom.com/wiki/Cecilus_Segmunt?diff=85936&oldid=85883)，结果时隔正好半年[又给改回去了](https://rezero.fandom.com/wiki/Cecilus_Segmunt?diff=103834&oldid=103827)）
 
 九神将之弐，女犬人食精灵者，寡妇发小（アラキア）： **Arakiya** <br/>
 （[Fandom曾拼为](https://rezero.fandom.com/wiki/Arakiya?diff=86395&oldid=86383)Arrachia，也是早期红莲和OVA2寡妇阵营的英译所用的版本。EX4出版之后已更改。顺便这是个蛮重要的角色，红莲和OVA2对应情节都已完整汉化）
@@ -964,7 +965,7 @@ EX4： **Cecils Segmund**<br/>
 九神将之玖，六章6154看过的书（バルロイ・テメグリフ）： **Balleroy Temeglyph** <br/>
 （[Fandom版名曾拼为](https://rezero.fandom.com/wiki/Balleroy_Temeglyph?diff=86819&oldid=86278)Balroy，现已更改）
 
-我个人倾向是感觉青光可能旧版Fandom的要靠谱一些，其余的都按照EX4好了。不过纯属主观臆断……
+我个人倾向是感觉青光可能Fandom的要靠谱一些，其余的都按照EX4好了。不过纯属主观臆断……
 
 [返回目录](#目录-1)<br/>
 <br/>
