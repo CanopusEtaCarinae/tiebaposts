@@ -267,6 +267,8 @@ Kararagi Girl & Cat’s Eye：
 
 <details>
 <summary>17年蕾姆IF【点击展开】</summary>
+<br/>
+</details>
 
 > 第四都市「弗斯米」是离摩格雷德大喷口最近，最受其恩惠的都市。
 
