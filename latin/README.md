@@ -49,7 +49,7 @@
 
 [格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [康吾德/克伍德](#康吾德克伍德コンウッドメラハウ名-Conwood)
 
-[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo) &nbsp; [弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆/米迪娅姆ミディアムオコーネル名-Medium)
+[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo) &nbsp; [弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆米迪娅姆ミディアムオコーネル名-Medium)
 
 [托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr)
 
@@ -647,7 +647,7 @@ Complete Guidebook
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 罗恩/罗安（ロウアン）：Louann**
+#### 罗恩/罗安（ロウアン）：Louann
 
 出自[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。486在酒馆里雇佣的“强者”。说起来这个只在其中一个BE周出场了一会的角色竟然还专给了张彩插人设也是惊奇……按理说一般角色都是有名有姓，而Louann只给了名，虽然按理说他应该会有姓氏但估计再出场的概率不大所以干脆就当他全名都给了好了
 
@@ -899,6 +899,8 @@ Complete Guidebook
 #### 兹克尔/槜克尔二将（ズィクル・オスマン）：名 Zikr
 
 同上出自[27卷卷尾设定](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0019_HD.jpg)。27卷出版前民间和[Fandom](https://rezero.fandom.com/wiki/Dhikr_Ottoman)拼作Dhikr Ottoman，这里还是以官方为准。姓氏拼作Ottoman目前也仅供参考
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/zikr.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
