@@ -15,7 +15,7 @@
 
 
 
-另外地图作者其实本[已经有新版本的计划了](https://twitter.com/rezidl/status/1373872697416019968)，不过近期新出的那个[禁书与迷之精灵的页游](https://rezero.fandom.com/zh/wiki/%E7%A6%81%E4%B9%A6%E4%B8%8E%E8%B0%9C%E4%B9%8B%E7%B2%BE%E7%81%B5)有放出官方地图的可能，故目前属于停工观望状态。只是就算会出，具体时间目前也没个准信，想给新地图写笔记也不知道要什么时候了。于是这么干等着不如先把旧版的笔记贴备份完了再说的好
+另外地图作者其实本[已经有新版本的计划了](https://twitter.com/rezidl/status/1373872697416019968)，不过近期新出的那个[禁书与迷之精灵的页游](https://rezero.fandom.com/zh/wiki/%E7%A6%81%E4%B9%A6%E4%B8%8E%E8%B0%9C%E4%B9%8B%E7%B2%BE%E7%81%B5)已经放出了一版[官方地图](tieba.baidu.com/p/7342160586)，与WCT版出入已然不少，同时随小说更新也有了不少WCT版不包含的新地名。目前本贴也仅作为帖子备份存在，偶尔想起来就更一更，处于半停工状态。
 
 各位读者若有建议意见欢迎在原贴反馈或本仓库开issue提pr均可
 
@@ -24,6 +24,8 @@
 ### [1、Gusteko圣王国](#1Gusteko圣王国-1)
 ### [2、Kararagi都市国家](#2Kararagi都市国家-1)
 &emsp; &ensp; [地图西端](#地图西端) &ensp; [中北部](#Kararagi中北部) &ensp; [南部](#Kararagi南部)
+### [3、Vollachia帝国](#3Vollachia帝国-1)
+&emsp; &ensp; [帝都周边](#帝都周边)<!-- &ensp; [中北部](#Kararagi中北部) &ensp; [南部](#Kararagi南部)-->
 
 
 
@@ -278,3 +280,17 @@ Kararagi Girl & Cat’s Eye：
 
 [返回目录](#目录)<br/>
 <br/>
+
+----
+
+### 3、Vollachia帝国
+
+这版地图制作时帝国相关的短篇还仅有帝国外交和红莲，故此处笔记也仅暂对图中内容描述。像七章更新后的密林和城市自然无法出现。再有就是剑奴孤岛WCT版也和官设大相径庭，到时具体再解释了
+
+另外下图中各地的相对位置也由于资料不全不知道东南西北，这里只作地名简介
+
+
+#### 帝都周边
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/mapnote/image/rupgana.png)
+

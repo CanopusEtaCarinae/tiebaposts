@@ -41,13 +41,17 @@
 
 [八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族)
 
+[荷莉/霍莉](#荷莉霍莉ホーリィHawley) &nbsp; [库娜](#库娜クーナKhouna) &nbsp; [罗恩/罗安](#罗恩罗安ロウアンLouann)
+
 **部分姓名有出处：**
 
 [琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [安妮](#安妮アンネローゼミロード名-Annerose) &nbsp; [莉莉安娜](#莉莉安娜リリアナマスカレード名-Liliana) &nbsp; [罗姆爷](#罗姆爷) &nbsp; [苹果大叔](#苹果大叔カドモンリッシュ名-Kadomon) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカ名-Capella姓-Lugunica中间名官设未拼写) &nbsp; [阿奇/亚奇](#阿奇亚奇アーチエリオール名-Archi)
 
 [格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [康吾德/克伍德](#康吾德克伍德コンウッドメラハウ名-Conwood)
 
-[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo)
+[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo) &nbsp; [弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆/米迪娅姆ミディアムオコーネル名-Medium)
+
+[托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr)
 
 **车祸现场：**
 
@@ -625,6 +629,31 @@ Complete Guidebook
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 荷莉/霍莉（ホーリィ）：Hawley
+
+出自[27卷卷尾预告](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0018_HD.jpg)。在27卷出之前民间英译和Fandom上的拼法是[Holly](https://rezero.fandom.com/wiki/Holly)，暂以官方为准
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hawley.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 库娜（クーナ）：Khouna
+
+出处[同上](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0017_HD.jpg)，且民间和Fandom也与官设有区别为[Kuna](https://rezero.fandom.com/wiki/Kuna)，现以官方为准
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/khouna.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 罗恩/罗安（ロウアン）：Louann**
+
+出自[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。486在酒馆里雇佣的“强者”。说起来这个只在其中一个BE周出场了一会的角色竟然还专给了张彩插人设也是惊奇……按理说一般角色都是有名有姓，而Louann只给了名，虽然按理说他应该会有姓氏但估计再出场的概率不大所以干脆就当他全名都给了好了
+
+[返回目录](#目录-1)<br/>
+<br/>
+
 ---
 
 ### 部分姓名有出处
@@ -833,6 +862,47 @@ Complete Guidebook
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 弗洛普（フロップ・オコーネル）：名 Flop
+
+出自[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。
+
+（[Fandom](https://rezero.fandom.com/wiki/Flop_O%27Connell)姓氏拼作O'Connell仅供参考）
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 米迪阿姆/米迪娅姆（ミディアム・オコーネル）：名 Medium
+
+同上[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。不过medium是个蛮常见的单词直接拿来作人名还是女名莫名感觉有点怪（
+
+姓氏同上民间拼为O'Connell
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 托德（トッド・ファング）：名 Todd
+
+同上[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。托德的姓氏目前只在27卷gamers特典有提及，自然也没有拼写。[Fandom上](https://rezero.fandom.com/wiki/Todd_Fang)拼作Fang也仅供参考了
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 贾马尔（ジャマル・オーレリー）：名 Jamal
+
+出自[27卷卷尾设定](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0019_HD.jpg)。姓氏目前仅七章23节/27卷五章6节提过一次。[Fandom](https://rezero.fandom.com/wiki/Jamal_Aurelie)拼作Aurelie仅供参考
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/jamal.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 兹克尔/槜克尔二将（ズィクル・オスマン）：名 Zikr
+
+同上出自[27卷卷尾设定](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0019_HD.jpg)。27卷出版前民间和[Fandom](https://rezero.fandom.com/wiki/Dhikr_Ottoman)拼作Dhikr Ottoman，这里还是以官方为准。姓氏拼作Ottoman目前也仅供参考
+
+[返回目录](#目录-1)<br/>
+<br/>
+
 ---
 
 ### 车祸现场
@@ -949,7 +1019,7 @@ EX4： **Cecils Segmund**<br/>
 （顺便说起来Fandom版在EX4出人设之后就把名字[按EX4版改了](https://rezero.fandom.com/wiki/Cecilus_Segmunt?diff=85936&oldid=85883)，结果时隔正好半年[又给改回去了](https://rezero.fandom.com/wiki/Cecilus_Segmunt?diff=103834&oldid=103827)）
 
 九神将之弐，女犬人食精灵者，寡妇发小（アラキア）： **Arakiya** <br/>
-（[Fandom曾拼为](https://rezero.fandom.com/wiki/Arakiya?diff=86395&oldid=86383)Arrachia，也是早期红莲和OVA2寡妇阵营的英译所用的版本。EX4出版之后已更改。顺便这是个蛮重要的角色，红莲和OVA2对应情节都已完整汉化）
+（[Fandom曾拼为](https://rezero.fandom.com/wiki/Arakiya?diff=86395&oldid=86383)Arrachia，也是早期红莲和OVA2寡妇阵营的英译所用的版本。EX4出版之后已更改。帝国相关的重要角色）
 
 九神将之肆（チシャ・ゴールド）： **Chisha Gold** （名字基本就是罗马音，姓你懂的……所以这个是唯一没出入的）
 
