@@ -71,6 +71,7 @@
 #### 486 (菜月昴)
 
 这个其实论外，因为人家本名是日文汉字……非要用拉丁字母拼写也就是罗马音而已，见文库[第一卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_16.jpg)和[TV动画人设](http://re-zero-anime.jp/tv/character)（虽然是名在前的写法 **Subaru Natsuki** ），都很好找就不截图了
+
 稍微值得调侃一句的是女装486的名字在漫画上也有拼写： **Natsumi Schwarz** 。Natsumi其实也是个罗马音，很多大佬就是用“夏美”来译的。至于姓就是个西方的姓氏施瓦茨。具体在漫画中的拼写见图（其实图里还有天才厨师[Dias](https://rezero.fandom.com/wiki/Dias_Fatsbalm)的名字，不过人家全名巨长无比，只拼了个Dias实在也不值一提……所以本贴暂时就不收录她了）
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/natsumi.png)
@@ -601,6 +602,8 @@ Complete Guidebook
 
 出自[EX4彩插人设](https://rezero.fandom.com/zh/wiki/%E6%9C%80%E4%BC%98%E7%BA%AA%E8%A1%8C?file=Re_Zero_Ex_Volume_4_1.jpg)。至于文森特的原姓アベルクス就没有拼写了。[Fandom](https://rezero.fandom.com/wiki/Vincent_Vollachia)拼作Abellux仅供参考
 
+另外文森特的女装ビアンカ也有相应的出处，见[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%85%B6%E4%BB%96%E5%AD%98%E7%96%91)。若以此为准则拼为Bianca。
+
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/vincent.png)
 
 [返回目录](#目录-1)<br/>
@@ -867,6 +870,8 @@ Complete Guidebook
 出自[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。
 
 （[Fandom](https://rezero.fandom.com/wiki/Flop_O%27Connell)姓氏拼作O'Connell仅供参考）
+
+Flop的女装フローラ也和上面文森特一样有出处，参看[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%85%B6%E4%BB%96%E5%AD%98%E7%96%91)这里的解释。以此为准则拼作Flora
 
 [返回目录](#目录-1)<br/>
 <br/>
