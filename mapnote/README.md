@@ -15,7 +15,7 @@
 
 
 
-另外地图作者其实本[已经有新版本的计划了](https://twitter.com/rezidl/status/1373872697416019968)，不过近期新出的那个[禁书与迷之精灵的页游](https://rezero.fandom.com/zh/wiki/%E7%A6%81%E4%B9%A6%E4%B8%8E%E8%B0%9C%E4%B9%8B%E7%B2%BE%E7%81%B5)已经放出了一版[官方地图](tieba.baidu.com/p/7342160586)，与WCT版出入已然不少，同时随小说更新也有了不少WCT版不包含的新地名。目前本贴也仅作为帖子备份存在，偶尔想起来就更一更，处于半停工状态。
+另外地图作者其实本[已经有新版本的计划了](https://twitter.com/rezidl/status/1373872697416019968)，不过近期新出的那个[禁书与迷之精灵的页游](https://rezero.fandom.com/zh/wiki/%E7%A6%81%E4%B9%A6%E4%B8%8E%E8%B0%9C%E4%B9%8B%E7%B2%BE%E7%81%B5)已经放出了一版[官方地图](tieba.baidu.com/p/7342160586)（[高清在此](https://twitter.com/rezidl/status/1415173046281949187)），与WCT版出入已然不少，同时随小说更新也有了不少WCT版不包含的新地名。目前本贴也仅作为帖子备份存在，偶尔想起来就更一更，处于半停工状态。
 
 各位读者若有建议意见欢迎在原贴反馈或本仓库开issue提pr均可
 
