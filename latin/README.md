@@ -39,9 +39,9 @@
 
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
-[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族)
+[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族)
 
-[荷莉/霍莉](#荷莉霍莉ホーリィHawley) &nbsp; [库娜](#库娜クーナKhouna) &nbsp; [罗恩/罗安](#罗恩罗安ロウアンLouann)
+[荷莉/霍莉](#荷莉霍莉ホーリィHawley) &nbsp; [库娜](#库娜クーナKhouna) &nbsp; [罗恩/罗安](#罗恩罗安ロウアンLouann) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk)
 
 **部分姓名有出处：**
 
@@ -51,7 +51,7 @@
 
 [李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo) &nbsp; [弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆米迪娅姆ミディアムオコーネル名-Medium)
 
-[托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr)
+[托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr) &nbsp; [毒姬](#毒姬ラミアゴドウィン名-Lamia) &nbsp; [乔拉（中级伯爵）](#乔拉ジョラーペンダルトン名-Jorah) &nbsp; [灼热公](#灼热公セリーナドラクロイ名-Serena)
 
 **车祸现场：**
 
@@ -332,7 +332,7 @@ Zeropedia
 
 扫图不太清楚，不过隐约可以看到拼成Beliel了。基本可以当这个是事故。顺便阳光照耀水面这期杂志短篇上 **几乎所有角色的拼写都出了问题** 。[之后还会说](#修尔特修鲁特舒尔特シュルト)
 
-（注：寡妇的前传短篇红莲的残影里出现了她的的本名プリスカ・ベネディクト，以后会不会有拼写说不定。[Fandom](https://rezero.fandom.com/wiki/Priscilla_Barielle)上暂拼为Prisca Benedict）
+此外EX5收录了寡妇的前传短篇红莲的残影，也透露其本名为プリスカ・ベネディクト，【【【【【EX5人设】】】】】也给了了名字拼写 **Prisca** 。原姓氏暂时仅有[Fandom](https://rezero.fandom.com/wiki/Priscilla_Barielle)拼作Benedict，仅供参考
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -562,6 +562,13 @@ Complete Guidebook
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 迈尔斯（マイルズ）：Miles
+
+出自【【【【【EX5人设】】】】】。前九神将之玖的义兄，EX1中作为间谍来到王国，结果被蒸发得尸骨无存。EX5赫炎前传倒是又出场还给了人设拼写。不过奇怪的是Miles至今没有说姓啥，按说既然是士兵又是前九神将义兄不应该会没有。不过看样子他再出场的机会感觉也不多了，只得暂时就当这是全名
+
+[返回目录](#目录-1)<br/>
+<br/>
+
 #### 亲龙王国王族
 
 **40代国王（ジオニス・ルグニカ）：Gionis Lugunica**
@@ -653,6 +660,20 @@ Complete Guidebook
 #### 罗恩/罗安（ロウアン）：Louann
 
 出自[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。486在酒馆里雇佣的“强者”。说起来这个只在其中一个BE周出场了一会的角色竟然还专给了张彩插人设也是惊奇……按理说一般角色都是有名有姓，而Louann只给了名，虽然按理说他应该会有姓氏但估计再出场的概率不大所以干脆就当他全名都给了好了
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 剑奴女帝（ホーネット）：Hornet
+
+出自【【【【【EX5人设】】】】】。七年前剑奴孤岛上最强者。【【【【Fandom】】】】拼作Hornette，这里还是以官方为准。另外剑奴这种身份似乎不太可能有姓氏，而且女帝在出场的篇章就已经便当了，也就不当她有姓氏了
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 乌比路克（ウビルク）：Ubirk
+
+出自【【【【【EX5人设】】】】】。剑奴孤岛上的男娼，赫炎短篇幕后反派，魔眼族。[Fandom](https://rezero.fandom.com/wiki/Ubilk)拼作Ubilk，这里还是以官方为准。同上剑奴孤岛上的人估计不太可能有姓氏，就先当这是全名了。不过赫炎结尾此人跑路成功，以后若有机会登场再说了
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -910,6 +931,27 @@ Flop的女装フローラ也和上面文森特一样有出处，参看[星空文
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 毒姬（ラミア・ゴドウィン）：名 Lamia
+
+出自【【【【【EX5人设】】】】】。七年前选帝之仪的皇储之一，红莲短篇寡妇的主要对手。姓氏[Fandom](https://rezero.fandom.com/wiki/Lamia_Godwin)拼作Godwin仅供参考
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 乔拉（ジョラー・ペンダルトン）：名 Jorah
+
+出自【【【【【EX5人设】】】】】，寡妇第一任丈夫，帝国中级伯爵。姓氏[Fandom](https://rezero.fandom.com/wiki/Minor_Characters#Jorah_Pendleton)拼作Pendleton仅供参考。
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 灼热公（セリーナ・ドラクロイ）：名 Serena
+
+出自【【【【【EX5人设】】】】】，帝国上级伯爵，赫炎短篇主要角色及七章前帮寡妇过境的内应。姓氏【【【【[Fandom]】】】拼作Dracroy仅供参考。
+
+[返回目录](#目录-1)<br/>
+<br/>
+
 ---
 
 ### 车祸现场
@@ -1015,7 +1057,9 @@ TV一期资料集 Visual Commentary中姓氏比上面两个版本多了个d：
 
 九神将有七位的全名在EX4中有完整拼写，出处直接看[插图](https://rezero.fandom.com/zh/wiki/%E6%9C%80%E4%BC%98%E7%BA%AA%E8%A1%8C?file=Re_Zero_Ex_Volume_4_1.jpg)即可。之所以放到车祸现场的部分是因为和民间拼写（Fandom也曾大量使用）上的出入实在太多，撞得一塌糊涂，就算EX4相对会靠谱点但个别应该还是有拼写确实有问题的的……先就这么列下来了
 
-九神将之壱，青色雷光（セシルス・セグムント）：<br/>
+另外EX5中给出了九神将之参的名字拼写，虽然没啥争议，不过九神将基本都写在这段了也就一起放这好了
+
+九神将之壱，『青色雷光』（セシルス・セグムント）：<br/>
 EX4： **Cecils Segmund**<br/>
 [Fandom版](https://rezero.fandom.com/wiki/Cecilus_Segmunt)拼写： **Cecilus Segmunt**<br/>
 这个说实话的话我有些怀疑是EX4可能有问题，首先杂志上青光的名是有拼写成Fandom版的：
@@ -1025,24 +1069,28 @@ EX4： **Cecils Segmund**<br/>
 出自杂志上银华乱舞短篇的英文标题。至于姓的话，区别也就在于末尾的t和d。而日文最后一音是to，EX4为什么译成d我就蒙了……大概要等日语大佬帮忙解释……总之青光这个我个人以为可能Fandom反而更靠谱
 （顺便说起来Fandom版在EX4出人设之后就把名字[按EX4版改了](https://rezero.fandom.com/wiki/Cecilus_Segmunt?diff=85936&oldid=85883)，结果时隔正好半年[又给改回去了](https://rezero.fandom.com/wiki/Cecilus_Segmunt?diff=103834&oldid=103827)）
 
-九神将之弐，女犬人食精灵者，寡妇发小（アラキア）： **Arakiya** <br/>
+九神将之弐，女犬人，『食精灵者』，寡妇发小（アラキア）： **Arakiya** <br/>
 （[Fandom曾拼为](https://rezero.fandom.com/wiki/Arakiya?diff=86395&oldid=86383)Arrachia，也是早期红莲和OVA2寡妇阵营的英译所用的版本。EX4出版之后已更改。帝国相关的重要角色）
 
-九神将之肆（チシャ・ゴールド）： **Chisha Gold** （名字基本就是罗马音，姓你懂的……所以这个是唯一没出入的）
+九神将之参，『恶辣翁』（オルバルト・ダンクルケン）：名 **Orbart** <br/>
+仅在【【【【【EX5】】】】】】给出名拼写，[Fandom](https://rezero.fandom.com/wiki/Minor_Characters#Olbart_Dunkelkenn)拼作Olbart Dunkelkenn，名这里还是以官方人设为准，姓暂仅供参考
 
-九神将之陆，鬣犬人（グルービー・ガムレット）： **Groovy Gumlet** <br/>
-（[Fandom姓氏为曾拼为](https://rezero.fandom.com/wiki/Groovy_Gumlet?diff=85364&oldid=69724)Gamlet，现已更改）
 
-刀疤金铠大锤（ゴズ・ラルフォン）： **Goz Ralphone** <br/>
+九神将之肆，『白蜘蛛』（チシャ・ゴールド）： **Chisha Gold** （名字基本就是罗马音，姓你懂的……所以这个是唯一没出入的）
+
+九神将之伍『狮子骑士』（ゴズ・ラルフォン）： **Goz Ralphone** <br/>
 （[Fandom版](https://rezero.fandom.com/wiki/Goz_Ralfon)姓氏为Ralfon）
 
-九神将之捌，钢人族（モグロ・ハガネ）： **Mogro Hagane** <br/>
+九神将之陆，鬣犬人，『咒具师』（グルービー・ガムレット）： **Groovy Gumlet** <br/>
+（[Fandom姓氏为曾拼为](https://rezero.fandom.com/wiki/Groovy_Gumlet?diff=85364&oldid=69724)Gamlet，现已更改）
+
+九神将之捌，『钢人』（モグロ・ハガネ）： **Mogro Hagane** <br/>
 （[Fandom版名曾拼为](https://rezero.fandom.com/wiki/Mogro_Hagane?diff=85376&oldid=67600)Moguro，现已更改）
 
-九神将之玖，六章6154看过的书（バルロイ・テメグリフ）： **Balleroy Temeglyph** <br/>
+（前）九神将之玖，六章6154看过的书，『魔弹射手』（バルロイ・テメグリフ）： **Balleroy Temeglyph** <br/>
 （[Fandom版名曾拼为](https://rezero.fandom.com/wiki/Balleroy_Temeglyph?diff=86819&oldid=86278)Balroy，现已更改）
 
-我个人倾向是感觉青光可能Fandom的要靠谱一些，其余的都按照EX4好了。不过纯属主观臆断……
+我个人倾向是感觉青光可能Fandom的要靠谱一些，其余的都按照官方外传人设好了。不过纯属主观臆断……
 
 [返回目录](#目录-1)<br/>
 <br/>
