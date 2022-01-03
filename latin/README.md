@@ -7,6 +7,8 @@
 
 再有是后来才拿到资源的一期碟片4和8的特典Complete Guidebook，这个参考性比上面的游戏要大一些，但似乎还有些和民间或其他出版出入较大的部分，所以如果这本是唯一出处的话一般仍暂时当作未确定拼写处理
 
+二期同上也有Complete Guidebook，不过目前只有二期BD8的资源，算是一定补充
+
 拼写出处主要分三类：1、全名都有完整拼写的（一些没姓氏的也算）；2、只有部分有拼写的，比如有些人设图里只拼名不拼姓的那种就会归到这里；3、车祸现场，比如官方不同版本的出处间有矛盾和乌龙的，有些还可以随便侃侃当个乐就搁这了。
 
 内容会尽量随官方出版物更新。一些值得讨论的部分欢迎在原贴评论或本仓库提issue发pr。
@@ -39,9 +41,9 @@
 
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
-[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族)
+[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [礼赞者](#礼赞者ハリベルHalivel) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [亲龙王国王族](#亲龙王国王族)
 
-[荷莉/霍莉](#荷莉霍莉ホーリィHawley) &nbsp; [库娜](#库娜クーナKhouna) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk)
+[帝国皇族](#帝国皇族) &nbsp; [荷莉/霍莉](#荷莉霍莉ホーリィHawley) &nbsp; [库娜](#库娜クーナKhouna) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk)
 
 **部分姓名有出处：**
 
@@ -49,9 +51,9 @@
 
 [格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [康吾德/克伍德](#康吾德克伍德コンウッドメラハウ名-Conwood)
 
-[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo) &nbsp; [弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆米迪娅姆ミディアムオコーネル名-Medium)
+[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo) &nbsp; [『过路魔』（大精灵）](#过路魔缇雅ザーレスティア昵称-Tier)
 
-[托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr) &nbsp; [毒姬](#毒姬ラミアゴドウィン名-Lamia) &nbsp; [乔拉（中级伯爵）](#乔拉ジョラーペンダルトン名-Jorah) &nbsp; [灼热公](#灼热公セリーナドラクロイ名-Serena)
+[弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆米迪娅姆ミディアムオコーネル名-Medium) &nbsp; [托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr) &nbsp; [毒姬](#毒姬ラミアゴドウィン名-Lamia) &nbsp; [乔拉（中级伯爵）](#乔拉ジョラーペンダルトン名-Jorah) &nbsp; [灼热公](#灼热公セリーナドラクロイ名-Serena)
 
 **车祸现场：**
 
@@ -408,7 +410,9 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 #### 暴食司教『美食家』（ライ・バテンカイトス）：Rye Batenkaitos
 
-官方来源没啥好说，[TV动画人设](http://re-zero-anime.jp/tv/character)
+官方来源有两个，[TV动画人设](http://re-zero-anime.jp/tv/character) 以及Re：BOX 2画集
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rye_rebox2.png)
 
 不过对暴食司教的名其实还是有不少值得说的。其一，小说党肯定知道暴食司教有三位，而TV目前只有美食家出场，人设自然只能给他的。其二，三位位暴食的姓氏也是出自星名〔[天仓四](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E9%B2%B8%E9%B1%BC%E5%BA%A7)（Baten Kaitos）、[星宿一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E9%95%BF%E8%9B%87%E5%BA%A7)（Alphard）[厕一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A9%E5%85%94%E5%BA%A7)（Arneb）〕，除美食家的星名是俩词拼写成姓氏时要合并外另两位其实可以照搬；其三，三位暴食的名其实是很像的：ライ，ロイ，ルイ，只有第一个假名不一样，而要改成西式拼写就比较难体现出这个特点了。过去民间拼成Ley，Roy和Louis就基本看不太出来。如今官方给美食家拼写的时候没有参考民间而是采用没用过的Rye，那么希望以后另两位暴食有拼写时也希望官方能给个体现得出相似特点的方案罢。
 
@@ -425,9 +429,17 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 暴食（ダフネ）： **Daphne** ；<br/>
 色欲（カーミラ）： **Carmilla** ；<br/>
 虚饰（パンドラ）： **Pandora** ；<br/>
-忧郁（ヘクトール）： **Hector**<br/>
+忧郁（ヘクトール）： **Hektor**<br/>
 
-除忧郁外魔女的人设都在[10](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_16.jpg)，[11](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC11%E5%8D%B7?file=Re_Zero_Volume_11_4.jpg)，[12卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC12%E5%8D%B7?file=Re_Zero_Volume_12_3.jpg)，[14卷的彩页](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_3.jpg)以及[tv动画人设](http://re-zero-anime.jp/tv/character)给好了，且[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%B0%8F%E8%A1%8C%E6%98%9F%E7%9B%B8%E5%85%B3)中我也说过这些名字也都出自神话以及对应的小行星名。至于忧郁虽然官方还没有直接给出拼写，但名字很明显是取自特洛伊战争里的赫克托耳，因此我就直接拿过来了。
+除忧郁外魔女的人设都在[10](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_16.jpg)，[11](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC11%E5%8D%B7?file=Re_Zero_Volume_11_4.jpg)，[12卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC12%E5%8D%B7?file=Re_Zero_Volume_12_3.jpg)，[14卷的彩页](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_3.jpg)以及[tv动画人设](http://re-zero-anime.jp/tv/character)给好了，且[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%B0%8F%E8%A1%8C%E6%98%9F%E7%9B%B8%E5%85%B3)中我也说过这些名字也都出自神话以及对应的小行星名。忧郁则是画集Re：BOX 2和二期BD8中给出了拼写。值得一提的是神话的赫克托耳和小行星624的拼写其实不同，官方在这还是选用的小行星的版本
+
+Re：BOX 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hektor_rebox2.png)
+
+二期 Complete Guidebook
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hektor_cb_2_8.png)
 
 不过如[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%B0%8F%E8%A1%8C%E6%98%9F%E7%9B%B8%E5%85%B3)中所说，色欲和忧郁两个拼写其实有点疑问，前者比实际少个字母，后者是神话与小行星拼写不同。色欲我就还是按官方出版物的来了，忧郁暂且以神话为准。详情在星空文化贴中有具体解释
 
@@ -558,6 +570,15 @@ Complete Guidebook
 #### IF线中486与蕾姆子女：Rigel Natsuki和Spica Natsuki
 
 姓氏肯定是菜月了……名字（リゲル、スピカ）原作没有人设图，不过肯定的是他们俩也是用恒星取的名：[参宿七](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%8F%82%E5%AE%BF%E4%B8%83)和[角宿一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%AE%A4%E5%A5%B3%E5%BA%A7)，因此把西名搬过来就行。完整姓名就按照486的官设名在前姓在后了，虽然好像有点别扭😷
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 礼赞者（ハリベル）：Halivel
+
+出自Re：BOX 2画集。虽然和[Fandom版](https://rezero.fandom.com/wiki/Halibel)拼写的Halibel不一样，我这里还是以官方给的为准了
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/halivel_rebox2.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -879,6 +900,17 @@ Complete Guidebook
 [返回目录](#目录-1)<br/>
 <br/>
 
+
+#### 『过路魔』缇雅（ザーレスティア）：昵称 Tier
+
+四大精灵之一。目前唯一只有个昵称ティア的出处是Re：BOX 2画集。[Fandom](https://rezero.fandom.com/wiki/Zarestia)上拼写的全Zarestia从昵称取尾音看和官方拼写不同，估计官方全名也不会照Fandom那样拼了。而且官方估计也不会有什么机会再给缇雅的人设，大概全名以后也不会有官方设定
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/tier_rebox2.png)
+
+（姓氏[Fandom](https://rezero.fandom.com/wiki/Ezzo_Cadner)拼作Cadner仅供参考）
+
+[返回目录](#目录-1)<br/>
+
 #### 弗洛普（フロップ・オコーネル）：名 Flop
 
 出自[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。
@@ -971,6 +1003,10 @@ Re: BOX画集第七卷的部分开篇
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/there_rebox.png)
 
+Re: BOX 2画集人设
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/theresia_rebox2.png)
+
 Complete Guidebook
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/theresia_cb.png)
@@ -1040,6 +1076,10 @@ TV一期资料集 Visual Commentary中姓氏比上面两个版本多了个d：
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_cb.png)
 
 好家伙，原来二期官网这拼法还不是独一份，最早的竟然是在一期的BD特典里。看来这还真算是有点道理了
+
+最后二期BD8的Complete Guidebook有个猎肠回忆人设，又回到了最前面的版本，一夜回到解放前……
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_cb_2_8.png)
 
 顺便Granhiert还是异世界多次提及的一种酒，猎肠也确实是用酒取了姓氏，因为第一次划人肚子的玻璃片就是酒瓶的破片
 
