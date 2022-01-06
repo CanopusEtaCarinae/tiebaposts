@@ -478,7 +478,7 @@ Altair的语义还可追溯至两河文明，当时Altair就有“老鹰之星�
 **『虚饰』魔女Pandora** ：小行星[55 Pandora](https://zh.wikipedia.org/wiki/%E7%A5%B8%E7%A5%9E%E6%98%9F)，中译祸神星，主带小行星。名即取自希腊神话中打开魔盒的[潘多拉](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%A4%9A%E6%8B%89)。此外[土卫十七](https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%8D%AB%E5%8D%81%E4%B8%83)的西名也是与祸神星相同的Pandora<br/>
 <br/>
 
-**『忧郁』魔人Hector** ：小行星[624 Hektor](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F624)，中译赫克托（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=1796)），为木星最大的[特洛伊小行星](https://zh.wikipedia.org/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%E5%B0%8F%E8%A1%8C%E6%98%9F)。名取词特洛伊战争中特洛伊阵营第一勇士[赫克托耳](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%85%8B%E6%89%98%E8%80%B3)。说起来神话里的 **Hector** 和小行星 **Hektor** 拼写不一样，日语则是前者 **ヘクトール** ，后者 **ヘクトル** ，本作取的是前者，因此虽然目前忧郁没有官方人设拉丁拼写，我还是按这情况取前者了。<br/>
+**『忧郁』魔人Hektor** ：小行星[624 Hektor](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F624)，中译赫克托（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=1796)），为木星最大的[特洛伊小行星](https://zh.wikipedia.org/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%E5%B0%8F%E8%A1%8C%E6%98%9F)。名取词特洛伊战争中特洛伊阵营第一勇士[赫克托耳](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%85%8B%E6%89%98%E8%80%B3)。说起来神话里的 **Hector** 和小行星 **Hektor** 拼写不一样，日语则是前者 **ヘクトール** ，后者 **ヘクトル** 。本作日语原文取的是前者，然而[官方的画集和设定集](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/latin#%E5%A4%A7%E7%BD%AA%E9%AD%94%E5%A5%B3%E9%AD%94%E4%BA%BA)却把英文拼为后者，也不知在做设定集的时候有没有想那么多了。<br/>
 
 <details>
 <summary>【小知识（特洛伊小行星的命名）】</summary>
