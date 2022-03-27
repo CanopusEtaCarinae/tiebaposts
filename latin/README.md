@@ -43,7 +43,7 @@
 
 [八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [礼赞者](#礼赞者ハリベルHalivel) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [亲龙王国王族](#亲龙王国王族)
 
-[帝国皇族](#帝国皇族) &nbsp; [荷莉/霍莉](#荷莉霍莉ホーリィHawley) &nbsp; [库娜](#库娜クーナKhouna) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk)
+[帝国皇族](#帝国皇族) &nbsp; [荷莉/霍莉](#荷莉霍莉ホーリィHawley) &nbsp; [库娜](#库娜クーナKhouna) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk) &nbsp; [坦萨](#坦萨タンザTanza)
 
 **部分姓名有出处：**
 
@@ -687,7 +687,14 @@ Complete Guidebook
 
 #### 乌比路克（ウビルク）：Ubirk
 
-出自[EX5人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:%E7%BB%AF%E8%89%B2%E5%A7%AC%E8%B0%AD?file=Re_Zero_Ex_Volume_5_2.png)。剑奴孤岛上的男娼，赫炎短篇幕后反派，魔眼族。[Fandom](https://rezero.fandom.com/wiki/Ubilk)拼作Ubilk，这里还是以官方为准。目前还不知此人有没有姓氏，不过在EX5蜜瓜已暗示他就是之前的外传中有侧面提及的『星詠み』，以后出场肯定是必然了。到时如果揭示全名再另行调整罢
+出自[EX5人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:%E7%BB%AF%E8%89%B2%E5%A7%AC%E8%B0%AD?file=Re_Zero_Ex_Volume_5_2.png)。剑奴孤岛上的男娼，赫炎短篇幕后反派，魔眼族，皇帝身边的『星詠み』。[Fandom](https://rezero.fandom.com/wiki/Ubilk)拼作Ubilk，这里还是以官方为准。目前还不知此人有没有姓氏，不过作为『星詠み』这样的关键身份角色，以后出场肯定是必然了。到时如果揭示全名再另行调整罢
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 坦萨（タンザ）：Tanza
+
+出自[29卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:29%E5%8D%B7?file=Re_Zero_Light_Novel_29_2.png)。九神将之漆的侍女。目前没提到过她的姓，暂时也就当这个是全名了
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -1106,7 +1113,7 @@ EX4： **Cecils Segmund**<br/>
 （[Fandom曾拼为](https://rezero.fandom.com/wiki/Arakiya?diff=86395&oldid=86383)Arrachia，也是早期红莲和OVA2寡妇阵营的英译所用的版本。EX4出版之后已更改。帝国相关的重要角色）
 
 九神将之参，『恶辣翁』（オルバルト・ダンクルケン）：名 **Orbart** <br/>
-仅在[EX5人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:%E7%BB%AF%E8%89%B2%E5%A7%AC%E8%B0%AD?file=Re_Zero_Ex_Volume_5_2.png)给出名拼写，[Fandom](https://rezero.fandom.com/wiki/Minor_Characters#Olbart_Dunkelkenn)拼作Olbart Dunkelkenn，名这里还是以官方人设为准，姓暂仅供参考
+名拼写出自[EX5人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:%E7%BB%AF%E8%89%B2%E5%A7%AC%E8%B0%AD?file=Re_Zero_Ex_Volume_5_2.png)及[29卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:29%E5%8D%B7?file=Re_Zero_Light_Novel_29_17.png)，[Fandom](https://rezero.fandom.com/wiki/Olbart_Dunkelkenn)拼作Olbart Dunkelkenn，名这里还是以官方人设为准，姓暂仅供参考
 
 
 九神将之肆，『白蜘蛛』（チシャ・ゴールド）： **Chisha Gold** （名字基本就是罗马音，姓你懂的……所以这个是唯一没出入的）
@@ -1117,6 +1124,9 @@ EX4： **Cecils Segmund**<br/>
 九神将之陆，鬣犬人，『咒具师』（グルービー・ガムレット）： **Groovy Gumlet** <br/>
 （[Fandom姓氏为曾拼为](https://rezero.fandom.com/wiki/Groovy_Gumlet?diff=85364&oldid=69724)Gamlet，现已更改）
 
+九神将之漆，『极彩色』（ヨルナ・ミシグレ）： 名 **Jorna** <br/>
+名拼写出自[29卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:29%E5%8D%B7?file=Re_Zero_Light_Novel_29_2.png)及[卷尾预告](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:29%E5%8D%B7?file=Re_Zero_Light_Novel_29_16.png)。[Fandom](https://rezero.fandom.com/wiki/Yoruna_Mishigure)拼作Yoruna Mishigure，名还是以官方为准，姓氏就仅供参考了
+
 九神将之捌，『钢人』（モグロ・ハガネ）： **Mogro Hagane** <br/>
 （[Fandom版名曾拼为](https://rezero.fandom.com/wiki/Mogro_Hagane?diff=85376&oldid=67600)Moguro，现已更改）
 
@@ -1124,6 +1134,14 @@ EX4： **Cecils Segmund**<br/>
 （[Fandom版名曾拼为](https://rezero.fandom.com/wiki/Balleroy_Temeglyph?diff=86819&oldid=86278)Balroy，现已更改）
 
 我个人倾向是感觉青光可能Fandom的要靠谱一些，其余的都按照官方外传人设好了。不过纯属主观臆断……
+
+另：九神将相关的还有两人截至目前（29卷刚出）还没有姓氏拼写，但29卷人设图写了名，如上面的漆一样虽不属于车祸现场，但九神将相关都放在这了那也就直接一块写了
+
+（新）九神将之玖『飞龙将』（マデリン・エッシャルト）： 名 **Madelyn** <br/>
+名拼写出自[29卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:29%E5%8D%B7?file=Re_Zero_Light_Novel_29_2.png)，姓氏[Fandom](https://rezero.fandom.com/wiki/Madelyn_Eschart)拼作Eschart仅供参考
+
+前候补九神将之玖『斗虫将』（カフマ・イルルクス）： 名 **Kafma** <br/>
+名拼写出自[29卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:29%E5%8D%B7?file=Re_Zero_Light_Novel_29_2.png)，姓氏[Fandom](https://rezero.fandom.com/wiki/Kafma_Irulux)拼作Irulux仅供参考
 
 [返回目录](#目录-1)<br/>
 <br/>
