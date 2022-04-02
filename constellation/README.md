@@ -69,7 +69,7 @@
 
 <!--[**毕宿五**](https://zh.wikipedia.org/wiki/%E7%95%A2%E5%AE%BF%E4%BA%94)-->
 
-[毕宿五](https://zh.wikipedia.org/wiki/%E7%95%A2%E5%AE%BF%E4%BA%94)即金牛座α星，为一橙红色红巨星，金牛座中最亮星，宛如金牛瞪红的眼睛。波斯文化中四颗“王者之星”中的第一颗。毕宿五为本作中寡妇的骑士Al（Aldebaran）的名字由来，其语义来源很值得推敲——Aldebaran，有两种说法，一是源于阿拉伯语Al Dabaran，意为“跟随者”；二是源于Na'ir al Dabaran，意为“跟随者中的亮者”。无论哪一种都有“跟随”的意思。星图中可看到金牛座主要恒星（包括毕星团、毕宿五）都位于昴星团东边，由于地球自西向东自转，所有恒星都有东升西落的视运动，于是毕星团和毕宿五就像是在昴星团后面“跟随”，故而“跟随者”Aldebaran的名字即来源于此。许多读者猜测Al的身份时也有引用其名字“‘昴’的追随者”这样的含义。而具体有多大相关目前原作则尚未揭晓
+[毕宿五](https://zh.wikipedia.org/wiki/%E7%95%A2%E5%AE%BF%E4%BA%94)即金牛座α星，为一橙红色红巨星，金牛座中最亮星，宛如金牛瞪红的眼睛。波斯文化中四颗“王者之星”中的第一颗。毕宿五为本作中寡妇的骑士Al（Aldebaran）的名字由来，其语义来源很值得推敲——Aldebaran，有两种说法，一是源于阿拉伯语Al Dabaran，意为“跟随者”；二是源于Na'ir al Dabaran，意为“跟随者中的亮者”。无论哪一种都有“跟随”的意思。星图中可看到金牛座主要恒星（包括毕星团、毕宿五）都位于昴星团东边，由于地球自西向东自转，所有恒星都有东升西落的视运动，于是毕星团和毕宿五就像是在昴星团后面“跟随”，故而“跟随者”Aldebaran的名字即来源于此。许多读者猜测Al的身份时也有引用其名字“‘昴’的追随者”这样的含义。而在七章57节又出现了“ *ナツキ・スバルがあそこにいるなら、アルデバランはそこに往かなくては。* ”这样的话，似乎给Al名字坑的来源可能提供了一个有力支持
 
 [返回目录](#目录)
 
@@ -478,11 +478,11 @@ Altair的语义还可追溯至两河文明，当时Altair就有“老鹰之星�
 **『虚饰』魔女Pandora** ：小行星[55 Pandora](https://zh.wikipedia.org/wiki/%E7%A5%B8%E7%A5%9E%E6%98%9F)，中译祸神星，主带小行星。名即取自希腊神话中打开魔盒的[潘多拉](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%A4%9A%E6%8B%89)。此外[土卫十七](https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%8D%AB%E5%8D%81%E4%B8%83)的西名也是与祸神星相同的Pandora<br/>
 <br/>
 
-**『忧郁』魔人Hektor** ：小行星[624 Hektor](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F624)，中译赫克托（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=1796)），为木星最大的[特洛伊小行星](https://zh.wikipedia.org/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%E5%B0%8F%E8%A1%8C%E6%98%9F)。名取词特洛伊战争中特洛伊阵营第一勇士[赫克托耳](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%85%8B%E6%89%98%E8%80%B3)。说起来神话里的 **Hector** 和小行星 **Hektor** 拼写不一样，日语则是前者 **ヘクトール** ，后者 **ヘクトル** 。本作日语原文取的是前者，然而[官方的画集和设定集](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/latin#%E5%A4%A7%E7%BD%AA%E9%AD%94%E5%A5%B3%E9%AD%94%E4%BA%BA)却把英文拼为后者，也不知在做设定集的时候有没有想那么多了。<br/>
+**『忧郁』魔人Hektor** ：小行星[624 Hektor](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F624)，中译赫克托（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=1796)），为木星最大的[特洛伊小行星](https://zh.wikipedia.org/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%E5%B0%8F%E8%A1%8C%E6%98%9F)。名取自特洛伊战争中特洛伊阵营第一勇士[赫克托耳](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%85%8B%E6%89%98%E8%80%B3)。说起来神话里的 **Hector** 和小行星 **Hektor** 拼写不一样，日语则是前者 **ヘクトール** ，后者 **ヘクトル** 。本作日语原文取的是前者，然而[官方的画集和设定集](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/latin#%E5%A4%A7%E7%BD%AA%E9%AD%94%E5%A5%B3%E9%AD%94%E4%BA%BA)却把英文拼为后者，也不知在做设定集的时候有没有想那么多了。<br/>
 
 <details>
 <summary>【小知识（特洛伊小行星的命名）】</summary>
-木星的特洛伊小行星指在木星的第四和第五拉格朗日点（L<sub>4</sub>、L<sub>5</sub>）附近的小行星。特洛伊小行星按传统都以特洛伊战争中的英雄来命名，其中L<sub>4</sub>的以希腊阵营的英雄命名（故也称为希腊群），L<sub>5</sub>则以特洛伊阵营的英雄命名（也称特洛伊群）。而在木星的特洛伊小行星刚发现时两个群的命名规则还未确立，故而两个群各有一颗被“分错了阵营”的小行星。其中624号Hektor便是以特洛伊英雄命名却被分到了希腊群的小行星。<br/>
+木星的特洛伊小行星指在木星的第四和第五拉格朗日点（L<sub>4</sub>、L<sub>5</sub>）附近的小行星。特洛伊小行星按传统都以特洛伊战争中的英雄来命名，其中L<sub>4</sub>的以希腊阵营的英雄命名（故也称为希腊群），L<sub>5</sub>则以特洛伊阵营的英雄命名（也称特洛伊群）。而在木星的特洛伊小行星刚发现时两个群的命名规则还未确立，故而两个群各有一颗被“命名错了阵营”的小行星。其中624号Hektor便是以特洛伊英雄命名却处于希腊群的小行星。<br/>
 </details>
 
 &nbsp;
@@ -534,10 +534,13 @@ Altair的语义还可追溯至两河文明，当时Altair就有“老鹰之星�
 **7、帕特拉修所属龙种（Diana）** ：小行星[78 Diana（月神星）](https://zh.wikipedia.org/wiki/%E6%9C%88%E7%A5%9E%E6%98%9F)。这个我自己都觉得是强行凑数了，因为Diana在英语里本身就不是什么罕见名，就是拿个人名当龙种而已……另外日文片假名依旧是有出入，本作里是ダイアナ，78号小行星是ディアナ，语源罗马神话月神则是ディアーナ……差别看起来明显，我在这强行写出来应该算是滥竽充数……<br/>
 <br/>
 
-**8、猎肠（Elsa），莉莉安娜（Liliana），蕾姆（Rem）**：小行星[182 Elsa](https://en.wikipedia.org/wiki/182_Elsa)，[756 Lilliana](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F756)及[3739 Rem](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F3739)。这几我都懒得分别写了，因为这几个连小行星的名字来源都和神话无关，只是日文片假名和本作一样，而且同上也是英文里本来就有的名，怎么看都根本只是碰巧撞名而已（比如蕾姆的名字来源在[早年签名会](https://rezero.fandom.com/zh/wiki/%E7%AD%BE%E5%90%8D%E4%BC%9A)就说过是双子俩一个right一个left）……写在这应该依然是滥竽充数……<br/>
+**8、猎肠（Elsa），莉莉安娜（Liliana），蕾姆（Rem）**：小行星[182 Elsa](https://en.wikipedia.org/wiki/182_Elsa)，[756 Lilliana](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F756)及[3739 Rem](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F3739)。这仨我都懒得分别写了，因为这几个连小行星自己的名字来源都和神话无关，只是日文片假名和本作一样，而且同上也是英文里本来就有的名，怎么看都根本只是碰巧撞名而已（比如蕾姆的名字来源在[早年签名会](https://rezero.fandom.com/zh/wiki/%E7%AD%BE%E5%90%8D%E4%BC%9A)就说过是双子俩一个right一个left）……写在这应该依然是滥竽充数……<br/>
 <br/>
 
-**9、七章文森特与Flop女装化名** ：分别与[天卫八（Bianca）](https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%8D%AB%E5%85%AB)和小行星[8 Flora（花神星）](https://zh.wikipedia.org/wiki/%E8%8A%B1%E7%A5%9E%E6%98%9F)同名。这个放本文也应该算凑数的，因为要说这俩名的借鉴出处最有可能的应当是[勇者斗恶龙V](https://zh.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%99V_%E5%A4%A9%E7%A9%BA%E7%9A%84%E6%96%B0%E5%A8%98)，因为文森特借姓氏的自称Abel及Bianca和Flora这三个名字是与这个游戏中的其中三个主人公同名的。三个名同时出现在一个作品里很显然这才是老贼最大概率的致敬出处。至于为什么和两个天体同名，那就应该是问当年那个游戏怎么命的名而不是问老贼了……
+**9、七章文森特与Flop女装化名** ：分别与[天卫八（Bianca）](https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%8D%AB%E5%85%AB)和小行星[8 Flora（花神星）](https://zh.wikipedia.org/wiki/%E8%8A%B1%E7%A5%9E%E6%98%9F)同名。这个放本文也应该算凑数的，因为要说这俩名的借鉴出处最有可能的应当是[勇者斗恶龙V](https://zh.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%99V_%E5%A4%A9%E7%A9%BA%E7%9A%84%E6%96%B0%E5%A8%98)，因为文森特借姓氏的自称Abel及Bianca和Flora这三个名字是与这个游戏中的其中三个主人公同名的。三个名同时出现在一个作品里很显然这才是老贼最大概率的致敬出处。至于为什么和两个天体同名，那就应该是问当年那个游戏怎么命的名而不是问老贼了……<br/>
+<br/>
+
+**10、嫉妒魔女Satella/22年性转嫉妒Luna** ：其实很早就有猜测认为Satella的名字是来源于人造卫星satellite，只是除了拉丁拼写像以及和天文有关才有这么个结论。而22年的性转if“嫉妒魔人”名为Luna，即罗马版的[月神](https://zh.wikipedia.org/wiki/%E5%8D%A2%E5%A8%9C)之一，在某些语言里也直接对应月亮。既然性转嫉妒用了天然卫星月亮取名，那原嫉妒源于人造卫星的可能在这篇if后就迅速由读者猜测升至近乎实锤了（尤其Luna这名字明明更像女名却还给性转嫉妒这么取……说老贼不是在刻意是真的说不过去了）。不过毕竟和实锤还差那么一丁点所以暂时也是先放在存疑处。
 
 [返回目录](#目录)
 
