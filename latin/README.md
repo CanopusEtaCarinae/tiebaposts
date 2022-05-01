@@ -43,7 +43,7 @@
 
 [八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [礼赞者](#礼赞者ハリベルHalivel) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [亲龙王国王族](#亲龙王国王族)
 
-[帝国皇族](#帝国皇族) &nbsp; [荷莉/霍莉](#荷莉霍莉ホーリィHawley) &nbsp; [库娜](#库娜クーナKhouna) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk) &nbsp; [坦萨](#坦萨タンザTanza)
+[帝国皇族](#帝国皇族) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk) &nbsp; [坦萨](#坦萨タンザTanza)
 
 **部分姓名有出处：**
 
@@ -53,7 +53,7 @@
 
 [李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo) &nbsp; [『过路魔』（大精灵）](#过路魔缇雅ザーレスティア昵称-Tier)
 
-[弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆米迪娅姆ミディアムオコーネル名-Medium) &nbsp; [托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr) &nbsp; [毒姬](#毒姬ラミアゴドウィン名-Lamia) &nbsp; [乔拉（中级伯爵）](#乔拉ジョラーペンダルトン名-Jorah) &nbsp; [灼热公](#灼热公セリーナドラクロイ名-Serena)
+[弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆米迪娅姆ミディアムオコーネル名-Medium) &nbsp; [托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr) &nbsp; [毒姬](#毒姬ラミアゴドウィン名-Lamia) &nbsp; [乔拉（中级伯爵）](#乔拉ジョラーペンダルトン名-Jorah) &nbsp; [灼热公](#灼热公セリーナドラクロイ名-Serena) &nbsp; [荷莉/霍莉](#荷莉霍莉ホーリィ名-Hawley) &nbsp; [库娜](#库娜クーナ名-Khouna)
 
 **车祸现场：**
 
@@ -660,24 +660,6 @@ Complete Guidebook
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 荷莉/霍莉（ホーリィ）：Hawley
-
-出自[27卷卷尾预告](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0018_HD.jpg)。在27卷出之前民间英译和Fandom上的拼法是[Holly](https://rezero.fandom.com/wiki/Holly)，暂以官方为准
-
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hawley.png)
-
-[返回目录](#目录-1)<br/>
-<br/>
-
-#### 库娜（クーナ）：Khouna
-
-出处[同上](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0017_HD.jpg)，且民间和Fandom也与官设有区别为[Kuna](https://rezero.fandom.com/wiki/Kuna)，现以官方为准
-
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/khouna.png)
-
-[返回目录](#目录-1)<br/>
-<br/>
-
 #### 剑奴女帝（ホーネット）：Hornet
 
 出自[EX5人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:%E7%BB%AF%E8%89%B2%E5%A7%AC%E8%B0%AD?file=Re_Zero_Ex_Volume_5_2.png)。七年前剑奴孤岛上最强者。[Fandom](https://rezero.fandom.com/wiki/The_Crimson_Countess_and_the_Gladiator)拼作Hornette，这里还是以官方为准。另外剑奴这种身份似乎不太可能有姓氏，而且女帝在出场的篇章就已经便当了，也就不当她有姓氏了
@@ -980,6 +962,26 @@ Flop的女装フローラ也和上面文森特一样有出处，参看[星空文
 #### 灼热公（セリーナ・ドラクロイ）：名 Serena
 
 出自[EX5人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:%E7%BB%AF%E8%89%B2%E5%A7%AC%E8%B0%AD?file=Re_Zero_Ex_Volume_5_1.jpg)，帝国上级伯爵，赫炎短篇主要角色及七章前帮寡妇过境的内应。姓氏[Fandom](https://rezero.fandom.com/wiki/The_Crimson_Countess_and_the_Gladiator)拼作Dracroy仅供参考。
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 荷莉/霍莉（ホーリィ）：名 Hawley
+
+出自[27卷卷尾预告](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0018_HD.jpg)。在27卷出之前民间英译和Fandom上的拼法是[Holly](https://rezero.fandom.com/wiki/Holly)，暂以官方为准
+
+本来我以为シュドラク部落的人都不用姓氏，结果七章59节塔丽塔名前回直接『タリッタ・シュドラク』，好家伙原来直接拿部落名当姓氏的……于是本来Howlay和Khouna都放在已知全名里现在又得搬回只知部分了。虽然没实锤部落里所有人都一个姓不过英文fandom看起来是这么默认了（拼作Shudrak，仅供参考）
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hawley.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 库娜（クーナ）：名 Khouna
+
+出处[同上](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0017_HD.jpg)，且民间和Fandom也与官设有区别为[Kuna](https://rezero.fandom.com/wiki/Kuna)，现以官方为准。姓氏情况同上暂时按fandom默认以Shudrak为姓，拼写仅供参考。
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/khouna.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
