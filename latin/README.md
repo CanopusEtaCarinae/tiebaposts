@@ -53,12 +53,14 @@
 
 [李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo) &nbsp; [『过路魔』（大精灵）](#过路魔缇雅ザーレスティア昵称-Tier)
 
-[弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆米迪娅姆ミディアムオコーネル名-Medium) &nbsp; [托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr) &nbsp; [毒姬](#毒姬ラミアゴドウィン名-Lamia) &nbsp; [乔拉（中级伯爵）](#乔拉ジョラーペンダルトン名-Jorah) &nbsp; [灼热公](#灼热公セリーナドラクロイ名-Serena) &nbsp; [荷莉/霍莉](#荷莉霍莉ホーリィ名-Hawley) &nbsp; [库娜](#库娜クーナ名-Khouna)
+[弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆米迪娅姆ミディアムオコーネル名-Medium) &nbsp; [托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [卡秋娅](#卡秋娅カチュアオーレリー名-Catiua) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr) &nbsp; [毒姬](#毒姬ラミアゴドウィン名-Lamia)
+[帝国宰相](#帝国宰相ベルステツフォンダルフォン名-Belstets) &nbsp; [乔拉（中级伯爵）](#乔拉ジョラーペンダルトン名-Jorah) &nbsp; [灼热公](#灼热公セリーナドラクロイ名-Serena) &nbsp; [塔丽塔](#塔丽塔タリッタシュドラク名-Tarita) &nbsp; [荷莉/霍莉](#荷莉霍莉ホーリィ名-Hawley) &nbsp; [库娜](#库娜クーナ名-Khouna)
+
+<!--Shorty Lululala-->
 
 **车祸现场：**
 
-[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ) &nbsp; [帝国九神将](#帝国九神将) &nbsp; [罗恩/罗安](#罗恩罗安ロウアン名-Louann) &nbsp; [铁之牙团长](#铁之牙团长リカードウェルキン) &nbsp; [阿拉姆村村长一家](#阿拉姆村村长一家) &nbsp; [修尔特/修鲁特/舒尔特](#修尔特修鲁特舒尔特シュルト) &nbsp; [莱普](#莱普ライプバーリエル)
-
+[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ) &nbsp; [帝国九神将](#帝国九神将) &nbsp; [罗恩/罗安](#罗恩罗安ロウアンセグムント名-Louann) &nbsp; [铁之牙团长](#铁之牙团长リカードウェルキン) &nbsp; [阿拉姆村村长一家](#阿拉姆村村长一家) &nbsp; [修尔特/修鲁特/舒尔特](#修尔特修鲁特舒尔特シュルト) &nbsp; [莱普](#莱普ライプバーリエル)
 
 </details>
 
@@ -929,16 +931,23 @@ Flop的女装フローラ也和上面文森特一样有出处，参看[星空文
 
 #### 贾马尔（ジャマル・オーレリー）：名 Jamal
 
-出自[27卷卷尾设定](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0019_HD.jpg)。姓氏目前仅七章23节/27卷五章6节提过一次。[Fandom](https://rezero.fandom.com/wiki/Jamal_Aurelie)拼作Aurelie仅供参考
+出自[30卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:30%E5%8D%B7?file=Re_Zero_Light_Novel_30_1.png)，[27卷卷尾设定](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0019_HD.jpg)。姓氏目前仅七章23节/27卷五章6节提过一次。[Fandom](https://rezero.fandom.com/wiki/Jamal_Aurelie)拼作Aurelie仅供参考
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/jamal.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 卡秋娅（カチュア・オーレリー）：名 Catiua
+
+Jamal之妹，托德未婚妻。拼写出自[30卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:30%E5%8D%B7?file=Re_Zero_Light_Novel_30_1.png)。姓氏情况同Jamal。[Fandom](https://rezero.fandom.com/wiki/Katya_Aurelie)拼作Katya——这次30卷的几个新出拉丁拼写Fandom都没和官方对上，Catiua算是差得尤其多。
+
+[返回目录](#目录-1)<br/>
+<br/>
+
 #### 兹克尔/槜克尔二将（ズィクル・オスマン）：名 Zikr
 
-同上出自[27卷卷尾设定](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0019_HD.jpg)。27卷出版前民间和[Fandom](https://rezero.fandom.com/wiki/Dhikr_Ottoman)拼作Dhikr Ottoman，这里还是以官方为准。姓氏拼作Ottoman目前也仅供参考
+同上出自[27卷卷尾设定](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0019_HD.jpg)。27卷出版前民间和[Fandom](https://rezero.fandom.com/wiki/Zikr_Osman?diff=110018&oldid=109743)拼作Dhikr Ottoman（后已更改），这里还是以官方为准。姓氏现拼作Osman目前也仅供参考
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/zikr.png)
 
@@ -948,6 +957,13 @@ Flop的女装フローラ也和上面文森特一样有出处，参看[星空文
 #### 毒姬（ラミア・ゴドウィン）：名 Lamia
 
 出自[EX5人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:%E7%BB%AF%E8%89%B2%E5%A7%AC%E8%B0%AD?file=Re_Zero_Ex_Volume_5_2.png)。七年前选帝之仪的皇储之一，红莲短篇寡妇的主要对手。姓氏[Fandom](https://rezero.fandom.com/wiki/Lamia_Godwin)拼作Godwin仅供参考
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 帝国宰相（ベルステツ・フォンダルフォン）：名 Belstets
+
+出自[30卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:30%E5%8D%B7?file=Re_Zero_Light_Novel_30_1.png)。七年前Lamia的谋士，后被收为帝国宰相。同Catiua，[Fandom](https://rezero.fandom.com/wiki/Lamia_Godwin)拼写与30卷人设不一致为Berstetz，姓氏则拼作Fondalfon仅供参考
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -966,11 +982,18 @@ Flop的女装フローラ也和上面文森特一样有出处，参看[星空文
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 塔丽塔（タリッタ・シュドラク）：名 Tarita
+
+出自[30卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:30%E5%8D%B7?file=Re_Zero_Light_Novel_30_1.png)。本来我以为シュドラク部落的人都不用姓氏，结果七章59节塔丽塔名前回直接『タリッタ・シュドラク』，好家伙原来直接拿部落名当姓氏的……于是就只能放部分姓名已知这里了。同样，[Fandom](https://rezero.fandom.com/wiki/Taritta_Shudrak)拼写也和30卷人设差了一点，拼为Taritta，姓氏（即部落名）拼作Shudrak，仅供参考。
+
+[返回目录](#目录-1)<br/>
+<br/>
+
 #### 荷莉/霍莉（ホーリィ）：名 Hawley
 
 出自[27卷卷尾预告](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0018_HD.jpg)。在27卷出之前民间英译和Fandom上的拼法是[Holly](https://rezero.fandom.com/wiki/Holly)，暂以官方为准
 
-本来我以为シュドラク部落的人都不用姓氏，结果七章59节塔丽塔名前回直接『タリッタ・シュドラク』，好家伙原来直接拿部落名当姓氏的……于是本来Howlay和Khouna都放在已知全名里现在又得搬回只知部分了。虽然没实锤部落里所有人都一个姓不过英文fandom看起来是这么默认了（拼作Shudrak，仅供参考）
+由于上面的塔丽塔以部落名为姓，看起来部落的其他人应该也都是有姓了。虽然没实锤是不是所有族人都这一姓，不过英文fandom看起来是这么默认的，同上拼作Shudrak仅供参考
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hawley.png)
 
@@ -1208,7 +1231,7 @@ EX4： **Cecils Segmund**<br/>
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/schuldt.png)
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/schultd.png)
 
-同一个短篇里的人设还能拼成两个样也是一绝……虽然我手头的资源看不太清，但也能认出来左边是 **Schuldt** ，右边是 **Schultd** 。其实这个倒应该不难觉出来，那个Schultd是个啥鬼拼法……我猜测应该就是纯粹弄反了俩字母的低级失误
+同一个短篇里同一个角色的人设还能拼成两个样也是一绝……虽然我手头的资源看不太清，但也能认出来左边是 **Schuldt** ，右边是 **Schultd** 。其实这个倒应该不难觉出来，那个Schultd是个啥鬼拼法……我猜测应该就是纯粹弄反了俩字母的低级失误
 
 最后无非也就是 **Schuldt** 和 **Schult** 的争议。查了下两种好像在实际的名字里都有用。不过虽然杂志上是乱拼，不过总能看出大概应该会有个d，我个人还是倾向 **Schuldt** 多些。然而Re0的英翻似乎从来没用过Schuldt这个拼写，最终我也只能把他也放在车祸现场部分里……（毕竟杂志生肉资源难搞，不知道要是多有几个短篇会不会有更多依据呢）
 
