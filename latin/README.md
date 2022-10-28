@@ -925,7 +925,7 @@ Flop的女装フローラ也和上面文森特一样有出处，参看[星空文
 
 #### 托德（トッド・ファング）：名 Todd
 
-同上[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。托德的姓氏目前只在27卷gamers特典有提及，自然也没有拼写。[Fandom上](https://rezero.fandom.com/wiki/Todd_Fang)拼作Fang也仅供参考了
+同上[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。托德的姓氏目前只在27卷gamers特典有提及，自然官方出版物上也没有拼写。不过[i编在22年10月发的人设推](https://twitter.com/ike_edi/status/1585608301299273728)却写上了 **Todd Fang** ，也不确定能不能直接当成官方确认，暂且还是先留在部分姓名已知里了。[Fandom上](https://rezero.fandom.com/wiki/Todd_Fang)也同样拼作Fang
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -978,7 +978,7 @@ Jamal之妹，托德未婚妻。拼写出自[30卷人设](https://rezero.fandom.
 
 #### 灼热公（セリーナ・ドラクロイ）：名 Serena
 
-出自[EX5人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:%E7%BB%AF%E8%89%B2%E5%A7%AC%E8%B0%AD?file=Re_Zero_Ex_Volume_5_1.jpg)，帝国上级伯爵，赫炎短篇主要角色及七章前帮寡妇过境的内应。姓氏[Fandom](https://rezero.fandom.com/wiki/The_Crimson_Countess_and_the_Gladiator)拼作Dracroy仅供参考。
+出自[EX5人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:%E7%BB%AF%E8%89%B2%E5%A7%AC%E8%B0%AD?file=Re_Zero_Ex_Volume_5_1.jpg)，帝国上级伯爵，赫炎短篇主要角色及七章前帮寡妇过境的内应。姓氏暂无官方出版物确认，不过[i编22年10月发的人设推](https://twitter.com/ike_edi/status/1585171790292140035)写成了 **Serena Delacroy** 。[Fandom](https://rezero.fandom.com/wiki/The_Crimson_Countess_and_the_Gladiator)上则与i编推不同拼作Dracroy。谨慎起见暂时还是当姓氏拼写不完全确认好了
 
 [返回目录](#目录-1)<br/>
 <br/>
