@@ -941,7 +941,7 @@ Flop的女装フローラ也和上面文森特一样有出处，参看[星空文
 
 #### 卡秋娅（カチュア・オーレリー）：名 Catiua
 
-Jamal之妹，托德未婚妻。拼写出自[30卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:30%E5%8D%B7?file=Re_Zero_Light_Novel_30_1.png)。姓氏情况同Jamal。[Fandom](https://rezero.fandom.com/wiki/Katya_Aurelie)拼作Katya——这次30卷的几个新出拉丁拼写Fandom都没和官方对上，Catiua算是差得尤其多。
+Jamal之妹，托德未婚妻。拼写出自[30卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:30%E5%8D%B7?file=Re_Zero_Light_Novel_30_1.png)。姓氏情况同Jamal。[Fandom](https://rezero.fandom.com/wiki/Katya_Aurelie)拼作Katya——这次30卷的几个新出拉丁拼写Fandom都没和官方对上，Catiua算是差得尤其多。更有甚者[i编在22年11月发的人设推](https://twitter.com/ike_edi/status/1588854539423469568)又出了个Kachua的鬼版本……我感觉再这样下去就得把她改列到车祸现场部分了……再等等看以后有什么官方出版物会拼写她名字罢（以及22年的i编推发她人设的时候也不像其他人那样有拼姓氏……我觉得算是毫无参考价值了）
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -964,7 +964,7 @@ Jamal之妹，托德未婚妻。拼写出自[30卷人设](https://rezero.fandom.
 
 #### 帝国宰相（ベルステツ・フォンダルフォン）：名 Belstets
 
-出自[30卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:30%E5%8D%B7?file=Re_Zero_Light_Novel_30_1.png)。七年前Lamia的谋士，后被收为帝国宰相。同Catiua，[Fandom](https://rezero.fandom.com/wiki/Lamia_Godwin)拼写与30卷人设不一致为Berstetz，姓氏则拼作Fondalfon仅供参考
+出自[30卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:30%E5%8D%B7?file=Re_Zero_Light_Novel_30_1.png)。七年前Lamia的谋士，后被收为帝国宰相。官方出版物暂无姓氏拼写，[i编22年10月发的人设推](https://twitter.com/ike_edi/status/1586571703072673793)则将全名拼作 **Belstets Phondalphon** ，谨慎起见暂不当作官方确认。和Catiua的情况类似，[Fandom](https://rezero.fandom.com/wiki/Berstetz_Fondalfon)拼写与30卷及i编推人设不一致为Berstetz，姓氏也和i编推不一致拼作Fondalfon
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -1164,10 +1164,10 @@ EX4： **Cecils Segmund**<br/>
 另：九神将相关的还有两人截至目前（29卷刚出）还没有姓氏拼写，但29卷人设图写了名，如上面的漆一样虽不属于车祸现场，但九神将相关都放在这了那也就直接一块写了
 
 （新）九神将之玖『飞龙将』（マデリン・エッシャルト）： 名 **Madelyn** <br/>
-名拼写出自[29卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:29%E5%8D%B7?file=Re_Zero_Light_Novel_29_2.png)，姓氏[Fandom](https://rezero.fandom.com/wiki/Madelyn_Eschart)拼作Eschart仅供参考
+名拼写出自[29卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:29%E5%8D%B7?file=Re_Zero_Light_Novel_29_2.png)。vt姓氏暂无官方出版物确认，[i编22年11月发的人设推](https://twitter.com/ike_edi/status/1588864688703803392)中全名拼作 **Madelyn Escherlt** ，谨慎起见仅当参考。[Fandom](https://rezero.fandom.com/wiki/Madelyn_Eschart)上姓氏则又与i编推拼写不同为Eschart
 
 前候补九神将之玖『斗虫将』（カフマ・イルルクス）： 名 **Kafma** <br/>
-名拼写出自[29卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:29%E5%8D%B7?file=Re_Zero_Light_Novel_29_2.png)，姓氏[Fandom](https://rezero.fandom.com/wiki/Kafma_Irulux)拼作Irulux仅供参考
+名拼写出自[29卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:29%E5%8D%B7?file=Re_Zero_Light_Novel_29_2.png)，姓氏[Fandom](https://rezero.fandom.com/wiki/Kafma_Irulux)拼作Irulux仅供参考。（[i编22年11月发的人设推](https://twitter.com/ike_edi/status/1589154765317238785)又只给拼了名没拼姓了）
 
 [返回目录](#目录-1)<br/>
 <br/>
