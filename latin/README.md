@@ -154,7 +154,7 @@
 
 #### 芙蕾（フレデリカ・バウマン）：Frederica Baumann
 
-名拼写在[十卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_15.jpg)、[十一卷卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC11%E5%8D%B7?file=Re_Zero_Volume_11_18.jpg)、杂志短篇等。姓氏原本也只是民间拼Baumann，[二期TV动画人设](http://re-zero-anime.jp/tv/character)才由官方确认。
+名拼写在[十卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_15.jpg)、[十一卷卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC11%E5%8D%B7?file=Re_Zero_Volume_11_18.jpg)、杂志短篇等。姓氏原本也只是民间拼Baumann，[二期TV动画人设](http://re-zero-anime.jp/tv/character)才由官方确认。Zeropedia 2出版后也有加入。
 
 [返回目录](#目录-1)<br/>
 <br/>
