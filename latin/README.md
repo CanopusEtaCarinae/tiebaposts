@@ -690,7 +690,10 @@ Complete Guidebook
 
 #### 琉兹（リューズ）：名 Ryuzu；姓氏复制体和本体均不同
 
-名字拼写出自[10卷彩页人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_16.jpg)。另外10卷人设未出时fandom一度拼成Lewes，直到二期放送期间才改掉。
+名字拼写出自[10卷彩页人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_16.jpg)。另外10卷人设未出时fandom一度拼成Lewes，直到二期放送期间才改掉。Zeropedio 2出版后也没有出入
+
+（图为Zeropedia 2中的拼写）<br/>
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ryuzu_zp2.png)
 
 琉兹的姓氏比较麻烦，本体メイエル没有官设拼写（[Fandom](https://rezero.fandom.com/wiki/Ryuzu_Meyer_(copy))拼作Meyer仅供参考）；复制体的话，WEB版486是希腊字母α、β、θ、Σ取名但没当姓氏；而文库是仿照希腊字母（或者可能也有拉丁字母的成分？）取的阿尔玛（アルマ）、毕尔玛（ビルマ）、西玛（シーマ）、德尔玛（デルマ）。其中首个出场的毕尔玛在[TV动画人设](http://re-zero-anime.jp/tv/character)中给出了拼写：Ryuzu Burma
 
