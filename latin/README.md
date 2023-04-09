@@ -188,7 +188,7 @@
 
 #### 管家（クリンド）：Clind
 
-出自文库15卷虎之穴特典插图（图里还有安妮的，之后[安妮](#安妮アンネローゼミロード名-Annerose)也以这张为准了）。Clind好像没姓氏，就当他有全名了。
+出自文库15卷虎之穴特典插图（Zeropedia 2出版后同样加入）。Clind好像没姓氏，就当他有全名了。
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/clind.png)
 
