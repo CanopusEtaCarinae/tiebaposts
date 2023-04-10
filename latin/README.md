@@ -33,7 +33,7 @@
 
 **全名有出处：**
 
-[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTエミリアEmilia) &nbsp; [帕克](#帕克パックPack) &nbsp; [贝蒂](#贝蒂ベアトリスBeatrice) &nbsp; [骡子](#骡子ロズワールlメイザースroswaal-l-mathers) &nbsp; [拉姆](#拉姆ラムRam) &nbsp; [蕾姆](#蕾姆レムRem) &nbsp; [帕特拉修](#帕特拉修パトラッシュPatrasche) &nbsp; [奥托](#奥托オットースーウェンOtto-Suwen) &nbsp; [芙蕾](#芙蕾フレデリカバウマンFrederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔ガーフィールティンゼルGarfiel-Tinsel) &nbsp; [佩特拉](#佩特拉ペトラレイテPetra-Leyte) &nbsp; [梅莉](#梅莉梅丽メィリィポートルートMeili-Portroute) &nbsp; [管家](#管家クリンドClind)
+[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTエミリアEmilia) &nbsp; [帕克](#帕克パックPack) &nbsp; [贝蒂](#贝蒂ベアトリスBeatrice) &nbsp; [骡子](#骡子ロズワールlメイザースroswaal-l-mathers) &nbsp; [拉姆](#拉姆ラムRam) &nbsp; [蕾姆](#蕾姆レムRem) &nbsp; [帕特拉修](#帕特拉修パトラッシュPatrasche) &nbsp; [奥托](#奥托オットースーウェンOtto-Suwen) &nbsp; [芙蕾](#芙蕾フレデリカバウマンFrederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔ガーフィールティンゼルGarfiel-Tinsel) &nbsp; [佩特拉](#佩特拉ペトラレイテPetra-Leyte) &nbsp; [梅莉](#梅莉梅丽メィリィポートルートMeili-Portroute) &nbsp; [安妮](#安妮アンネローゼミロード-Annerose-Milord) &nbsp; [管家](#管家クリンドClind)
 
 [菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
 
@@ -47,7 +47,7 @@
 
 **部分姓名有出处：**
 
-[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [安妮](#安妮アンネローゼミロード名-Annerose) &nbsp; [莉莉安娜](#莉莉安娜リリアナマスカレード名-Liliana) &nbsp; [罗姆爷](#罗姆爷) &nbsp; [苹果大叔](#苹果大叔カドモンリッシュ名-Kadomon) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカ名-Capella姓-Lugunica中间名官设未拼写) &nbsp; [阿奇/亚奇](#阿奇亚奇アーチエリオール名-Archi)
+[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [莉莉安娜](#莉莉安娜リリアナマスカレード名-Liliana) &nbsp; [罗姆爷](#罗姆爷) &nbsp; [苹果大叔](#苹果大叔カドモンリッシュ名-Kadomon) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカ名-Capella姓-Lugunica中间名官设未拼写) &nbsp; [阿奇/亚奇](#阿奇亚奇アーチエリオール名-Archi)
 
 [格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [康吾德/克伍德](#康吾德克伍德コンウッドメラハウ名-Conwood)
 
@@ -186,11 +186,26 @@
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 管家（クリンド）：Clind
+#### 安妮（アンネローゼ・ミロード）：Annerose Milord
 
-出自文库15卷虎之穴特典插图（Zeropedia 2出版后同样加入）。Clind好像没姓氏，就当他有全名了。
+名拼写出自文库15卷虎之穴特典插图，直至Zeropedia 2出版才补全姓氏
+
+15卷虎之穴
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/clind.png)
+
+Zeropedia 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/annerose_zp2.png)
+
+由于Zeropedia 2之前姓氏无拼写，[Fandom](https://rezero.fandom.com/wiki/Annerose_Miload)一直拼的是Miload，这也算是被官方背刺了
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 管家（クリンド）：Clind
+
+同上出自文库15卷虎之穴特典插图。Zeropedia 2出版后同样加入。Clind好像没姓氏，就当他有全名了。
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -719,15 +734,6 @@ Complete Guidebook
 其他出场过的孩子有没有在冷天气之类的杂志短篇给过人设就不清楚了，毕竟扫图资源没有😷
 
 此外孩子们应该都是有姓氏的，只不过至今我连日文版的都还没看到，因此就当他们暂时只有部分名字有拼写了。这两位的拼写和fandom版本一致，其他fandom上孩子们的拼写也仅供参考罢
-
-[返回目录](#目录-1)<br/>
-<br/>
-
-#### 安妮（アンネローゼ・ミロード）：名 Annerose
-
-名字拼写出自文库15卷虎之穴特典插图，[Clind](#管家クリンドClind)那里已经截过图了。
-
-（姓氏[Fandom](https://rezero.fandom.com/wiki/Annerose_Miload)拼作Miload仅供参考）
 
 [返回目录](#目录-1)<br/>
 <br/>
