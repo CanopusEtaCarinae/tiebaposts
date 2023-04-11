@@ -33,9 +33,9 @@
 
 **全名有出处：**
 
-[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTエミリアEmilia) &nbsp; [帕克](#帕克パックPack) &nbsp; [贝蒂](#贝蒂ベアトリスBeatrice) &nbsp; [骡子](#骡子ロズワールlメイザースroswaal-l-mathers) &nbsp; [拉姆](#拉姆ラムRam) &nbsp; [蕾姆](#蕾姆レムRem) &nbsp; [帕特拉修](#帕特拉修パトラッシュPatrasche) &nbsp; [奥托](#奥托オットースーウェンOtto-Suwen) &nbsp; [芙蕾](#芙蕾フレデリカバウマンFrederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔ガーフィールティンゼルGarfiel-Tinsel) &nbsp; [佩特拉](#佩特拉ペトラレイテPetra-Leyte) &nbsp; [梅莉](#梅莉梅丽メィリィポートルートMeili-Portroute) &nbsp; [安妮](#安妮アンネローゼミロード-Annerose-Milord) &nbsp; [管家](#管家クリンドClind)
+[486（菜月昴）](#486-菜月昴) &nbsp; [EMT](#EMTエミリアEmilia) &nbsp; [帕克](#帕克パックPack) &nbsp; [贝蒂](#贝蒂ベアトリスBeatrice) &nbsp; [骡子](#骡子ロズワールlメイザースroswaal-l-mathers) &nbsp; [拉姆](#拉姆ラムRam) &nbsp; [蕾姆](#蕾姆レムRem) &nbsp; [帕特拉修](#帕特拉修パトラッシュPatrasche) &nbsp; [奥托](#奥托オットースーウェンOtto-Suwen) &nbsp; [芙蕾](#芙蕾フレデリカバウマンFrederica-Baumann) &nbsp; [加菲猫](#加菲尔嘉飞尔贾菲尔ガーフィールティンゼルGarfiel-Tinsel) &nbsp; [佩特拉](#佩特拉ペトラレイテPetra-Leyte) &nbsp; [梅莉](#梅莉梅丽メィリィポートルートMeili-Portroute) &nbsp; [安妮](#安妮アンネローゼミロードAnnerose-Milord) &nbsp; [管家](#管家クリンドClind)
 
-[菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
+[菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナEzzo-Cadner) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
 
 [怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教『美食家』](#暴食司教美食家ライバテンカイトスRye-Batenkaitos) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
 
@@ -51,7 +51,7 @@
 
 [格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [康吾德/克伍德](#康吾德克伍德コンウッドメラハウ名-Conwood)
 
-[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナ名-Ezzo) &nbsp; [『过路魔』（大精灵）](#过路魔缇雅ザーレスティア昵称-Tier)
+[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『过路魔』（大精灵）](#过路魔缇雅ザーレスティア昵称-Tier)
 
 [弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆米迪娅姆ミディアムオコーネル名-Medium) &nbsp; [托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [卡秋娅](#卡秋娅カチュアオーレリー名-Catiua) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr) &nbsp; [毒姬](#毒姬ラミアゴドウィン名-Lamia)
 
@@ -198,7 +198,7 @@ Zeropedia 2
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/annerose_zp2.png)
 
-由于Zeropedia 2之前姓氏无拼写，[Fandom](https://rezero.fandom.com/wiki/Annerose_Miload)一直拼的是Miload，这也算是被官方背刺了
+由于Zeropedia 2之前姓氏无拼写，[Fandom](https://rezero.fandom.com/wiki/Annerose_Miload)一直拼的是Miload，这也算是被官方背刺了（
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -228,6 +228,22 @@ Zeropedia 2
 Zeropedia
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rein_zpedia.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 『灰色』魔法使（エッゾ・カドナ）：Ezzo Cadner
+
+菲鲁特阵营的魔法使。目前他出场且有完整汉化资源的应该有宅邸篇漫画伪宫廷魔导师及水门复兴日志系列的特典，关于他加入阵营的故事是在杂志的Flanders骚乱短篇（正在汉化中）。Ezzo这个拼写原本只有在二章漫画单行本上有出现（当时看甚至可能只是罗马音），到Zeropedia 2时方被补全，和[Fandom](https://rezero.fandom.com/wiki/Ezzo_Cadner)一贯的拼法相同。
+
+
+二章漫画单行本
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ezzo.png)
+
+Zeropedia 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ezzo_zp2.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -889,18 +905,6 @@ Complete Guidebook
 
 [返回目录](#目录-1)<br/>
 <br/>
-
-#### 『灰色』魔法使（エッゾ・カドナ）：名 Ezzo
-
-菲鲁特阵营的魔法使。目前他出场且有完整汉化资源的应该有宅邸篇漫画伪宫廷魔导师及水门复兴日志系列的特典，关于他加入阵营的故事是在杂志的Flanders骚乱短篇（正在汉化中）。Ezzo的拼写也是在漫画上的，见图（不过说实话不排除图里这个是罗马音的可能……如果以后要改还得换）
-
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ezzo.png)
-
-（姓氏[Fandom](https://rezero.fandom.com/wiki/Ezzo_Cadner)拼作Cadner仅供参考）
-
-[返回目录](#目录-1)<br/>
-<br/>
-
 
 #### 『过路魔』缇雅（ザーレスティア）：昵称 Tier
 
