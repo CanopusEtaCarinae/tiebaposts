@@ -51,7 +51,7 @@
 
 [格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [康吾德/克伍德](#康吾德克伍德コンウッドメラハウ名-Conwood)
 
-[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [『过路魔』（大精灵）](#过路魔缇雅ザーレスティア昵称-Tier)
+[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [三混混](#三混混ガストンラチンスホフマンカンバリーGastonRachinsCamberley) &nbsp; [『过路魔』（大精灵）](#过路魔缇雅ザーレスティア昵称-Tier)
 
 [弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆米迪娅姆ミディアムオコーネル名-Medium) &nbsp; [托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [卡秋娅](#卡秋娅カチュアオーレリー名-Catiua) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr) &nbsp; [毒姬](#毒姬ラミアゴドウィン名-Lamia)
 
@@ -234,7 +234,7 @@ Zeropedia
 
 #### 『灰色』魔法使（エッゾ・カドナ）：Ezzo Cadner
 
-菲鲁特阵营的魔法使。目前他出场且有完整汉化资源的应该有宅邸篇漫画伪宫廷魔导师及水门复兴日志系列的特典，关于他加入阵营的故事是在杂志的Flanders骚乱短篇（正在汉化中）。Ezzo这个拼写原本只有在二章漫画单行本上有出现（当时看甚至可能只是罗马音），到Zeropedia 2时方被补全，和[Fandom](https://rezero.fandom.com/wiki/Ezzo_Cadner)一贯的拼法相同。
+菲鲁特阵营的魔法使。目前他出场且有完整汉化资源的应该有宅邸篇漫画伪宫廷魔导师及水门复兴日志系列的特典，关于他加入阵营的故事是在杂志的Flanders骚乱短篇（目前只汉化了六成）。Ezzo这个拼写原本只有在二章漫画单行本上有出现（当时看甚至可能只是罗马音），到Zeropedia 2时方将姓名补全，和[Fandom](https://rezero.fandom.com/wiki/Ezzo_Cadner)一贯的拼法相同。
 
 
 二章漫画单行本
@@ -906,6 +906,24 @@ Complete Guidebook
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 三混混（ガストン、ラチンス・ホフマン、カンバリー）：Gaston、Rachins、Camberley
+
+这仨之前只在Re: BOX里给拼过一下罗马音〔Ton（トン） ，Chin（チン），Kan（カン）〕，本名是直到Zeropedia 2才有机会给出拼写，与Fandom一直来的民间拼法一致（[1](https://rezero.fandom.com/wiki/Ton)[2](https://rezero.fandom.com/wiki/Chin)[3](https://rezero.fandom.com/wiki/Kan)）。不过把这仨放到这里也有那么一点尴尬，首先这仨人里只有Rachins明确有姓氏（就是上面Rickert的姓氏Hoffman，这小哥是从人家里出逃的大公子）但又未确证拼写，另俩人出身贫民街也确实有无姓氏的可能，但这仨人要是一人占一条还分到不同部分里感觉又太累赘，于是就干脆放一条里都归为部分姓名有出处了
+
+Zeropedia 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/gaston_zp2.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rachins_zp2.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/camberley_zp2.png)
+
+Re: BOX
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/tonchinkan.png)
+
+（姓氏[Fandom](https://rezero.fandom.com/wiki/Ezzo_Cadner)拼作Cadner仅供参考）
+
+[返回目录](#目录-1)<br/>
+
 #### 『过路魔』缇雅（ザーレスティア）：昵称 Tier
 
 四大精灵之一。目前唯一只有个昵称ティア的出处是Re：BOX 2画集。[Fandom](https://rezero.fandom.com/wiki/Zarestia)上拼写的全Zarestia从昵称取尾音看和官方拼写不同，估计官方全名也不会照Fandom那样拼了。而且官方估计也不会有什么机会再给缇雅的人设，大概全名以后也不会有官方设定
@@ -1264,14 +1282,6 @@ EX4： **Cecils Segmund**<br/>
 
 [返回目录](#目录-1)<br/>
 <br/>
-
----
-
-#### 附：随便一提的三混混（トンチンカン：ガストン、ラチンス・ホフマン、カンバリー）
-
-486对三混混的称呼也在Re: BOX里给拼了一下，不过其实也就是罗马音而已（Ton，Chin，Kan），毕竟这本来就是从日语来的词……大家也都知道人家是有本名的，甚至其中的Chin还有姓氏（就是上面Rickert的姓氏Hoffman，这小哥是从人家里出逃的大公子）。这里也只是表示一下有这么个图而已，随便放附录也算不上认真的了。Fandom上的名字拼写（[Gaston](https://rezero.fandom.com/wiki/Ton)、[Rachins Hoffman](https://rezero.fandom.com/wiki/Chin)、[Camberley](https://rezero.fandom.com/wiki/Kan)）也仅供参考了。这三位在正篇里的主要戏份大概要到第九章，就算有全名拼写也不知道得多少年以后……
-
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/tonchinkan.png)
 
 ---
 
