@@ -908,7 +908,7 @@ Complete Guidebook
 
 #### 三混混（ガストン、ラチンス・ホフマン、カンバリー）：Gaston、Rachins、Camberley
 
-这仨之前只在Re: BOX里给拼过一下罗马音〔Ton（トン） ，Chin（チン），Kan（カン）〕，本名是直到Zeropedia 2才有机会给出拼写，与Fandom一直来的民间拼法一致（[1](https://rezero.fandom.com/wiki/Ton)[2](https://rezero.fandom.com/wiki/Chin)[3](https://rezero.fandom.com/wiki/Kan)）。不过把这仨放到这里也有那么一点尴尬，首先这仨人里只有Rachins明确有姓氏（就是上面Rickert的姓氏Hoffman，这小哥是从人家里出逃的大公子）但又未确证拼写，另俩人出身贫民街也确实有无姓氏的可能，但这仨人要是一人占一条还分到不同部分里感觉又太累赘，于是就干脆放一条里都归为部分姓名有出处了
+这仨之前只在Re: BOX里给拼过一下罗马音〔Ton（トン） ，Chin（チン），Kan（カン）〕，本名是直到Zeropedia 2才有机会给出拼写，与Fandom一直来的民间拼法一致（[[1]](https://rezero.fandom.com/wiki/Ton)[[2]](https://rezero.fandom.com/wiki/Chin)[[3]](https://rezero.fandom.com/wiki/Kan)）。不过把这仨放到这里也有那么一点尴尬，首先这仨人里只有Rachins明确有姓氏（就是上面Rickert的姓氏Hoffman，这小哥是从人家里出逃的大公子）但又未确证拼写，另俩人出身贫民街也确实有无姓氏的可能，但这仨人要是一人占一条还分到不同类里感觉又太累赘，于是就干脆放一条里一并归为部分姓名有出处了
 
 Zeropedia 2
 
@@ -920,9 +920,37 @@ Re: BOX
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/tonchinkan.png)
 
-（姓氏[Fandom](https://rezero.fandom.com/wiki/Ezzo_Cadner)拼作Cadner仅供参考）
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 剑圣家双子女仆（フラム、グラシス）：名 Flam、Grassis
+
+这俩的名字目前也仅在Zeropedia 2中有给出名的拼写，与Fandom上[两](https://rezero.fandom.com/wiki/Flam_Remendis)i[人](https://rezero.fandom.com/wiki/Grassis_Remendis)的拼法相同：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/flam_grassis_zp2.png)
+
+不过这双子其实还有个额外的问题，各位也应该看出我在双子这条的标题连她俩的日文也的姓氏都没写——这也是剧情上我感觉似乎有些矛盾的地方。读过外传和短篇的都知道她俩是Grimm和Carol的孙女，姓氏也就是随家名的。剑鬼战歌终幕里也有提过应当是Carol会改姓Grimm的姓：
+
+> 「キャロル・ファウゼンになるの？それともグリム・レメンディスにするの？」
+>
+> 「ファウゼンと、グリムの家名をいただくつもりです。レメンディス家は弟が継ぎますから、私の家名が抜けても問題ないと両親は」
+>
+> 「……『鞘』の家系をやめて、私の傍から離れる？」
+
+然而各位看过上面Fandom链接的读者也应该会意识到不对，为什么这俩双子的词条写的是姓Remendis？？其实这也真不是空穴来风，而是在一期BD9特典里有过一段：
+
+> アタシの疑問は無視かい。そうぼやきたくなるぐらい鮮やかに、婆ちゃんが双子にそんな指示をした。二人はアタシの前にきて、その場でちょこんとお辞儀する。
+>
+> 背は低い。自慢じゃないが、チビのアタシよりだ。歳も、下に見える。
+>
+> 「フラム・レメンディスです」「グラシス・レメンディス」
+>
+> それぞれ、頭を下げた二人がアタシに名乗る。レメンディス、ってのが家名なら、その上にくっついたのが二人の名前か。見た目で区別は、わりと難しい。
+
+她俩在这里报全名还真的是报的Remendis的姓了……明明战歌里说剑鞘家族要由Carol弟弟继承，自己就打算改姓了，为啥孙女又改回来了呢……也不知道会不会是老贼写特典的时候疏忽了，因此她俩的姓氏甚至日文都未确认，更别说Grimm和Carol俩人的姓本来也都还未给出拼写了
 
 [返回目录](#目录-1)<br/>
+<br/>
 
 #### 『过路魔』缇雅（ザーレスティア）：昵称 Tier
 
@@ -933,6 +961,7 @@ Re: BOX
 （姓氏[Fandom](https://rezero.fandom.com/wiki/Ezzo_Cadner)拼作Cadner仅供参考）
 
 [返回目录](#目录-1)<br/>
+<br/>
 
 #### 弗洛普（フロップ・オコーネル）：名 Flop
 
