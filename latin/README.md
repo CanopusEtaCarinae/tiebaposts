@@ -804,7 +804,7 @@ Complete Guidebook
 
 ####  格利姆/格林（グリム・ファウゼン）：名 Grimm
 
-拼写出自[EX2彩图](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E6%AD%8C?file=Re_Zero_Ex_Volume_2_2.jpg)。剑鬼系列主要角色之一。现为剑圣家族执事（园丁）。
+拼写出自[EX2彩图](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E6%AD%8C?file=Re_Zero_Ex_Volume_2_2.jpg)。剑鬼系列主要角色之一。现为剑圣家族执事（园丁）。Zeropedia 2出版后亦有同样拼写
 
 （姓氏[Fandom](https://rezero.fandom.com/wiki/Grimm_Fauzen)拼作Fauzen仅供参考）
 
