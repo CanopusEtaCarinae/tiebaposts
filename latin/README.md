@@ -813,7 +813,7 @@ Complete Guidebook
 
 #### 卡罗/卡罗尔/珈洛儿（キャロル・レメンディス）：名 Carol
 
-出处和身份基本同上
+出处和身份基本同上。Zeropedia 2出版后亦有同样拼写
 
 （姓氏[Fandom](https://rezero.fandom.com/wiki/Carol_Remendis)拼作Remendis仅供参考）
 
