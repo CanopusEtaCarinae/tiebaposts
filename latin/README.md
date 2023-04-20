@@ -1259,7 +1259,15 @@ EX4： **Cecils Segmund**<br/>
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ricardo_cb.png)
 
-这倒是和Fandom以及英翻常见的一致了。总之这么多版本我是不知道选哪个，只能扔车祸现场……
+这倒是和Fandom以及英翻常见的一致
+
+再有就是Zeropedia 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/ricardo_zp2.png)
+
+这也是回到了民间最常见的版本
+
+总之这么多版本我也很难确定应该选哪个，只能说Ricardo相对可能性大点，还是扔车祸现场算了……
 
 另外Ricard也是一种酒名，不知道Re: BOX那是不是有想到这个
 
