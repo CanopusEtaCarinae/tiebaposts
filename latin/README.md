@@ -422,7 +422,7 @@ Zeropedia
 
 #### 愤怒司教（シリウス・ロマネコンティ）：Sirius Romaneeconti
 
-姓氏与怠惰一样，名字见[16卷人设图](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_2.jpg)和[卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Light_Novel_Volume_16_14.jpg)，同时取自[天狼星的西名](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A7%E7%8A%AC%E5%BA%A7)。
+姓氏与怠惰一样，名字见[16卷人设图](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_2.jpg)和[卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Light_Novel_Volume_16_14.jpg)以及Zeropedia 2，同时取自[天狼星的西名](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A7%E7%8A%AC%E5%BA%A7)。
 
 [返回目录](#目录-1)<br/>
 <br/>
