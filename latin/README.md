@@ -37,7 +37,7 @@
 
 [菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナEzzo-Cadner) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
 
-[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教『美食家』](#暴食司教美食家ライバテンカイトスRye-Batenkaitos) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
+[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教『美食家』](#暴食司教美食家ライバテンカイトスRye-Batenkaitos) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカ名-Capella-Emerada-Lugunica) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
 
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
@@ -47,7 +47,7 @@
 
 **部分姓名有出处：**
 
-[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [莉莉安娜](#莉莉安娜リリアナマスカレード名-Liliana) &nbsp; [罗姆爷](#罗姆爷) &nbsp; [苹果大叔](#苹果大叔カドモンリッシュ名-Kadomon) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカ名-Capella姓-Lugunica中间名官设未拼写) &nbsp; [阿奇/亚奇](#阿奇亚奇アーチエリオール名-Archi)
+[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [莉莉安娜](#莉莉安娜リリアナマスカレード名-Liliana) &nbsp; [罗姆爷](#罗姆爷) &nbsp; [苹果大叔](#苹果大叔カドモンリッシュ名-Kadomon) &nbsp; [阿奇/亚奇](#阿奇亚奇アーチエリオール名-Archi)
 
 [格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [康吾德/克伍德](#康吾德克伍德コンウッドメラハウ名-Conwood)
 
@@ -455,6 +455,17 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 色欲司教（カペラ・エメラダ・ルグニカ）：Capella Emerada Lugunica
+
+名字取自[五车二](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%BE%A1%E5%A4%AB%E5%BA%A7)的西名。中名一度无拼写，直至Zeropedia 2才官方给出了和[Fandom](https://rezero.fandom.com/wiki/Capella_Emerada_Lugnica)一样的Emerada。（先前拼错的Lugunica也在[后来](https://rezero.fandom.com/wiki/Capella_Emerada_Lugunica?diff=123538&oldid=121633)改了过来）
+
+再有就是Zeropedia 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/capella_zp2.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
 #### 大罪魔女/魔人：
 强欲（エキドナ）： **Echidna** 〔多娜狐与之同名。附身复活后（オメガ） **Omega** 〕；<br/>
 愤怒（ミネルヴァ）： **Minerva** ；<br/>
@@ -787,15 +798,6 @@ Complete Guidebook
 姓氏[Fandom](https://rezero.fandom.com/wiki/Kadomon_Risch)拼作Risch，[伪王选候补](https://rezero.fandom.com/wiki/Re:Zero_The_False_Royal_Election_Candidate)游戏ED也是取这个拼写。不过如上所说，ED Cast表只当参考不作正式出处
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/risch.png)
-
-[返回目录](#目录-1)<br/>
-<br/>
-
-#### 色欲司教（カペラ・エメラダ・ルグニカ）：名 Capella，姓 Lugunica，中间名官设未拼写
-
-名字取自[五车二](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%BE%A1%E5%A4%AB%E5%BA%A7)的西名。中名没拼写，姓氏就是王国的姓氏。上面王族部分有提过了
-
-（[Fandom](https://rezero.fandom.com/wiki/Capella_Emerada_Lugnica)拼写为Capella Emerada Lugnica，中名Emerada仅供参考，而Lugnica根据官方出版物应该就是错的了）
 
 [返回目录](#目录-1)<br/>
 <br/>
