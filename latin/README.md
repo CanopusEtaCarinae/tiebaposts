@@ -37,7 +37,7 @@
 
 [菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナEzzo-Cadner) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
 
-[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教『美食家』](#暴食司教美食家ライバテンカイトスRye-Batenkaitos) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカ名-Capella-Emerada-Lugunica) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
+[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教](#暴食司教) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカ-Capella-Emerada-Lugunica) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
 
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
@@ -442,15 +442,23 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 暴食司教『美食家』（ライ・バテンカイトス）：Rye Batenkaitos
+#### 暴食司教
 
-官方来源有两个，[TV动画人设](http://re-zero-anime.jp/tv/character) 以及Re：BOX 2画集
+** 『美食家』（ライ・バテンカイトス）：Rye Batenkaitos ** <br/>
+** 『恶食』（ロイ・アルファルド）：Roy Alphard ** <br/>
+** 『饱食』（ルイ・アルネブ）：Rui Arneb **
+
+美食家的官方来源比较多，有[TV动画人设](http://re-zero-anime.jp/tv/character) 以及Re：BOX 2画集
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rye_rebox2.png)
 
-不过对暴食司教的名其实还是有不少值得说的。其一，小说党肯定知道暴食司教有三位，而TV目前只有美食家出场，人设自然只能给他的。其二，三位位暴食的姓氏也是出自星名〔[天仓四](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E9%B2%B8%E9%B1%BC%E5%BA%A7)（Baten Kaitos）、[星宿一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E9%95%BF%E8%9B%87%E5%BA%A7)（Alphard）[厕一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A9%E5%85%94%E5%BA%A7)（Arneb）〕，除美食家的星名是俩词拼写成姓氏时要合并外另两位其实可以照搬；其三，三位暴食的名其实是很像的：ライ，ロイ，ルイ，只有第一个假名不一样，而要改成西式拼写就比较难体现出这个特点了。过去民间拼成Ley，Roy和Louis就基本看不太出来。如今官方给美食家拼写的时候没有参考民间而是采用没用过的Rye，那么希望以后另两位暴食有拼写时也希望官方能给个体现得出相似特点的方案罢。
+恶食和饱食则因为动画前两期未出场一度没有机会给官方拼写，非官方的饱食按西名习惯拼成的Louis就一直显得很怪——毕竟三兄妹的名其实是很像的：ライ，ロイ，ルイ，Louis就显得格格不入。如今Zeropedia 2出版后，官方总算还是选择了相对合理的拼法：
 
-这里还提了另两位暴食的姓氏拼写〔恶食（ロイ・アルファルド） **Alphard** ，饱食（ルイ・アルネブ） **Arneb**〕 ，后面在已知部分拼写出处的部分就不再给暴食单开条目了
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rye_zp2.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/roy_zp2.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rui_zp2.png)
+
+虽说以前美食家非官方拼成的Ley也半怪不怪，如今虽然和罗马音不太相同但都统一成三个字母R打头也算是说得过去了。另外三位暴食的姓氏出处也有在[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E9%B2%B8%E9%B1%BC%E5%BA%A7)提过，自然也都和其出处的星名一致（最多也就是美食家的天仓四要合并一下）。
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -459,7 +467,7 @@ Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就�
 
 名字取自[五车二](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%BE%A1%E5%A4%AB%E5%BA%A7)的西名。中名一度无拼写，直至Zeropedia 2才官方给出了和[Fandom](https://rezero.fandom.com/wiki/Capella_Emerada_Lugnica)一样的Emerada。（先前拼错的Lugunica也在[后来](https://rezero.fandom.com/wiki/Capella_Emerada_Lugunica?diff=123538&oldid=121633)改了过来）
 
-再有就是Zeropedia 2
+Zeropedia 2
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/capella_zp2.png)
 
@@ -486,7 +494,7 @@ Re：BOX 2
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hektor_cb_2_8.png)
 
-二期 Zeropedia 2
+Zeropedia 2
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/hektor_zp2.png)
 
