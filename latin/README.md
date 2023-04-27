@@ -37,7 +37,7 @@
 
 [菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナEzzo-Cadner) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
 
-[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [强欲司教](#强欲司教レグルスコルニアスRegulus-Corneas) &nbsp; [暴食司教](#暴食司教) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカ-Capella-Emerada-Lugunica) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
+[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [暴食司教](#暴食司教) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカCapella-Emerada-Lugunica) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
 
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
@@ -61,7 +61,7 @@
 
 **车祸现场：**
 
-[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ) &nbsp; [帝国九神将](#帝国九神将) &nbsp; [罗恩/罗安](#罗恩罗安ロウアンセグムント名-Louann) &nbsp; [铁之牙团长](#铁之牙团长リカードウェルキン) &nbsp; [阿拉姆村村长一家](#阿拉姆村村长一家) &nbsp; [修尔特/修鲁特/舒尔特](#修尔特修鲁特舒尔特シュルト) &nbsp; [莱普](#莱普ライプバーリエル)
+[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ) &nbsp; [帝国九神将](#帝国九神将) &nbsp; [罗恩/罗安](#罗恩罗安ロウアンセグムント名-Louann) &nbsp; [铁之牙团长](#铁之牙团长リカードウェルキン) &nbsp; [强欲司教](#强欲司教レグルスコルニアス) &nbsp; [阿拉姆村村长一家](#阿拉姆村村长一家) &nbsp; [修尔特/修鲁特/舒尔特](#修尔特修鲁特舒尔特シュルト) &nbsp; [莱普](#莱普ライプバーリエル)
 
 </details>
 
@@ -427,26 +427,11 @@ Zeropedia
 [返回目录](#目录-1)<br/>
 <br/>
 
-#### 强欲司教（レグルス・コルニアス）：Regulus Corneas
-
-司教印象中除了愤怒和怠惰以外都没有在小说彩插人设。不过好在司教的名字一部分是出自恒星名故至少有一部分是可以很容易确定的。强欲星名即[轩辕十四](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E7%8B%AE%E5%AD%90%E5%BA%A7)西名Regulus（[18卷卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC18%E5%8D%B7?file=Re_Zero_Volume_18_13.jpg)倒也有出现）。姓氏Corneas本为民间拼写，在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认
-
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/regulusc.png)
-
-不过其实这里官方曾经出过一个乌龙，在二期刚出强欲司教人设的时候姓氏是拼成这样的：
-
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/regulus.png)
-
-Corleonis——当时看到这个拼写我整个人吓了一激灵，这不就是拉丁文的狮子之心，也就是486给自己的强欲权能取的名么？？？动画化后官网在这塞私货？再看看马上觉得不对——Cor Leonis发音应该是コル・レオニス（六章原文），就算并在一起也应该不会差很多，怎么看也和コルニアス差得有点远……感觉当时的动画组是自作聪明以为能埋个六章伏笔结果倒有点贻笑大方……好在现在已经参照通用的拼写改过来了
-
-[返回目录](#目录-1)<br/>
-<br/>
-
 #### 暴食司教
 
-** 『美食家』（ライ・バテンカイトス）：Rye Batenkaitos ** <br/>
-** 『恶食』（ロイ・アルファルド）：Roy Alphard ** <br/>
-** 『饱食』（ルイ・アルネブ）：Rui Arneb **
+**『美食家』（ライ・バテンカイトス）：Rye Batenkaitos** <br/>
+**『恶食』（ロイ・アルファルド）：Roy Alphard** <br/>
+**『饱食』（ルイ・アルネブ）：Rui Arneb**
 
 美食家的官方来源比较多，有[TV动画人设](http://re-zero-anime.jp/tv/character) 以及Re：BOX 2画集
 
@@ -1284,6 +1269,32 @@ EX4： **Cecils Segmund**<br/>
 总之这么多版本我也很难确定应该选哪个，只能说Ricardo相对可能性大点，还是扔车祸现场算了……
 
 另外Ricard也是一种酒名，不知道Re: BOX那是不是有想到这个
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 强欲司教（レグルス・コルニアス）
+
+司教印象中除了愤怒和怠惰以外都没有在小说彩插人设。不过好在司教的名字一部分是出自恒星名故至少有一部分是可以很容易确定的。强欲星名即[轩辕十四](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E7%8B%AE%E5%AD%90%E5%BA%A7)西名 **Regulus** （[18卷卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC18%E5%8D%B7?file=Re_Zero_Volume_18_13.jpg)倒也有出现）。
+
+按说强欲的名字拼写本来没什么争议的，然而姓氏却出现过奇怪的乌龙：
+民间（[Fandom](https://rezero.fandom.com/wiki/Regulus_Corneas)）一直来的拼写都是 **Corneas** ，而二期动画人设刚开始出的时候给我吓了个马趴：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/regulus.png)
+
+**Corleonis** ——这不就是拉丁文的狮子之心，也就是486给自己的强欲权能取的名么？？？动画化后官网在这塞私货？再看看马上觉得不对——Cor Leonis发音应该是コル・レオニス（六章原文），就算并在一起也应该不会差很多，怎么看也和コルニアス差得有点远……感觉当时的动画组是自作聪明以为能埋个六章伏笔结果倒有点贻笑大方……好在[后来]((http://re-zero-anime.jp/tv/character))已经参照通用的拼写改过来了：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/regulusc.png)
+
+原本到这基本就能确定姓氏拼写是 **Corneas** 。然而Zeropedia 2一出版，又是一当头棒喝：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/regulus_zp2_1.png)
+
+**Corneus** ……？ 怎么a变成u了？？？不过这只是前面的彩页部分，如果后面人物介绍还是a的话倒可以认为是打错了，结果一看：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/regulus_zp2.png)
+
+完，还真的一样。动画人设和Zeropedia 2真打架了。本来动画人设和民间拼写一样还以为能确认拼写的，结果Zeropedia 2一出，瞬间就成了车祸现场……
 
 [返回目录](#目录-1)<br/>
 <br/>
