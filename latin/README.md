@@ -534,7 +534,7 @@ Zeropedia 2
 
 #### EMT养母/姑姑（フォルトナ）：Fortuna
 
-出自[文库14卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_2.jpg)及[卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_17.jpg)
+出自[文库14卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_2.jpg)及[卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_17.jpg)及Zeropedia 2
 
 [返回目录](#目录-1)<br/>
 <br/>
