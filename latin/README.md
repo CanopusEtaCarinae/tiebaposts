@@ -410,7 +410,7 @@ Zeropedia
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/petel_zpedia.png)
 
-昵称Geuse见文库[14卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_2.jpg)和[卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_18.jpg)，其实就是Petelgeuse截出了后半截而已。（记得14卷人设出以前因为读音的问题还一度被误解成juice来着）
+昵称Geuse见文库[14卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_2.jpg)和[卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_18.jpg)以及Zeropedia 2，其实就是Petelgeuse截出了后半截而已。（记得14卷人设出以前因为读音的问题还一度被误解成juice来着）
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/constellation/images/geuse.png)
 
