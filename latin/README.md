@@ -796,7 +796,7 @@ Complete Guidebook
 <br/>
 
 #### 阿奇/亚奇（アーチ・エリオール）：名 Archi
-名拼写出自[文库14卷人设图](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_3.jpg)。姓氏15卷提到就是大森林的名字エリオール，[Fandom](https://rezero.fandom.com/wiki/Elior_Forest)拼作Elior仅供参考。顺便[Fandom他的条目](https://rezero.fandom.com/wiki/Arch)把他名字一直拼成Arch应该也算是没有注意官设了
+名拼写出自[文库14卷人设图](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_3.jpg)以及Zeropedia 2。姓氏15卷提到就是大森林的名字エリオール，[Fandom](https://rezero.fandom.com/wiki/Elior_Forest)拼作Elior仅供参考。顺便[Fandom他的条目](https://rezero.fandom.com/wiki/Arch)把他名字一直拼成Arch应该也算是没有注意官设了
 
 [返回目录](#目录-1)<br/>
 <br/>
