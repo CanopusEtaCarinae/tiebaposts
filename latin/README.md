@@ -562,7 +562,7 @@ Zeropedia 2
 
 #### 八腕斗神（クルガン）：Kurgan
 
-出自[EX3彩插人设](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E8%B0%AD?file=Re_Zero_Ex_Volume_3_4.png)
+出自[EX3彩插人设](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E8%B0%AD?file=Re_Zero_Ex_Volume_3_4.png)以及Zeropedia 2
 
 [返回目录](#目录-1)<br/>
 <br/>
