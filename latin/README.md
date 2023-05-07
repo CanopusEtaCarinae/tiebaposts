@@ -1127,6 +1127,10 @@ Complete Guidebook
 
 最后，只能作出一个 **Theresia Van Astrea** 相对比较可信，但不能排除 **Theåresia Van Astrea** 和 **Thearesia Van Astrea** 这两个版本正确的可能性，这么个模棱两可的结论了
 
+顺便Zeropedia 2出版以后倒也还是最通行的版本，不过也无所谓了……
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/theresia_zp2.png)
+
 题外话，说起EX3里拼写奇怪的前代剑圣，上面也有提到EX3的其他拼写问题，就比如上面[前代傲慢](#帝国皇族)少拼个l，还有和民间常用拼写不同的Lugunica。后者倒可以说是民间自己的问题，但结合上Teresia和Volachia，怎么感觉EX3是在故意和民间拼写叫板呢……
 
 [返回目录](#目录-1)<br/>
