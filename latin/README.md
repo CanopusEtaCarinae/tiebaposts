@@ -984,7 +984,7 @@ Flop的女装フローラ也和上面文森特一样有出处，参看[星空文
 
 #### 托德（トッド・ファング）：名 Todd
 
-同上[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。托德的姓氏目前只在27卷gamers特典有提及，自然官方出版物上也没有拼写。不过[i编在22年10月发的人设推](https://twitter.com/ike_edi/status/1585608301299273728)却写上了 **Todd Fang** ，也不确定能不能直接当成官方确认，暂且还是先留在部分姓名已知里了。[Fandom上](https://rezero.fandom.com/wiki/Todd_Fang)也同样拼作Fang
+同上[27卷彩插人设](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Re_Zero_Light_Novel_27_2.png)。托德的姓氏目前只在27卷gamers特典有提及，自然官方出版物上也没有拼写。不过[i编在22年10月发的人设推](https://twitter.com/ike_edi/status/1585608301299273728)却写上了 **Todd Fang** ，也不确定能不能直接当成官方确认，暂且还是先留在部分姓名已知里了。[Fandom上](https://rezero.fandom.com/wiki/Todd_Fang)也同样拼作Fang。虽然不能完全确定，但八章已透露托德是人狼，和Fang的英文含义（獠牙）似乎也有所对应的样子
 
 [返回目录](#目录-1)<br/>
 <br/>
