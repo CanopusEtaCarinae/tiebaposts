@@ -37,7 +37,7 @@
 
 [菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナEzzo-Cadner) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
 
-[怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [暴食司教](#暴食司教) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカCapella-Emerada-Lugunica) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
+[莉莉安娜](#莉莉安娜リリアナマスカレードLiliana-Masquerade) &nbsp; [怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [暴食司教](#暴食司教) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカCapella-Emerada-Lugunica) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
 
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
@@ -47,7 +47,7 @@
 
 **部分姓名有出处：**
 
-[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [莉莉安娜](#莉莉安娜リリアナマスカレード名-Liliana) &nbsp; [罗姆爷](#罗姆爷) &nbsp; [苹果大叔](#苹果大叔カドモンリッシュ名-Kadomon) &nbsp; [阿奇/亚奇](#阿奇亚奇アーチエリオール名-Archi)
+[琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [罗姆爷](#罗姆爷) &nbsp; [苹果大叔](#苹果大叔カドモンリッシュ名-Kadomon) &nbsp; [阿奇/亚奇](#阿奇亚奇アーチエリオール名-Archi)
 
 [格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [康吾德/克伍德](#康吾德克伍德コンウッドメラハウ名-Conwood)
 
@@ -388,6 +388,17 @@ Zeropedia
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/al_zpedia.png)
 
 说起来Al作为日本来的穿越者，Aldebaran这种名字肯定是穿越之后取的，N多年后会不会讲他的本名也不好说
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 莉莉安娜（リリアナ・マスカレード）：Liliana Masquerade
+
+名拼写出自[16卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_1.jpg)，[19卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC19%E5%8D%B7?file=Re_Zero_Light_Novel_19_15.png)。姓氏则是Zeropedia 2给出完整拼写，与[民间常见拼法](https://rezero.fandom.com/wiki/Liliana_Masquerade)一致。另外这姓氏正好是个英语单词，有掩饰化装之类的意思，也不晓得或许会和剧情有什么关系？
+
+Zeropedia 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/liliana_zp2.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -758,15 +769,6 @@ Complete Guidebook
 其他出场过的孩子有没有在冷天气之类的杂志短篇给过人设就不清楚了，毕竟扫图资源没有😷
 
 此外孩子们应该都是有姓氏的，只不过至今我连日文版的都还没看到，因此就当他们暂时只有部分名字有拼写了。这两位的拼写和fandom版本一致，其他fandom上孩子们的拼写也仅供参考罢
-
-[返回目录](#目录-1)<br/>
-<br/>
-
-#### 莉莉安娜（リリアナ・マスカレード）：名 Liliana
-
-名拼写出自[16卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_1.jpg)，[19卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC19%E5%8D%B7?file=Re_Zero_Light_Novel_19_15.png)。
-
-（姓氏[Fandom](https://rezero.fandom.com/wiki/Liliana_Masquerade)拼作Masquerade，这玩意正好是个英语单词，有掩饰化装之类的意思，倒不晓得会和剧情有什么关系了）
 
 [返回目录](#目录-1)<br/>
 <br/>
