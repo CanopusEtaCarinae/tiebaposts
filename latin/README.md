@@ -505,7 +505,7 @@ Zeropedia 2
 
 #### 夏乌拉（シャウラ）：Shaula
 
-出自[22卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC22%E5%8D%B7?file=Re_Zero_Light_Novel_22_3.png)及[22](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC22%E5%8D%B7?file=Re_Zero_Light_Novel_22_16.jpg)，[24](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC24%E5%8D%B7?file=Re_Zero_Light_Novel_24_17.jpg)等卷卷尾预告。同时名字取自[天蝎座尾宿八](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A9%E8%9D%8E%E5%BA%A7)。
+出自[22卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC22%E5%8D%B7?file=Re_Zero_Light_Novel_22_3.png)及[22](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC22%E5%8D%B7?file=Re_Zero_Light_Novel_22_16.jpg)，[24](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC24%E5%8D%B7?file=Re_Zero_Light_Novel_24_17.jpg)等卷卷尾预告以及Zeropedia 2。同时名字取自[天蝎座尾宿八](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%A4%A9%E8%9D%8E%E5%BA%A7)。
 
 [返回目录](#目录-1)<br/>
 <br/>
