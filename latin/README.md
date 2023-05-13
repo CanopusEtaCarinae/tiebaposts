@@ -512,7 +512,7 @@ Zeropedia 2
 
 #### 初代剑圣（レイド・アストレア）：Reid Astrea
 
-出自[22卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC22%E5%8D%B7?file=Re_Zero_Light_Novel_22_3.png)。
+出自[22卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC22%E5%8D%B7?file=Re_Zero_Light_Novel_22_3.png)及Zeropedia 2。
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/Reid.png)
 
