@@ -536,9 +536,11 @@ Zeropedia 2
 
 #### 神龙（ボルカニカ）：Volcanica
 
-出自[25卷卷尾设定](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC25%E5%8D%B7?file=ReZero_vol.25_illustration_15.jpeg)
+出自[25卷卷尾设定](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC25%E5%8D%B7?file=ReZero_vol.25_illustration_15.jpeg)及Zeropedia 2
 
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/volcanica.png)
+Zeropedia 2：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/volcanica_zp2.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
