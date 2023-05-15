@@ -41,9 +41,9 @@
 
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
-[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [礼赞者](#礼赞者ハリベルHalivel) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [亲龙王国王族](#亲龙王国王族)
+[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [礼赞者](#礼赞者ハリベルHalivel) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [奥托的地龙](#奥托的地龙フルフーFrufoo)
 
-[帝国皇族](#帝国皇族) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk) &nbsp; [坦萨](#坦萨タンザTanza)
+[亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk) &nbsp; [坦萨](#坦萨タンザTanza)
 
 **部分姓名有出处：**
 
@@ -641,6 +641,16 @@ Complete Guidebook
 #### 迈尔斯（マイルズ）：Miles
 
 出自[EX5人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:%E7%BB%AF%E8%89%B2%E5%A7%AC%E8%B0%AD?file=Re_Zero_Ex_Volume_5_2.png)及[卷尾预告](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:%E7%BB%AF%E8%89%B2%E5%A7%AC%E8%B0%AD?file=Re_Zero_Ex_Volume_5_16.jpg)。前九神将之玖的义兄，EX1中作为间谍来到王国，结果被蒸发得尸骨无存。EX5赫炎前传倒是又出场还给了人设拼写。不过奇怪的是Miles至今没有说姓啥，按说既然是士兵又是前九神将义兄不应该会没有。不过看样子他再出场的机会感觉也不多了，只得暂时就当这是全名
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 奥托的地龙（フルフー）：Frufoo
+
+本以为地龙除了帕特拉修以外存在感都不强，没想到Zeropedia 2还真的给了俩地龙的拼写<br/>
+（说起来早年Fandom还拼成奇怪的[Verhoe](https://rezero.fandom.com/wiki/Frufoo?diff=66968&oldid=66912)，具体咋个译法我日语盲也没研究过。后来20年九月就改成了Frufoo。Zeropedia 2也这样拼不知是否有借鉴民间拼法呢）
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/frufoo.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
