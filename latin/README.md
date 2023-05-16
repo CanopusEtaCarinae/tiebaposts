@@ -41,7 +41,7 @@
 
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
-[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [礼赞者](#礼赞者ハリベルHalivel) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [奥托的地龙](#奥托的地龙フルフーFrufoo)
+[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [礼赞者](#礼赞者ハリベルHalivel) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [奥托的地龙](#奥托的地龙フルフーFrufoo) &nbsp; [Mirula小镇地龙](#Mirula小镇地龙ヨーゼフJoseph)
 
 [亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk) &nbsp; [坦萨](#坦萨タンザTanza)
 
@@ -648,9 +648,19 @@ Complete Guidebook
 #### 奥托的地龙（フルフー）：Frufoo
 
 本以为地龙除了帕特拉修以外存在感都不强，没想到Zeropedia 2还真的给了俩地龙的拼写<br/>
-（说起来早年Fandom还拼成奇怪的[Verhoe](https://rezero.fandom.com/wiki/Frufoo?diff=66968&oldid=66912)，具体咋个译法我日语盲也没研究过。后来20年九月就改成了Frufoo。Zeropedia 2也这样拼不知是否有借鉴民间拼法呢）
+（说起来早年Fandom还拼成奇怪的[Verhoe](https://rezero.fandom.com/wiki/Frufoo?diff=66968&oldid=66912)，具体咋个译法我日语盲也没研究过。后来20年9月就改成了Frufoo。Zeropedia 2也这样拼不知是否有借鉴民间拼法呢）
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/frufoo.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### Mirula小镇地龙（ヨーゼフ）：Joseph
+
+其实奥托的地龙还算是有点存在感，像Joseph这头仅出场一章的地龙还拼了下也是没想到。虽然Joseph这名本来就是挺中规中规矩的英文名，猜也是猜这么个拼法<br/>
+（另外Web和文库从小镇借的地龙名字还不一样，Web叫ジャイアン，文库改了名自然是没拼写的机会了。虽然这和哆啦A梦里胖虎的Giant是一样的，估计Web版名大概也就是从Giant〔巨人〕来的）
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/joseph.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
