@@ -624,7 +624,11 @@ Complete Guidebook
 
 #### IF线中486与蕾姆子女：Rigel Natsuki和Spica Natsuki
 
-姓氏肯定是菜月了……名字（リゲル、スピカ）原作没有人设图，不过肯定的是他们俩也是用恒星取的名：[参宿七](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%8F%82%E5%AE%BF%E4%B8%83)和[角宿一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%AE%A4%E5%A5%B3%E5%BA%A7)，因此把西名搬过来就行。完整姓名就按照486的官设名在前姓在后了，虽然好像有点别扭😷
+姓氏肯定是菜月了……名字（リゲル、スピカ）9卷出场时人设图里没拼写，不过肯定的是他们俩也是用恒星取的名：[参宿七](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%8F%82%E5%AE%BF%E4%B8%83)和[角宿一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%AE%A4%E5%A5%B3%E5%BA%A7)，因此把西名搬过来就行。而在Re: BOX 2画集出版后也确实拼了出来
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rigelspica.png)
+
+完整姓名我这就按照486的官设名在前姓在后了，虽然好像有点别扭😷
 
 [返回目录](#目录-1)<br/>
 <br/>
