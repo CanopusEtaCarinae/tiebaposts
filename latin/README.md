@@ -805,7 +805,7 @@ Complete Guidebook
 
 **名：Valga**
 
-拼写出自[EX2的彩页](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E6%AD%8C?file=Re_Zero_Ex_Volume_2_3.jpg)。而其他地方的人设（如[第一卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_18.jpg)）都是直接写他现在的称呼Romjii。罗姆爷这个称呼也是从他姓氏来的，然而我没找到拼写
+拼写出自[EX2的彩页](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E6%AD%8C?file=Re_Zero_Ex_Volume_2_3.jpg)。而其他地方的人设（如[第一卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_18.jpg)）都是直接写他现在的称呼Romjii，或者像Zeropedia 2那样写成Rom。罗姆爷这个称呼也是从他姓氏来的，然而我没找到拼写
 
 （[Fandom](https://rezero.fandom.com/wiki/Rom)姓氏拼作Cromwell仅供参考）
 
