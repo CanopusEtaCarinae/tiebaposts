@@ -624,7 +624,7 @@ Complete Guidebook
 
 #### IF线中486与蕾姆子女：Rigel Natsuki和Spica Natsuki
 
-姓氏肯定是菜月了……名字（リゲル、スピカ）9卷出场时人设图里没拼写，不过肯定的是他们俩也是用恒星取的名：[参宿七](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%8F%82%E5%AE%BF%E4%B8%83)和[角宿一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%AE%A4%E5%A5%B3%E5%BA%A7)，因此把西名搬过来就行。而在Re: BOX 2画集出版后也确实拼了出来
+姓氏肯定是菜月了……名字（リゲル、スピカ）9卷出场时人设图里没拼写，不过肯定的是他们俩也是用恒星取的名：[参宿七](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%8F%82%E5%AE%BF%E4%B8%83)和[角宿一](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%AE%A4%E5%A5%B3%E5%BA%A7)，因此把西名搬过来就行。在Re: BOX 2画集出版后也确实拼了出来
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rigelspica.png)
 
@@ -808,6 +808,10 @@ Complete Guidebook
 拼写出自[EX2的彩页](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E6%AD%8C?file=Re_Zero_Ex_Volume_2_3.jpg)。而其他地方的人设（如[第一卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_18.jpg)）都是直接写他现在的称呼Romjii，或者像Zeropedia 2那样写成Rom。罗姆爷这个称呼也是从他姓氏来的，然而我没找到拼写
 
 （[Fandom](https://rezero.fandom.com/wiki/Rom)姓氏拼作Cromwell仅供参考）
+
+Zeropedia 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rom_zp2.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
