@@ -165,7 +165,13 @@ Zeropedia 2
 
 #### 加菲尔/嘉飞尔/贾菲尔（ガーフィール・ティンゼル）：Garfiel Tinsel
 
-名拼写见[十卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_15.jpg)，[十三卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC13%E5%8D%B7?file=Re_Zero_Volume_13_16.jpg)、[十七卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC17%E5%8D%B7?file=Re_Zero_Light_Novel_Volume_17_15.jpg)，杂志短篇等。姓氏同上原为民间拼写并在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认。值得一提的是加菲的拼写在杂志短篇上闹过个大笑话，我们知道他的名字Garfiel本身就类似加菲猫的Garfield，再加上有虎亚人血统，所以读者（包括我）也常称呼他为加菲猫，结果杂志上奥托行商路和土蜘蛛的短篇还真的把他的人设给这么拼了，就当个小笑料看罢…………
+名拼写见[十卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_15.jpg)，[十三卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC13%E5%8D%B7?file=Re_Zero_Volume_13_16.jpg)、[十七卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC17%E5%8D%B7?file=Re_Zero_Light_Novel_Volume_17_15.jpg)，杂志短篇等。姓氏同上原为民间拼写并在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认。Zeropedia 2出版后亦有加入。
+
+Zeropedia 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/garfiel_zp2.png)
+
+值得一提的是加菲的拼写在杂志短篇上闹过个大笑话，我们知道他的名字Garfiel本身就类似加菲猫的Garfield，再加上有虎亚人血统，所以读者（包括我）也常称呼他为加菲猫，结果杂志上奥托行商路和土蜘蛛的短篇还真的把他的人设给这么拼了，就当个小笑料看罢…………
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/garfield_ca.png)
 
