@@ -587,6 +587,10 @@ Zeropedia 2：
 
 出自[EX3彩插人设](https://rezero.fandom.com/zh/wiki/%E5%89%91%E9%AC%BC%E6%81%8B%E8%B0%AD?file=Re_Zero_Ex_Volume_3_4.png)以及Zeropedia 2
 
+Zeropedia 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/kurgan_zp2.png)
+
 [返回目录](#目录-1)<br/>
 <br/>
 
