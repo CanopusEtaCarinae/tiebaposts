@@ -145,6 +145,10 @@
 
 奥托没有小说彩页内的人设，不过在部分卷尾预告和杂志短篇中有。姓氏以前只是民间英译拼成Suwen，官方则是直到[二期TV动画人设](http://re-zero-anime.jp/tv/character)才给出确认。Zeropedia 2出版后亦有加入
 
+Zeropedia 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/otto_zp2.png)
+
 顺便女神像里奥托女装的名 **Audery** （オードリー）还在短篇集6卷尾给拼了一下，至于姓（スフレ）估计也没啥机会再拼了，姑且先列在这
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/audrey.png)
