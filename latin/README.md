@@ -197,6 +197,10 @@ Zeropedia 2
 
 名拼写在[十二卷的人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC12%E5%8D%B7?file=Re_Zero_Volume_12_3.jpg)和[卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC12%E5%8D%B7?file=Re_Zero_Volume_12_16.jpg)，姓氏同上原为民间拼写后在[二期TV动画人设](http://re-zero-anime.jp/tv/character)官方确认。Zeropedia 2出版后亦有加入
 
+Zeropedia 2
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/meili_zp2.png)
+
 [返回目录](#目录-1)<br/>
 <br/>
 
