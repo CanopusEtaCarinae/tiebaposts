@@ -41,7 +41,7 @@
 
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
-[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [礼赞者](#礼赞者ハリベルHalivel) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [奥托的地龙](#奥托的地龙フルフーFrufoo) &nbsp; [Mirula小镇地龙](#Mirula小镇地龙ヨーゼフJoseph)
+[八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [奥托的地龙](#奥托的地龙フルフーFrufoo) &nbsp; [Mirula小镇地龙](#Mirula小镇地龙ヨーゼフJoseph)
 
 [亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk) &nbsp; [坦萨](#坦萨タンザTanza)
 
@@ -61,7 +61,7 @@
 
 **车祸现场：**
 
-[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ) &nbsp; [帝国九神将](#帝国九神将) &nbsp; [罗恩/罗安](#罗恩罗安ロウアンセグムント名-Louann) &nbsp; [铁之牙团长](#铁之牙团长リカードウェルキン) &nbsp; [强欲司教](#强欲司教レグルスコルニアス) &nbsp; [阿拉姆村村长一家](#阿拉姆村村长一家) &nbsp; [修尔特/修鲁特/舒尔特](#修尔特修鲁特舒尔特シュルト) &nbsp; [莱普](#莱普ライプバーリエル)
+[前代剑圣](#前代剑圣テレシアヴァンアストレア) &nbsp; [猎肠者](#猎肠エルザグランヒルテ) &nbsp; [帝国九神将](#帝国九神将) &nbsp; [罗恩/罗安](#罗恩罗安ロウアンセグムント名-Louann) &nbsp; [铁之牙团长](#铁之牙团长リカードウェルキン) &nbsp; [强欲司教](#强欲司教レグルスコルニアス) &nbsp; [礼赞者](#礼赞者ハリベル) &nbsp; [阿拉姆村村长一家](#阿拉姆村村长一家) &nbsp; [修尔特/修鲁特/舒尔特](#修尔特修鲁特舒尔特シュルト) &nbsp; [莱普](#莱普ライプバーリエル)
 
 </details>
 
@@ -655,15 +655,6 @@ Complete Guidebook
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/rigelspica.png)
 
 完整姓名我这就按照486的官设名在前姓在后了，虽然好像有点别扭😷
-
-[返回目录](#目录-1)<br/>
-<br/>
-
-#### 礼赞者（ハリベル）：Halivel
-
-出自Re：BOX 2画集。虽然和[Fandom版](https://rezero.fandom.com/wiki/Halibel)拼写的Halibel不一样，我这里还是以官方给的为准了
-
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/halivel_rebox2.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -1361,6 +1352,21 @@ EX4： **Cecils Segmund**<br/>
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/regulus_zp2.png)
 
 完，还真的一样。动画人设和Zeropedia 2真打架了。本来动画人设和民间拼写一样还以为能确认拼写的，结果Zeropedia 2一出，瞬间就成了车祸现场……
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 礼赞者（ハリベル）
+
+官方最早出现拼写的是Re：BOX 2画集：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/halivel_rebox2.png)
+
+这里拼成 **Halivel**，和民间常见到的[Fandom版](https://rezero.fandom.com/wiki/Halibel)拼写的Halibel不一样，而且用v确实似乎也有点别扭。本来一度我就想以这唯一的官方出处为准的，没想到八章礼赞者还真的出了场，然后34卷人设就又出了个拼写：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/harribel.png)
+
+嗯， **Harribel** ，v是变回b了，可是l又变了，变成r不说还是俩r……总之在有其他出版物进一步支持以前，礼赞者只能也当车祸现场了……
 
 [返回目录](#目录-1)<br/>
 <br/>
