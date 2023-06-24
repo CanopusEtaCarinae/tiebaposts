@@ -143,7 +143,7 @@
 
 #### 奥托（オットー・スーウェン）：Otto Suwen
 
-奥托没有小说彩页内的人设，不过在部分卷尾预告和杂志短篇中有。姓氏以前只是民间英译拼成Suwen，官方则是直到[二期TV动画人设](http://re-zero-anime.jp/tv/character)才给出确认。Zeropedia 2出版后亦有加入
+奥托一度没有小说彩页内的人设（结果竟然在[34卷](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:34%E5%8D%B7?file=Re_Zero_Light_Novel_34_1.png)突然给了），不过在部分卷尾预告和杂志短篇中有。姓氏以前只是民间英译拼成Suwen，官方则是直到[二期TV动画人设](http://re-zero-anime.jp/tv/character)才给出确认。Zeropedia 2出版后亦有加入。
 
 Zeropedia 2
 
@@ -1332,7 +1332,7 @@ EX4： **Cecils Segmund**<br/>
 
 #### 强欲司教（レグルス・コルニアス）
 
-司教印象中除了愤怒和怠惰以外都没有在小说彩插人设。不过好在司教的名字一部分是出自恒星名故至少有一部分是可以很容易确定的。强欲星名即[轩辕十四](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E7%8B%AE%E5%AD%90%E5%BA%A7)西名 **Regulus** （[18卷卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC18%E5%8D%B7?file=Re_Zero_Volume_18_13.jpg)倒也有出现）。
+司教印象中除了愤怒和怠惰以外都没有小说彩插版人设。不过好在司教的名字一部分是出自恒星名故至少有一部分是可以很容易确定的。强欲星名即[轩辕十四](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E7%8B%AE%E5%AD%90%E5%BA%A7)西名 **Regulus** （[18卷卷尾](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC18%E5%8D%B7?file=Re_Zero_Volume_18_13.jpg)倒也有出现）。
 
 按说强欲的名字拼写本来没什么争议的，然而姓氏却出现过奇怪的乌龙：
 民间（[Fandom](https://rezero.fandom.com/wiki/Regulus_Corneas)）一直来的拼写都是 **Corneas** ，而二期动画人设刚开始出的时候给我吓了个马趴：
