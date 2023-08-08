@@ -430,13 +430,13 @@ Altair的语义还可追溯至两河文明，当时Altair就有“老鹰之星�
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/constellation/images/Virgo_IAU.png)
 
-[室女座](https://zh.wikipedia.org/wiki/%E5%AE%A4%E5%A5%B3%E5%BA%A7)为黄道星座之一，位于狮子座之东，为全天第二大星座。最亮星为α星角宿一。除角宿一外其余恒星没有很突出的了。
+[室女座](https://zh.wikipedia.org/wiki/%E5%AE%A4%E5%A5%B3%E5%BA%A7)为黄道星座之一，位于狮子座之东，为全天第二大星座。最亮星为α星角宿一。除角宿一外其余恒星便没有很突出的了。
 
 室女座的神话也有两说法，一种说法为宙斯的姐姐，农神和丰收女神[得墨忒耳](https://zh.wikipedia.org/wiki/%E5%BE%97%E5%A2%A8%E5%BF%92%E8%80%B3)的化身；另一说法为正义女神[阿斯特赖亚（Astraea）](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%96%AF%E7%89%B9%E8%B3%B4%E4%BA%9E)的化身（听上去很像Re0剑圣家族的姓氏Astrea，甚至也有说法讲Astrea就是Astraea的另一种写法，同时也是5号义神星的名字）。由于室女座在本作不是很重要，故神话就不在此具体叙述。剑圣家族的姓氏目前也暂未确认和室女座有关
 
 #### 角宿一
 
-[角宿一](https://zh.wikipedia.org/wiki/%E8%A7%92%E5%AE%BF%E4%B8%80)即室女座α星，其西名Spica源于拉丁语spīca virginis，意为“室女的麦穗”，在很多星座形象图里角宿一的位置就是画成了室女所手持的一根麦穗。Spica原本仅用于if线486与蕾姆之女的的名字，然而正篇八章23节486给幼化饱食取的新名也为Spica，而且在23节更新之后还把web上的蕾姆if绝大部分都删了，让人相当在意老贼的用意为何……星名那么多，特地拿了一个过去用过的，还因为以前的是if而把很多相关内容故意抹了，也不知道是不是Spica在此处引用了什么特别的典故和引申了（此事在读者间也显然引起了争议，也顺便希望老贼能给个解释了）
+[角宿一](https://zh.wikipedia.org/wiki/%E8%A7%92%E5%AE%BF%E4%B8%80)即室女座α星，其西名Spica源于拉丁语spīca virginis，意为“室女的麦穗”，在很多星座形象图里角宿一的位置就是画成了室女所手持的一根麦穗。Spica原本仅用于if线486与蕾姆之女的的名字，然而正篇八章23节486给幼化饱食取的新名也为Spica，而且在23节更新之后还把web上的蕾姆if大部分都搬到了[新页面](https://ncode.syosetu.com/n9525ii)，让人相当在意老贼的用意为何……星名那么多，特地拿了一个过去用过的，还把以前用过的if特地搬了家，也不知道是不是Spica在此处引用了什么特别的典故和引申了（八章23节更新后此事在读者间引起一片哗然，但愿真有星名梗在此值得解释了）
 
 <details>
 <summary>【小知识（点击展开）】</summary>
