@@ -509,7 +509,7 @@ Altair的语义还可追溯至两河文明，当时Altair就有“老鹰之星�
 顺便作品中五卷蜜瓜还说安娜的名字原于地窖（穴倉）<br/>
 <br/>
 
-**2、寡妇（Priscilla）** ：与小行星[2137 Priscilla](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F2137)。这个同名我长期都没意识到（也包括有[这个推](https://twitter.com/nezumiironyanko/status/649223332169060353)没提到的原因），直到[这个贴](https://tieba.baidu.com/p/8338545966)整理英语读者脑洞时才发现这事。不过这个也算是虽然名字一样但没有其他依据的，以及Priscilla也不是寡妇的本名（本名Prisca倒又与[997 Priska](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F997)名字相似，不过2015年那会也不可能透露就是了），综合看来目前也只能当成存疑归到这里了<br/>
+**2、寡妇（Priscilla）** ：与小行星[2137 Priscilla](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F2137)同名。这个同名我长期都没意识到（也包括有[这个推](https://twitter.com/nezumiironyanko/status/649223332169060353)没提到的原因），直到[这个贴](https://tieba.baidu.com/p/8338545966)整理英语读者脑洞时才发现这事。不过这个也算是虽然名字一样但没有其他依据的，以及Priscilla也不是寡妇的本名（本名Prisca倒又与[997 Priska](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F997)名字相似，不过2015年那会也不可能透露就是了），综合看来目前也只能当成存疑归到这里<br/>
 至于上面那个贴子脑洞王选候补可能都和星名有关，也就姑且列在这看以后有没有更多信息了<br/>
 <br/>
 
