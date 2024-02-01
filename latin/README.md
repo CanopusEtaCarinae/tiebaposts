@@ -1244,11 +1244,13 @@ TV一期资料集 Visual Commentary中姓氏比上面两个版本多了个d：
 九神将之壱，『青色雷光』（セシルス・セグムント）：<br/>
 EX4： **Cecils Segmund**<br/>
 [Fandom版](https://rezero.fandom.com/wiki/Cecilus_Segmunt)拼写： **Cecilus Segmunt**<br/>
-这个说实话的话我有些怀疑是EX4可能有问题，首先杂志上青光的名是有拼写成Fandom版的：
+这个乍一看就感觉Ex4的像是有些问题，首先杂志上青光的名是有拼写成Fandom版的：
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/cecilus_ca.png)
 
-出自杂志上银华乱舞短篇的英文标题。至于姓的话，区别也就在于末尾的t和d。而日文最后一音是to，EX4为什么译成d我就蒙了……大概要等日语大佬帮忙解释……总之青光这个我个人以为可能Fandom反而更靠谱
+出自杂志上银华乱舞短篇的英文标题。[31卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:31%E5%8D%B7?file=Re_Zero_Light_Novel_31_15.png)也印证了这点。然而[36卷卷尾](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:36%E5%8D%B7?file=Re_Zero_Light_Novel_36_15.png)又给拼成了Cecils……这车撞得都快成过山车了
+
+至于姓的话，区别也就在于末尾的t和d。而日文最后一音是to，EX4为什么译成d我就蒙了……大概要等日语大佬帮忙解释……总之青光这个我个人以为可能Fandom反而更靠谱
 （顺便说起来Fandom版在EX4出人设之后就把名字[按EX4版改了](https://rezero.fandom.com/wiki/Cecilus_Segmunt?diff=85936&oldid=85883)，结果时隔正好半年[又给改回去了](https://rezero.fandom.com/wiki/Cecilus_Segmunt?diff=103834&oldid=103827)）
 
 九神将之弐，女犬人，『食精灵者』，寡妇发小（アラキア）： **Arakiya** <br/>
