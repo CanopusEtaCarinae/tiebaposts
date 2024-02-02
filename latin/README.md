@@ -724,7 +724,7 @@ Complete Guidebook
 
 **文森特（77代皇帝 ヴィンセント・ヴォラキア）：Vincent Vollachia**
 
-出自[EX4彩插人设](https://rezero.fandom.com/zh/wiki/%E6%9C%80%E4%BC%98%E7%BA%AA%E8%A1%8C?file=Re_Zero_Ex_Volume_4_1.jpg)。至于文森特的原姓アベルクス就没有拼写了。[Fandom](https://rezero.fandom.com/wiki/Vincent_Vollachia)拼作Abellux仅供参考
+出自[EX4彩插人设](https://rezero.fandom.com/zh/wiki/%E6%9C%80%E4%BC%98%E7%BA%AA%E8%A1%8C?file=Re_Zero_Ex_Volume_4_1.jpg)。至于文森特的原姓アベルクス就没有拼写了。[Fandom](https://rezero.fandom.com/wiki/Vincent_Vollachia)拼作Abellux仅供参考。不过基于原姓造的假名 **Abel** 拼写倒是在[33卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:33%E5%8D%B7?file=Re_Zero_Light_Novel_33_15.png)有出现
 
 另外文森特的女装ビアンカ也有相应的出处，见[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%85%B6%E4%BB%96%E5%AD%98%E7%96%91)。若以此为准则拼为Bianca。
 
