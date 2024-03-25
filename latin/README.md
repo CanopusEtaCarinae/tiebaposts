@@ -1355,6 +1355,12 @@ EX4： **Cecils Segmund**<br/>
 
 完，还真的一样。动画人设和Zeropedia 2真打架了。本来动画人设和民间拼写一样还以为能确认拼写的，结果Zeropedia 2一出，瞬间就成了车祸现场……
 
+再后来，TV三期定档，我又心血来潮上动画官网瞅了眼人设：
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/regulus_tv3.png)
+
+hmmmm……这意思官方以后是真打算改u了……？
+
 [返回目录](#目录-1)<br/>
 <br/>
 
