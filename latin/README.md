@@ -37,7 +37,7 @@
 
 [菲鲁特](#菲鲁特フェルトFelt) &nbsp; [莱傲天](#莱傲天ラインハルトヴァンアストレアReinhard-Van-Astrea) &nbsp; [『灰色』魔法使](#灰色魔法使エッゾカドナEzzo-Cadner) &nbsp; [库珥修](#库珥修克鲁修クルシュカルステンCrusch-Karsten) &nbsp; [菲利斯](#菲利斯フェリスフェリックスアーガイル) &nbsp; [剑鬼](#剑鬼ヴィルヘルムヴァンアストレアWilhelm-Van-Astrea) &nbsp; [安娜](#安娜アナスタシアホーシンAnastasia-Hoshin) &nbsp; [6154](#6154ユリウスユークリウスJulius-Juukulius) &nbsp; [约修亚/约书亚](#约修亚约书亚ヨシュアユークリウスJoshua-Juukulius) &nbsp; [猫人三姐弟](#猫人三姐弟ミミヘータローティビーパールバトンMimiHetaroTivey-Pearlbaton) &nbsp; [寡妇](#寡妇プリシラバーリエルPriscilla-Barielle) &nbsp; [阿尔/阿卢/阿鲁](#阿尔阿卢阿鲁アル)
 
-[莉莉安娜](#莉莉安娜リリアナマスカレードLiliana-Masquerade) &nbsp; [怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [暴食司教](#暴食司教) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカCapella-Emerada-Lugunica) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
+[莉莉安娜](#莉莉安娜リリアナマスカレードLiliana-Masquerade) &nbsp; [歌姬狂](#歌姬狂キリタカミューズKiritaka-Muse) &nbsp; [怠惰司教](#怠惰司教) &nbsp; [愤怒司教](#愤怒司教シリウスロマネコンティSirius-Romaneeconti) &nbsp; [暴食司教](#暴食司教) &nbsp; [色欲司教](#色欲司教カペラエメラダルグニカCapella-Emerada-Lugunica) &nbsp; [大罪魔女/魔人](#大罪魔女魔人) &nbsp; [夏乌拉](#夏乌拉シャウラShaula) &nbsp; [初代剑圣](#初代剑圣レイドアストレアReid-Astrea) &nbsp; [大贤者](#大贤者フリューゲルFlügelFlugel) &nbsp; [神龙](#神龙ボルカニカVolcanica)
 
 [EMT养母/姑姑](#EMT养母姑姑フォルトナFortuna) &nbsp; [海因凯尔/亨克尔（莱傲天父）](#海因凯尔亨克尔莱傲天父ハインケルアストレアHeinkel-Astrea) &nbsp; [贝鲁托尔/贝尔托（剑鬼岳父）](#贝鲁托尔贝尔托剑鬼岳父剑圣家族前前家主ベルトールアストレアVeltol-Astrea) &nbsp; [魔女斯芬克斯/史宾克斯](#斯芬克斯史宾克斯亚人战争时的魔女-スピンクスSphinx)
 
@@ -319,7 +319,7 @@ zeropedia
 
 名出处上和面几个一样名字在[第四卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC4%E5%8D%B7?file=Re_Zero_Volume_4_3.jpeg)，姓氏在[TV动画人设](http://re-zero-anime.jp/tv/character)和zeropedia。
 
-〔题外话，Kararagi出身的部分角色名字会有些日文的感觉，比如安娜的姓氏来自Kararagi缔造者荒地的Hoshin（ホーシン），而ホーシン本身也是一些日语词语的发音，比如我以前查到过“方針”读音就与此相同。类似的还有歌姬狂Kiritaka，有些翻译君甚至直接把他的名字按日语译成“桐鷹”的。再比如僵尸短篇的Yae，根据她会放苦无的技能说不定她出身也与西方有关，而台版就完全把她名字当日文译成汉字了（Yae Tenzen→八重·天膳）〕
+〔题外话，Kararagi出身的部分角色名字会有些日文的感觉，比如安娜的姓氏来自Kararagi缔造者荒地的Hoshin（ホーシン），而ホーシン本身也是一些日语词语的发音，比如我以前查到过“方針”读音就与此相同。类似的还有[歌姬狂Kiritaka](#歌姬狂キリタカミューズKiritaka-Muse)，有些翻译君甚至直接把他的名字按日语译成“桐鷹”的。再比如僵尸短篇的Yae，根据她会放苦无的技能说不定她出身也与西方有关，而台版就完全把她名字当日文译成汉字了（Yae Tenzen→八重·天膳）〕
 另外零大以前还针对安娜的中文音译[开过一个帖子](https://tieba.baidu.com/p/5948173277)，也挺有意思
 
 动画一期人设
@@ -421,6 +421,19 @@ Zeropedia
 Zeropedia 2
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/liliana_zp2.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 歌姬狂（キリタカ・ミューズ）：Kiritaka Muse
+
+名拼写出自[动画三期人设](http://re-zero-anime.jp/tv/character/)。
+
+（如[安娜](#安娜アナスタシアホーシンAnastasia-Hoshin)那里讲的题外话，Kiritaka这个名由于蛮像日文语源故早年有的翻译君翻五章Web的时候有把他名字直接当汉字译成桐鷹，虽然好像没有提过他有西方相关的出身，不过水门都市本身就和Kararagi渊源颇深就是）
+
+TV三期人设
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/kiritaka_tv3.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
