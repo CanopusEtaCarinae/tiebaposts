@@ -416,11 +416,15 @@ Zeropedia
 
 #### 莉莉安娜（リリアナ・マスカレード）：Liliana Masquerade
 
-名拼写出自[16卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_1.jpg)，[19卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC19%E5%8D%B7?file=Re_Zero_Light_Novel_19_15.png)。姓氏则是Zeropedia 2给出完整拼写，与[民间常见拼法](https://rezero.fandom.com/wiki/Liliana_Masquerade)一致。另外这姓氏正好是个英语单词，有掩饰化装之类的意思，也不晓得或许会和剧情有什么关系？
+名拼写出自[16卷人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC16%E5%8D%B7?file=Re_Zero_Volume_16_Characters_1.jpg)，[19卷卷尾预告](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC19%E5%8D%B7?file=Re_Zero_Light_Novel_19_15.png)。姓氏则是Zeropedia 2与[动画三期人设](http://re-zero-anime.jp/tv/character/)给出完整拼写，与[民间常见拼法](https://rezero.fandom.com/wiki/Liliana_Masquerade)一致。另外这姓氏正好是个英语单词，有掩饰化装之类的意思，也不晓得或许会和剧情有什么关系？
 
 Zeropedia 2
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/liliana_zp2.png)
+
+TV三期人设
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/liliana_tv3.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
