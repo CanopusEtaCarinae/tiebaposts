@@ -1243,9 +1243,15 @@ TV一期资料集 Visual Commentary中姓氏比上面两个版本多了个d：
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_cb_2_8.png)
 
-包括再后来出版的Zeropedia 2，嗯，随他便罢……
+包括再后来出版的Zeropedia 2，hmmm……
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_zp2.png)
+
+然后三期TV动画再次更新官网人设
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_zp2.png)
+
+好家伙一开始让我意识到问题比较大的就是二期动画官网，你三期就把这也给改回去了………
 
 顺便Granhiert还是异世界多次提及的一种酒，猎肠也确实是用酒取了姓氏，因为第一次划人肚子的玻璃片就是酒瓶的破片
 
