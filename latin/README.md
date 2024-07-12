@@ -519,7 +519,7 @@ Zeropedia 2
 虚饰（パンドラ）： **Pandora** ；<br/>
 忧郁（ヘクトール）： **Hektor**<br/>
 
-除忧郁外魔女的人设都在[10](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_16.jpg)，[11](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC11%E5%8D%B7?file=Re_Zero_Volume_11_4.jpg)，[12卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC12%E5%8D%B7?file=Re_Zero_Volume_12_3.jpg)，[14卷的彩页](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_3.jpg)以及[tv动画人设](http://re-zero-anime.jp/tv/character)给好了，且[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%B0%8F%E8%A1%8C%E6%98%9F%E7%9B%B8%E5%85%B3)中我也说过这些名字也都出自神话以及对应的小行星名（Carmilla有些小疑问，先星空文化贴相应段落）。忧郁则是画集Re：BOX 2，二期BD8和Zeropedia 2中给出了拼写。值得一提的是神话的赫克托耳（Hector）和小行星624（Hektor）的拼写其实不同，本作日语原文是采用的神话版（比小行星版多个长音），而官方三个画集/设定集的英文还是拼成了小行星的版本，也不知在拼写的时候有没有想那么多
+除忧郁外魔女的人设都在[10](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC10%E5%8D%B7?file=Re_Zero_Volume_10_16.jpg)，[11](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC11%E5%8D%B7?file=Re_Zero_Volume_11_4.jpg)，[12卷](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC12%E5%8D%B7?file=Re_Zero_Volume_12_3.jpg)，[14卷的彩页](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC14%E5%8D%B7?file=Re_Zero_Volume_14_3.jpg)以及[tv动画人设](http://re-zero-anime.jp/tv/character)给好了，且[星空文化贴](https://github.com/CanopusEtaCarinae/tiebaposts/tree/master/constellation#%E5%B0%8F%E8%A1%8C%E6%98%9F%E7%9B%B8%E5%85%B3)中我也说过这些名字也都出自神话以及对应的小行星名（Carmilla有些小疑问，见星空文化贴相应段落）。忧郁则是画集Re：BOX 2，二期BD8和Zeropedia 2中给出了拼写。值得一提的是神话的赫克托耳（Hector）和小行星624（Hektor）的拼写其实不同，本作日语原文是采用的神话版（比小行星版多个长音），而官方三个画集/设定集的英文还是拼成了小行星的版本，也不知在拼写的时候有没有想那么多
 
 Re：BOX 2
 
@@ -1249,7 +1249,7 @@ TV一期资料集 Visual Commentary中姓氏比上面两个版本多了个d：
 
 然后三期TV动画再次更新官网人设
 
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_zp2.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/elsa_tv3.png)
 
 好家伙一开始让我意识到问题比较大的就是二期动画官网，你三期就把这也给改回去了………
 
