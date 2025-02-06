@@ -456,7 +456,9 @@ Altair的语义还可追溯至两河文明，当时Altair就有“老鹰之星�
 
 &nbsp;
 
-**『傲慢』魔女Typhon** ：小行星[42355 Typhon](https://en.wikipedia.org/wiki/42355_Typhon)，中译台神星（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=20049)），为[黄道离散天体](https://zh.wikipedia.org/wiki/%E9%9B%A2%E6%95%A3%E7%9B%A4)。名取自希腊神话中的万妖之祖[堤丰](https://zh.wikipedia.org/wiki/%E5%A0%A4%E4%B8%B0)。值得一提的是本作里的Typhon日文原文是テュフォン，日语里的小行星42355也是テュフォン，而神话的Typhon则有好几种写法如「テューポーン」「テュポン」「テュポーン」「テュポエウス」「テュフォン」「ティフォン」。本作看样子是直接取的小行星名了<br/>
+**『傲慢』魔女Typhon** ：小行星[42355 Typhon](https://en.wikipedia.org/wiki/42355_Typhon)，中译台神星（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=20049)），为[黄道离散天体](https://zh.wikipedia.org/wiki/%E9%9B%A2%E6%95%A3%E7%9B%A4)。名取自希腊神话中的万妖之祖[堤丰](https://zh.wikipedia.org/wiki/%E5%A0%A4%E4%B8%B0)。值得一提的是本作里的Typhon日文原文是テュフォン，日语里的小行星42355也是テュフォン，而神话的Typhon则有好几种写法如「テューポーン」「テュポン」「テュポーン」「テュポエウス」「テュフォン」「ティフォン」。本作看样子是直接取的小行星名了
+
+顺便，在25年2月5号老贼[突然发推](https://twitter.com/nezumiironyanko/status/1887035805702705442)给当天设成了Typhon生日。原本只是以为是当天更新的[九章21节](https://ncode.syosetu.com/n2267be/716/)提到Typhon使徒的原因，结果后来又[被Ice发现](https://twitter.com/LoremIpsumVerb/status/1887471417836319081)2月5号竟然就是台神星的发现日期……这如果真不是老贼故意的话那也实在是巧合得有点令人惊诧🥶<br/>
 <br/>
 
 **『强欲』魔女Echidna** ：台神星的卫星，也译台卫（译名来自[NADC天文学名词库](https://nadc.china-vo.org/astrodict/termdetails?id=20050)），名取自万妖之祖堤丰之妻[厄客德娜](https://zh.wikipedia.org/wiki/%E5%8E%84%E5%AE%A2%E5%BE%B7%E5%A8%9C)<br/>
