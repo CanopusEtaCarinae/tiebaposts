@@ -990,7 +990,7 @@ Re: BOX
 
 #### 剑圣家双子女仆（フラム、グラシス）：名 Flam、Grassis
 
-这俩的名字目前也仅在Zeropedia 2中有给出名的拼写，与Fandom上[两](https://rezero.fandom.com/wiki/Flam_Remendis)i[人](https://rezero.fandom.com/wiki/Grassis_Remendis)的拼法相同：
+这俩的名字目前在Zeropedia 2中和[39卷人设](https://rezero.fandom.com/wiki/Re:Zero_Light_Novel_Volume_39?file=Re_Zero_Light_Novel_39_1.png)里有给出名的拼写，与Fandom上[两](https://rezero.fandom.com/wiki/Flam_Remendis) [人](https://rezero.fandom.com/wiki/Grassis_Remendis)的拼法相同：
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/flam_grassis_zp2.png)
 
@@ -1019,11 +1019,9 @@ Re: BOX
 
 #### 『过路魔』缇雅（ザーレスティア）：昵称 Tier
 
-四大精灵之一。目前唯一只有个昵称ティア的出处是Re：BOX 2画集。[Fandom](https://rezero.fandom.com/wiki/Zarestia)上拼写的全Zarestia从昵称取尾音看和官方拼写不同，估计官方全名也不会照Fandom那样拼了。而且官方估计也不会有什么机会再给缇雅的人设，大概全名以后也不会有官方设定
+四大精灵之一。目前唯一只有个昵称ティア的出处是Re：BOX 2画集。[Fandom](https://rezero.fandom.com/wiki/Zarestia)上拼写的全Zarestia从昵称取尾音看和官方拼写不同，估计官方全名也不会照Fandom那样拼了。截至笔者更新当前（文库进度39卷）预计缇雅会在Al篇的蜜瓜特典里出场，只在特典的话也不确定官方会不会有机会再给官设了
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/tier_rebox2.png)
-
-（姓氏[Fandom](https://rezero.fandom.com/wiki/Ezzo_Cadner)拼作Cadner仅供参考）
 
 [返回目录](#目录-1)<br/>
 <br/>
