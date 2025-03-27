@@ -43,7 +43,7 @@
 
 [八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [奥托的地龙](#奥托的地龙フルフーFrufoo) &nbsp; [Mirula小镇地龙](#Mirula小镇地龙ヨーゼフJoseph)
 
-[亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk) &nbsp; [坦萨](#坦萨タンザTanza)
+[亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk) &nbsp; [坦萨](#坦萨タンザTanza) &nbsp; [八重/娅艾](#八重娅艾ヤエテンゼンYae-Tenzen)
 
 **部分姓名有出处：**
 
@@ -794,6 +794,17 @@ Complete Guidebook
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 八重/娅艾（ヤエ・テンゼン）：Yae Tenzen
+
+[40卷卷尾预告](https://rezero.fandom.com/wiki/Re:Zero_Light_Novel_Volume_40?file=Re_Zero_Light_Novel_40_15.png)先给了名的拼写Yae，本以为这卷没人设估计姓一时半会也出不来，结果随后的CA短篇直接就给了个Yae的全名拼写
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/yae_ca.png)
+
+和[Fandom](https://rezero.fandom.com/wiki/Yae_Tenzen)一直以来的拼写也一致。（说起来Yae这个名字从台版短篇集4开始似乎多数人都给当作日文译成八重·天膳，Yae作为忍者出身倒也确实有名字也是和式的可能，不过我还是习惯性把多数人当成西式名字看待，因此小标题里也还是私心保留了个纯音译了😷
+
+[返回目录](#目录-1)<br/>
+<br/>
+
 ---
 
 ### 部分姓名有出处
@@ -1433,6 +1444,11 @@ hmmmm……这意思官方以后是真打算改u了……？
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/schuldt_zp2.png)
 
 这反倒是官方从没用过不带d的拼法了（即使杂志上搞了个拼错的版本）。虽然带d和不带d的在现实英文名中都有，但以官方出版看来，基本上如果日后官方再出新的设定要还是带d的，也就可以将民间拼法视为错的了
+
+然后25年3月的杂志短篇是个关于Yae的，结果杂志上的人设又给来了个Schultd……也是不知道又抽什么风😵
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/schultd2.png)
+
 
 [返回目录](#目录-1)<br/>
 <br/>
