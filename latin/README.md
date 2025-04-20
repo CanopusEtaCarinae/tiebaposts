@@ -409,7 +409,7 @@ Zeropedia
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/al_zpedia.png)
 
-说起来Al作为日本来的穿越者，Aldebaran这种名字肯定是穿越之后取的，N多年后会不会讲他的本名也不好说
+以前觉得Al作为日本来的穿越者Aldebaran这种名字肯定是穿越之后取的。到笔者更新本文当前（进度九章二十多节）此事又扑朔迷离了，也不知以后会不会在他身上有更新
 
 [返回目录](#目录-1)<br/>
 <br/>
