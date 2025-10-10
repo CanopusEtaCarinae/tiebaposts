@@ -234,7 +234,9 @@ Zeropedia 2
 
 #### 菲鲁特（フェルト）：Felt
 
-出自[一卷彩插人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_19.jpg)和[TV动画人设](http://re-zero-anime.jp/tv/character)等。不过菲鲁特真名未知，也只能先用已知资料列在这了
+出自[一卷彩插人设](https://rezero.fandom.com/zh/wiki/%E6%96%87%E5%BA%93%E6%AD%A3%E4%BC%A0%E7%AC%AC1%E5%8D%B7?file=Re_Zero_Volume_1_19.jpg)和[TV动画人设](http://re-zero-anime.jp/tv/character)等。
+
+另外菲鲁特这名字根据五章肯定是假名，她身份大家也都猜是当年被拐的王族遗孤，这个遗孤的名字在九章有出现了，不过截至笔者更新当前（九章未完）还未100%实锤，就还是把遗孤的名字另开条目放在[后面和王族一起](#亲龙王国王族)了
 
 [返回目录](#目录-1)<br/>
 <br/>
@@ -739,7 +741,7 @@ Complete Guidebook
 
 **被拐王族遗孤，疑似菲鲁特真名（フィルオレー・ルグニカ）：Fillole Lugunica**
 
-九章出现了当年被拐的王族遗孤的名字，结果42卷卷尾让剧情里装作被暴食吃的菲鲁特做预告的时候直接[把这名字也打上了](https://rezero.fandom.com/wiki/Re:Zero_Light_Novel_Volume_42?file=Re_Zero_Light_Novel_42_15.png)
+九章出现了疑似[菲鲁特](#菲鲁特フェルトFelt)真名的当年被拐的王族遗孤的名字，结果42卷卷尾让剧情里装作被暴食吃的菲鲁特做预告的时候直接[把这名字也打上了](https://rezero.fandom.com/wiki/Re:Zero_Light_Novel_Volume_42?file=Re_Zero_Light_Novel_42_15.png)
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/felt-fillole.png)
 
