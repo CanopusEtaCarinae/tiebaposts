@@ -816,6 +816,17 @@ Complete Guidebook
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 复元术师达兹/达茨（ダーツ）：Darts
+
+出自短篇Priestella Rhapsody杂志版的人设。Darts目前不清楚有没有姓氏，提到他的也只有提到ダーツ这个称呼而已，姑且先当成全名了
+
+Priestella Rhapsody杂志人设
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/darts_ca.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
 ---
 
 ### 部分姓名有出处
