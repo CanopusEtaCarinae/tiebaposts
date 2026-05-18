@@ -43,7 +43,7 @@
 
 [八腕斗神](#八腕斗神クルガンKurgan) &nbsp; [麦克罗托夫/麦克罗特福](#麦克罗托夫麦克罗特福マイクロトフマクマホンMiklotov-McMahon) &nbsp; [近卫骑士团团长](#近卫骑士团团长マーコスギルダークMarcos-Gildark) &nbsp; [IF线486子女](#IF线中486与蕾姆子女Rigel-Natsuki和Spica-Natsuki) &nbsp; [迈尔斯](#迈尔斯マイルズMiles) &nbsp; [奥托的地龙](#奥托的地龙フルフーFrufoo) &nbsp; [Mirula小镇地龙](#Mirula小镇地龙ヨーゼフJoseph)
 
-[亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk) &nbsp; [坦萨](#坦萨タンザTanza) &nbsp; [八重/娅艾](#八重娅艾ヤエテンゼンYae-Tenzen)
+[亲龙王国王族](#亲龙王国王族) &nbsp; [帝国皇族](#帝国皇族) &nbsp; [剑奴女帝](#剑奴女帝ホーネットHornet) &nbsp; [乌比路克](#乌比路克ウビルクUbirk) &nbsp; [坦萨](#坦萨タンザTanza) &nbsp; [八重/娅艾](#八重娅艾ヤエテンゼンYae-Tenzen) &nbsp; [复元术师达兹/达茨](#复元术师达兹达茨ダーツDarts)
 
 **部分姓名有出处：**
 
