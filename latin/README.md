@@ -1050,6 +1050,20 @@ Re: BOX
 [返回目录](#目录-1)<br/>
 <br/>
 
+#### 加菲猫弟妹（ラフィール・トンプソン、フレド・トンプソン）名Fred、Rafiel
+
+水门篇加菲猫遇到的弟弟妹妹，名拼写出自短篇Priestella Rhapsody杂志版的人设。姓氏[Fandom](https://rezero.fandom.com/wiki/Fred_Thompson)拼作Thompson，虽然暂无官方出版物明确不过这种本来就很常见的西方姓氏估计也没啥可不对的。
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/tier_rebox2.png)
+
+Priestella Rhapsody杂志人设
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/Fred_ca.png)
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/Rafiel_CA.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
 #### 『过路魔』缇雅（ザーレスティア）：昵称 Tier
 
 四大精灵之一。目前唯一只有个昵称ティア的出处是Re：BOX 2画集。[Fandom](https://rezero.fandom.com/wiki/Zarestia)上拼写的全Zarestia从昵称取尾音看和官方拼写不同，估计官方全名也不会照Fandom那样拼了。截至笔者更新当前（文库进度39卷）预计缇雅会在Al篇的蜜瓜特典里出场，只在特典的话也不确定官方会不会有机会再给官设了
