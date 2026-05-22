@@ -820,6 +820,8 @@ Complete Guidebook
 
 出自短篇Priestella Rhapsody杂志版的人设。Darts目前不清楚有没有姓氏，提到他的也只有提到ダーツ这个称呼而已，姑且先当成全名了
 
+（[Fandom](https://rezero.fandom.com/wiki/Dartz)上是拼作Dartz，虽然按经验杂志上的拼写也不一定就是板上钉钉，不过既然有这么个算官方的版本就当Fandom上的不被官方接受了）
+
 Priestella Rhapsody杂志人设
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/darts_ca.png)
