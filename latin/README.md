@@ -1056,8 +1056,6 @@ Re: BOX
 
 水门篇加菲猫遇到的弟弟妹妹，名拼写出自短篇Priestella Rhapsody杂志版的人设。姓氏[Fandom](https://rezero.fandom.com/wiki/Fred_Thompson)拼作Thompson，虽然暂无官方出版物明确不过这种本来就很常见的西方姓氏估计也没啥可不对的。
 
-![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/tier_rebox2.png)
-
 Priestella Rhapsody杂志人设
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/Fred_ca.png)
