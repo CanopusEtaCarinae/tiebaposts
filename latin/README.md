@@ -49,9 +49,9 @@
 
 [琉兹](#琉兹リューズ名-Ryuzu姓氏复制体和本体均不同) &nbsp; [阿拉姆村孩子们](#阿拉姆村的孩子们) &nbsp; [罗姆爷](#罗姆爷) &nbsp; [苹果大叔](#苹果大叔カドモンリッシュ名-Kadomon) &nbsp; [阿奇/亚奇](#阿奇亚奇アーチエリオール名-Archi)
 
-[格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [康吾德/克伍德](#康吾德克伍德コンウッドメラハウ名-Conwood)
+[格林/格利姆](#格利姆格林グリムファウゼン名-Grimm) &nbsp; [卡罗/卡罗尔/珈洛儿](#卡罗卡罗尔珈洛儿キャロルレメンディス名-Carol) &nbsp; [波尔多](#波尔多ボルドーツェルゲフ名-Bordeaux) &nbsp; [皮波特/皮傅特](#皮波特皮傅特ピボットアーナンシー名-Pivot) &nbsp; [利布雷](#利布雷リブレフエルミ名-Libre) &nbsp; [康吾德/克伍德](#康吾德克伍德コンウッドメラハウ名-Conwood) &nbsp; [李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert)
 
-[李凯尔特/利凯鲁特](#李凯尔特利凯鲁特リッケルトホフマン名-Rickert) &nbsp; [拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [三混混](#三混混ガストンラチンスホフマンカンバリーGastonRachinsCamberley) &nbsp; [剑圣家双子女仆](#剑圣家双子女仆フラムレメンディスグラシスレメンディス名-flamgrassis) &nbsp; [加菲猫弟妹](#加菲猫弟妹ラフィールトンプソンフレドトンプソン名-FredRafiel) &nbsp; [『过路魔』（大精灵）](#过路魔缇雅ザーレスティア昵称-Tier)
+[拉塞尔](#拉塞尔ラッセルフェロー名-Russell) &nbsp; [前代『青』](#前代青ガリッチファブレス名-Garlic) &nbsp; [三混混](#三混混ガストンラチンスホフマンカンバリーGastonRachinsCamberley) &nbsp; [剑圣家双子女仆](#剑圣家双子女仆フラムレメンディスグラシスレメンディス名-flamgrassis) &nbsp; [加菲猫弟妹](#加菲猫弟妹ラフィールトンプソンフレドトンプソン名-FredRafiel) &nbsp; [白龙之鳞团长](#白龙之鳞团长ダイナストラサルデ名-Dinas) &nbsp; [『过路魔』（大精灵）](#过路魔缇雅ザーレスティア昵称-Tier)
 
 [弗洛普](#弗洛普フロップオコーネル名-Flop) &nbsp; [米迪阿姆/米迪娅姆](#米迪阿姆米迪娅姆ミディアムオコーネル名-Medium) &nbsp; [托德](#托德トッドファング名-Todd) &nbsp; [贾马尔](#贾马尔ジャマルオーレリー名-Jamal) &nbsp; [卡秋娅](#卡秋娅カチュアオーレリー名-Catiua) &nbsp; [兹克尔/槜克尔二将](#兹克尔槜克尔二将ズィクルオスマン名-Zikr) &nbsp; [毒姬](#毒姬ラミアゴドウィン名-Lamia)
 
@@ -1060,6 +1060,17 @@ Priestella Rhapsody杂志人设
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/Fred_ca.png)
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/Rafiel_CA.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 白龙之鳞团长（ダイナス・トラサルデ）名 Dinas
+
+Kiritaka的佣兵团白龙之鳞的团长，同上拼写出自Priestella Rhapsody杂志版的人设。有趣的是团长的姓氏在小说里其实一直都没提，是动画三期最终话由饱食说的。另外[Fandom](https://rezero.fandom.com/wiki/Dynas_Trussardi)上名字是拼作Dynas而非Dinas，我倒是觉得Fandom这里好像适合点，Dinas感觉听上去是迪纳斯而不是戴纳斯了（没错如果对Kingdom Rush系列有了解的话看到Dinas岂不是有点出戏）。不过目前出版物里有团长拼写的仅有此处，暂且也就先以杂志上这个拼写为准了
+
+Priestella Rhapsody杂志人设
+
+![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/dinas_ca.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
