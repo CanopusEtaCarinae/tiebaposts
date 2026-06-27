@@ -57,6 +57,10 @@
 
 [帝国宰相](#帝国宰相ベルステツフォンダルフォン名-Belstets) &nbsp; [乔拉（中级伯爵）](#乔拉ジョラーペンダルトン名-Jorah) &nbsp; [灼热公](#灼热公セリーナドラクロイ名-Serena) &nbsp; [塔丽塔](#塔丽塔タリッタシュドラク名-Tarita) &nbsp; [荷莉/霍莉](#荷莉霍莉ホーリィ名-Hawley) &nbsp; [库娜](#库娜クーナ名-Khouna)
 
+[帝国宰相](#帝国宰相ベルステツフォンダルフォン名-Belstets) &nbsp; [乔拉（中级伯爵）](#乔拉ジョラーペンダルトン名-Jorah)
+
+[狄加](#狄加ティーガラウレオン名-Tiga) &nbsp; [莎克拉](#莎克拉サクラエレメント名-Sakura)
+
 <!--Shorty Lululala-->
 
 **车祸现场：**
@@ -745,6 +749,8 @@ Complete Guidebook
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/felt-fillole.png)
 
+同时十章登场的那位撞名新王选候补也是这个拼写，见[45卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:45%E5%8D%B7?file=Re_Zero_Light_Novel_45_1.png)。截至笔者更新时这位的身份还完全不清楚，暂时也不给她单开一栏了
+
 [返回目录](#目录-1)<br/>
 <br/>
 
@@ -1187,6 +1193,24 @@ Jamal之妹，托德未婚妻。拼写出自[30卷人设](https://rezero.fandom.
 出处[同上](https://rezero.fandom.com/zh/wiki/27%E5%8D%B7?file=Embed0017_HD.jpg)，且民间和Fandom也与官设有区别为[Kuna](https://rezero.fandom.com/wiki/Kuna)，现以官方为准。姓氏情况同上暂时按fandom默认以Shudrak为姓，拼写仅供参考。
 
 ![](https://github.com/CanopusEtaCarinae/tiebaposts/blob/master/latin/image/khouna.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 狄加（ティーガ・ラウレオン）：名 Tiga
+
+原为伪王选候补游戏角色，后在十章转正，[45卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:45%E5%8D%B7?file=Re_Zero_Light_Novel_45_1.png)上给出了名的拼写。姓氏[fandom](https://rezero.fandom.com/wiki/Tiga_Rauleon)拼作Rauleon，与游戏ED给的拼写一致。如上所说，ED Cast表暂不当作正式出处
+
+![](image/tiga_game.png)
+
+[返回目录](#目录-1)<br/>
+<br/>
+
+#### 莎克拉（サクラ・エレメント）：名 Sakura
+
+同上为十章转正的伪王选候补游戏角色并在[45卷人设](https://rezero.fandom.com/zh/wiki/%E5%B0%8F%E8%AF%B4:45%E5%8D%B7?file=Re_Zero_Light_Novel_45_1.png)给出名的拼写。姓氏[fandom](https://rezero.fandom.com/wiki/Sakura_Element)拼作Element，也和游戏ED一样。说起来这个角色名字也是很奇妙，名和日语的樱花一样，姓不管是不是真有这意思反正目前拼成拉丁拼法的都是英文单词element，这种姓和名都和现实词语撞了的也不清楚是不是有什么用意，游戏里是色欲手下也看不出有什么关系就是（截至笔者更新时十章还仅出两卷未实锤正传中设定）。
+
+![](image/sakura_game.png)
 
 [返回目录](#目录-1)<br/>
 <br/>
